@@ -164,11 +164,11 @@ You may end up doing these in a different order, but this is the gist of it.
 	2. Things to know
 2. Say “hi” in #general on Slack and share something about yourself: Where are you from? What do you like to do? Why did you join Truss?
 3. Have your onboarding meeting
-	a. Review our :lock:[laptop setup and security guidelines](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs)
-	b. Set up your accounts in the order they occur in this guide
+	1. Review our :lock:[laptop setup and security guidelines](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs)
+	2. Set up your accounts in the order they occur in this guide
 4. Meet other people
-	a. Meet with your manager (this is usually pre-scheduled for your first day)
-	b. Meet with your onboarding buddy
+	1. Meet with your manager (this is usually pre-scheduled for your first day)
+	2. Meet with your onboarding buddy
 
 During your first week, you’ll:
 1. Get to know your practice area
@@ -189,7 +189,7 @@ Here’s who to contact for help on :lock:[various business systems](https://doc
 ## Tool: Google Mail (email)
 We use G Suite for email, calendar, and shared files, as well as groups and a few other tools. 
 
-The first part to work with is mail. You’ll need to log in to your username@truss.works email account to get all your other invites. 
+The first part to work with is mail. You’ll need to log in to your `username@truss.works` email account to get all your other invites. 
 
 When you log in for the first time, your inbox will be full of calendar invites, shared document links, and tool invites. Hopefully, your onboarding meeting + this guide will help you make sense of the deluge.
 
@@ -235,8 +235,8 @@ All employees get a Zoom Pro account, so they can host meetings lasting unlimite
 When you set up Zoom, you should assign scheduling privileges to our scheduling helpers so they can add (or remove) meetings on your schedule. 
 
 * Log in to Zoom https://zoom.us/signin
-* Select Settings from left navigation
-* Click or scroll down to Other and find Schedule Privilege
+* Select **Settings** from left navigation
+* Click or scroll down to **Other** and find **Schedule Privilege**
 * Click the plus sign and assign to the list of emails that appears when you type in `!aim2assist` in Slack
 
 
@@ -246,7 +246,7 @@ Please set your **host key** to our standard internal key. This will allow other
 * Select **Profile** from the left navigation
 * Scroll to **Host Key** and click edit
 * Find out our number by typing `zoom host key` in Slack
-Replace your host key with **XXXXXX** and click save.
+* Replace your host key with the `zoom host key` and click save.
 
 :lock:[Here is a doc of the tips and tricks we’ve figured out for using Zoom as a Trussel](https://docs.google.com/document/d/1P2QzYm5v21IdrgbDjEZG2kq9E5GCu5lcSPv-2-2RxCg/edit). 
 And as a reminder, you should :lock:[put your pronouns in your Zoom name](https://docs.google.com/document/d/1SpPbSjx7I7Ur9izRrLK-dGFIxYM9gYcx9sqyvLFWiBE/edit).
@@ -259,7 +259,7 @@ Here's how we use it:
 
 * If the information should be private to you (drafts you don't want to share, or peer feedback that isn't public and should only be shared with a couple of people), use **My Drive**.
 * If the information should be available to people within the company, use the :lock:[Truss team drive](https://drive.google.com/drive/folders/0APZc5sQxIgqkUk9PVA). **Most information should be stored here**. We are very comfortable with internal visibility of information. To help prevent accidental sharing of confidential information, this drive does not allow sharing to people outside of Truss.
-* If the information should be shared with people outside of the company, put it in the [Truss Public team drive](https://drive.google.com/drive/folders/0AJZ0utk62DucUk9PVA). This drive does allow sharing with people outside of Truss. We have a :lock:[doc explaining how to share with external folks](https://docs.google.com/document/d/1fWyJM98e30iRKztEHil5TtgRCf8ZlNqjBkN3vxYANos/edit#). 
+* If the information should be shared with people outside of the company, put it in the :lock:[Truss Public team drive](https://drive.google.com/drive/folders/0AJZ0utk62DucUk9PVA). This drive does allow sharing with people outside of Truss. We have a :lock:[doc explaining how to share with external folks](https://docs.google.com/document/d/1fWyJM98e30iRKztEHil5TtgRCf8ZlNqjBkN3vxYANos/edit#). 
 
 There are a handful of Team drives for the small amount of truly confidential information we have. If you need access to one of those to do your job, someone will add you.
 
@@ -270,6 +270,7 @@ While it could be better organized, files are named clearly enough that poking a
 It’s pleasantly surprising just how much supporting documentation we have. It’s worth searching (and asking) for files that might help you to better understand the problem at hand. There is currently a working group (#wg-info-architecture) to provide naming conventions and better organization.
 
 **A note on commenting on docs**
+
 Truss is a highly collaborative environment, and we tend to leave a lot of comments for each other on docs. 
 
 You won’t know if people have responded on or added conversations to docs you care about unless you change your notification settings. Click on "Notifications" and select "All".
@@ -298,9 +299,9 @@ Want to know who you’re working with? :lock:  [Here's a complete list of Truss
 ## Group: Founders
 Truss has three founders:
 
-* Everett, our CEO. He’ll be interested in your passions and how to align them with Truss’s values, practices, and goals so we can all be stronger together.
-* Mark, our CTO. He’ll be interested in learning with you (especially about new tools), and why and when we adopt things.
-* Jen, our COO. She’ll be interested in how to further improve our team and workplace through empathy, process, and gains in productivity.
+* **Everett**, our CEO. He’ll be interested in your passions and how to align them with Truss’s values, practices, and goals so we can all be stronger together.
+* **Mark**, our CTO. He’ll be interested in learning with you (especially about new tools), and why and when we adopt things.
+* **Jen**, our COO. She’ll be interested in how to further improve our team and workplace through empathy, process, and gains in productivity.
 
 They are all great and approachable.
 
@@ -343,7 +344,7 @@ Projects that span the whole company are managed via CWP, a monthly meeting on t
 
 Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), operational disciplines are done via committee or as a team, and practice areas are covered by #bubble-prince. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1). 
 
-All CWPs are listed in the [CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit#gid=1363518626).
+All CWPs are listed in the :lock:[CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit#gid=1363518626).
 
 ## Tool: Harvest (timekeeping)
 We keep track of our time using a tool called Harvest. It can be used as a web interface, desktop application, and on mobile (or any combination of these). Please take a look at our :lock:[internal guide about how to use Harvest](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit#).
@@ -363,11 +364,10 @@ A note on @channel and @here:
 
 * These are useful tools if you need to get everyone’s attention
 * @here only pings people who are currently active in Slack
-Useful when you’re not sure who specifically to ping, but you’d like some assistance on something.
-
+	* Useful when you’re not sure who specifically to ping, but you’d like some assistance on something.
 * @channel will ping everyone who does not have do not disturb turned on. DND is defaulted to 6p to 8a local time in our Slack. Use @channel wisely. For example:
-you need all hands on deck for an outage or
-something is important enough that e v e r y o n e in the channel needs to know right now.
+	* you need all hands on deck for an outage or
+	* something is important enough that e v e r y o n e in the channel needs to know right now.
 
 :lock:[Specify the time zone](https://docs.google.com/document/d/1tHs182Y5sE5FyVU9jCmJxbdMYiEegNcQG2tYc_QWvfU/edit) when you mention a specific time. We have Trussels spread across the US, and we don’t default to a particular time zone across the company.
 
@@ -402,7 +402,7 @@ We want to let the world know you work here! Please submit your headshot and bio
 ## Tool: Alternate email address
 While working with government agencies, you will often encounter websites that do not recognize your @truss.works email. 
 
-If you need to sign up with a system like that, you can use **username@teamtrussworks.com** to circumvent this issue. This alias is automatically created when your @truss.works address is created. 
+If you need to sign up with a system like that, you can use `**username@teamtrussworks.com**` to circumvent this issue. This alias is automatically created when your @truss.works address is created. 
 
 Only use the alternative one when necessary.
 
@@ -415,6 +415,7 @@ When we hire, we want to be sure we maintain our values and expand our diversity
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process. 
 * :lock:[These are the positions we are currently hiring for](https://docs.google.com/spreadsheets/d/13_DFMpOHwN4vAl3lRSHze46pJm5GCzIcrbMCgJgiumA).
 * We use Lever to track our hiring pipeline. See the next section.
+
 You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them. 
 
 Ask in #hiring for support or pairing if you want! Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag if you’re approaching that threshold or are otherwise feeling distress. 
@@ -478,6 +479,7 @@ Here are a few best practices:
 * We each have $10 allotted to us each month as a “discretionary kindness budget.” If you want to send someone a present, card, etc, you are welcome to do so within this budget.
 * \#book-club — a Slack channel where we pick a book to read together, and then get together to discuss it.
 * \#movie-club — a Slack channel where we pick a movie to watch asynchronously and then get together to discuss it
+
 See these (and more!) in the :lock:[including distributed folk doc](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), or find the once monthly meeting on the Truss Company-Wide calendar.
 
 ## Practice: 36 client hour week
@@ -503,7 +505,7 @@ Remember in week one when we talked about digital screens? Review that section t
 ## Resource: Support
 We have a team that acts as both executive assistants for some folk and to schedule interviews for hiring. 
 
-If you ever want to schedule something and include an oversubscribed person (usually Bubbles), please check the pinned message in #aimtoassist to see who wrangles them. They can see some things on calendars other Trussels can’t. 
+If you ever want to schedule something and include an oversubscribed person (usually Bubbles), please check the pinned message in #aim2assist to see who wrangles them. They can see some things on calendars other Trussels can’t. 
 
 If you have questions about a scheduled interview or something else related to hiring, ping @hiring-support.
 
@@ -515,10 +517,9 @@ We track our expenses in Expensify. You’ll set up an account and join our orga
 * Tag transactions with the client name.
 * Select “reimbursable” if it you paid with a personal card or cash.
 * Set up auto reporting. At least once a month is great.
-Details on how to do so are forthcoming. In the meantime, ask in #accounting
-Default to Truss group policy
-It’s probably worth doing a pass through all of those screens if you want to enable the automation. There’s a lot in there that can make it work better, or that can hose you if you screwed around before.
-
+	* Details on how to do so are forthcoming. In the meantime, ask in #accounting
+	* Default to Truss group policy
+	* It’s probably worth doing a pass through all of those screens if you want to enable the automation. There’s a lot in there that can make it work better, or that can hose you if you screwed around before.
 * For any amount over $75, please include a picture of the receipt. For most expenses below that, Expensify’s auto-generated receipt is acceptable. The exception is lodging. [We *always* need a receipt for lodging](https://blog.expensify.com/2011/03/04/from-the-help-desk-how-do-we-know-your-ereceipts-will-stand-up-to-an-irs-audit/).
 * :lock:[Common questions about categories and how to file reports are answered in this doc](https://docs.google.com/document/d/1HF17jjmPVt6UznpvJccGszzdI71WueJxlQ8R62wypSs/edit). Also includes how-to for our credit card, including what address to use.
 
@@ -540,7 +541,7 @@ Once a quarter, Bubbles present an update on the company — how we’re doing, 
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
 
 ## Practice: Company retros every quarter
-In order to have a continual improvement of Truss, and to have an environment to air issues towards resolution, we host an organizational retro approximately once a quarter. You can read more about the process, including how we deal with action items, :lock:[here](https://docs.google.com/document/d/1otre3SpTU_eIpj4LlHNk3kt8FEPvdWIfQ-wRDNjWTLA/edit#).
+In order to have a continual improvement of Truss, and to have an environment to air issues towards resolution, we host an organizational retro approximately once a quarter. You can read more about the process, including how we deal with action items, in :lock:[this retro how-to doc](https://docs.google.com/document/d/1otre3SpTU_eIpj4LlHNk3kt8FEPvdWIfQ-wRDNjWTLA/edit) which covers how to use Retrium as well.
 
 ### Tool: Retrium (retro support)
 Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #bizops to be added to the list of approved users.
