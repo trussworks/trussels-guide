@@ -2,7 +2,7 @@ This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We sha
 
 > **Disclaimer**: Hi, friend! Thanks for caring so much about this that you are reading the disclaimer! We super-duper appreciate it. Our lawyers need you to know that the Trussel Guide to Truss is a reflection of Trussel’s personal experiences, and neither Truss nor any of its employees are making any promises about anything. In other words, we (that’s all of us) hereby disclaim any and all warranties, duties or guarantees and this document is presented “AS IS”. You assume any and all risks if you incorporate or adopt any of these practices. Also, we make no promises about merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort, lack of negligence, or whether reading this a loud at midnight after the correct eldritch sacrifices may summon an unknowable horror that devours souls and flesh alike. We have no idea and make no promises! Whatever happens is all on you. Hooray!
 
-> **Disclaimer for Trussels**: Disclaimer: This is a living document and should be considered malleable and fallible. The Founders have not read this document in a long time, and certainly do not read every edit. It really is not an employee handbook or formal statement of policy. If you have any questions about this guide or want to know Truss’s policy on any of these issues, please contact Jen or another Founder. If something seems like it’s wrong, or missing, or whatever, please suggest a change or add a comment directly in this doc, or post about it in #onboarding on Slack. You can see when it was last updated in the version history.
+> **Disclaimer for Trussels**: This is a living document and should be considered malleable and fallible. The Founders have not read this document in a long time, and certainly do not read every edit. It really is not an employee handbook or formal statement of policy. If you have any questions about this guide or want to know Truss’s policy on any of these issues, please contact Jen or another Founder. If something seems like it’s wrong, or missing, or whatever, please suggest a change or add a comment directly in this doc, or post about it in #onboarding on Slack. You can see when it was last updated in the version history.
 
 # Pre-First-Day
 Hello, and welcome to Truss! 
@@ -160,8 +160,8 @@ You can find stories in our :lock:[Hiring, Recruiting, and Onboarding Pivotal](h
 
 You may end up doing these in a different order, but this is the gist of it.
 1. Revisit some things from your pre-first-day email
-	a. What to expect on your first day
-	b. Things to know
+	1. What to expect on your first day
+	2. Things to know
 2. Say “hi” in #general on Slack and share something about yourself: Where are you from? What do you like to do? Why did you join Truss?
 3. Have your onboarding meeting
 	a. Review our :lock:[laptop setup and security guidelines](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs)
