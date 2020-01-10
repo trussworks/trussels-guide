@@ -1,11 +1,13 @@
 This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do.
 
-> Disclaimer: Hi, friend! Thanks for caring so much about this that you are reading the disclaimer! We super-duper appreciate it. Our lawyers need you to know that the Trussel Guide to Truss is a reflection of Trussel’s personal experiences, and neither Truss nor any of its employees are making any promises about anything. In other words, we (that’s all of us) hereby disclaim any and all warranties, duties or guarantees and this document is presented “AS IS”. You assume any and all risks if you incorporate or adopt any of these practices. Also, we make no promises about merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort, lack of negligence, or whether reading this a loud at midnight after the correct eldritch sacrifices may summon an unknowable horror that devours souls and flesh alike. We have no idea and make no promises! Whatever happens is all on you. Hooray!
+> **Disclaimer**: Hi, friend! Thanks for caring so much about this that you are reading the disclaimer! We super-duper appreciate it. Our lawyers need you to know that the Trussel Guide to Truss is a reflection of Trussel’s personal experiences, and neither Truss nor any of its employees are making any promises about anything. In other words, we (that’s all of us) hereby disclaim any and all warranties, duties or guarantees and this document is presented “AS IS”. You assume any and all risks if you incorporate or adopt any of these practices. Also, we make no promises about merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort, lack of negligence, or whether reading this a loud at midnight after the correct eldritch sacrifices may summon an unknowable horror that devours souls and flesh alike. We have no idea and make no promises! Whatever happens is all on you. Hooray!
+
+> **Disclaimer for Trussels**: Disclaimer: This is a living document and should be considered malleable and fallible. The Founders have not read this document in a long time, and certainly do not read every edit. It really is not an employee handbook or formal statement of policy. If you have any questions about this guide or want to know Truss’s policy on any of these issues, please contact Jen or another Founder. If something seems like it’s wrong, or missing, or whatever, please suggest a change or add a comment directly in this doc, or post about it in #onboarding on Slack. You can see when it was last updated in the version history.
 
 # Pre-First-Day
 Hello, and welcome to Truss! 
 
-We’ve written this to help give you a sense of what you’re getting yourself into. Some links won’t work until you have your @truss.works email address, but the gist is still there. 
+We’ve written this to help give you a sense of what you’re getting yourself into. Most links won’t work until you have your @truss.works email address, but the gist is still there. All such links are marked with a :lock: before the link.
 
 Please take a look and let us know if you have any questions.
 
@@ -24,7 +26,7 @@ Please take a look and let us know if you have any questions.
 ### Things we're sending you
 * Invitation to **Gusto** — more on that later — arrives just after you sign
     * Information about **health insurance** (it’ll say it’s in California because that’s where Truss is registered as a business. We promise it’s ok, but please still check in if you’re worried) — probably arrives along with Gusto
-* A **laptop** — to do your work! — arrives before your first day. You’ll run through the :lock: [securely setting up your Mac checklist](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs/edit) during your onboarding call. This (and other) link(s) won’t work until you have your @truss.works email address set up.
+* A **laptop** — to do your work! — arrives before your first day. You’ll run through the :lock:[securely setting up your Mac checklist](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs/edit) during your onboarding call. This (and other) link(s) won’t work until you have your @truss.works email address set up.
 * A company **credit card** — to purchase things more easily through the company! Activated upon arrival — contact the onboarding manager if it hasn’t arrived and you have need of it. It is not tied to your personal credit. (Currently, we are transitioning from the ChaseInk credit card to the Wells Fargo credit card. You will receive both. Do not use the Wells Fargo card yet. More information to come.)
 * A **T-shirt** — to show you belong! — arrives a week or four after joining.
 * A **sticker** — to stick to things! — arrives a week or four after joining.
