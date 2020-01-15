@@ -510,18 +510,7 @@ If you ever want to schedule something and include an oversubscribed person (usu
 If you have questions about a scheduled interview or something else related to hiring, ping @hiring-support.
 
 ## Tool: Expensify (expense tracking) + our credit card 
-(We are transitioning our credit cards from Chase to Wells Fargo. For now, you will receive cards from both banks. Use the Chase card now. Do not use the Wells Fargo card yet. More information to come.)
-
-We track our expenses in Expensify. You’ll set up an account and join our organization. Please use your Truss card, rather than a personal card, for anything related to Truss or our clients whenever possible.
-
-* Tag transactions with the client name.
-* Select “reimbursable” if it you paid with a personal card or cash.
-* Set up auto reporting. At least once a month is great.
-	* Details on how to do so are forthcoming. In the meantime, ask in #accounting
-	* Default to Truss group policy
-	* It’s probably worth doing a pass through all of those screens if you want to enable the automation. There’s a lot in there that can make it work better, or that can hose you if you screwed around before.
-* For any amount over $75, please include a picture of the receipt. For most expenses below that, Expensify’s auto-generated receipt is acceptable. The exception is lodging. [We *always* need a receipt for lodging](https://blog.expensify.com/2011/03/04/from-the-help-desk-how-do-we-know-your-ereceipts-will-stand-up-to-an-irs-audit/).
-* :lock:[Common questions about categories and how to file reports are answered in this doc](https://docs.google.com/document/d/1HF17jjmPVt6UznpvJccGszzdI71WueJxlQ8R62wypSs/edit). Also includes how-to for our credit card, including what address to use.
+We track our expenses in Expensify. You’ll set up an account and join our organization. Please use your Truss card, rather than a personal card, for anything related to Truss or our clients whenever possible. Please check out :lock:[the Truss Guide to Credit Cards, Expense Categories, Expensify, and Reimbursement Policy](https://docs.google.com/document/d/111fUHlCubh2MG00JjKbWzgZ5uHdnQEPeLCcFuWl7l3g/edit#heading=h.vgnrvk7wzdu2).
 
 (Want a low-stakes way to try out Expensify? Consider making your first expense from the “Employee Effectiveness” budget to send your Onboarding Buddy something.)
 
@@ -557,7 +546,7 @@ Regardless of how or where you’re working, we want you to be set up for succes
 We have :lock:[a visual style guide](https://drive.google.com/drive/u/0/folders/1JTo_mrmlzWBd7L23mtZXyjJTg80rnLre) and :lock:[a copy style guide](https://docs.google.com/document/d/1UqiP1hyqRNELr5AiiwcbMLXdVnWXbP4Y038fy4EyuTY/edit#).
 
 ## Practice: Travel
-When traveling for work, please log the time in Harvest on the client with a note that it’s for travel (see more in the :lock:[Harvest Time Tracking doc](https://docs.google.com/document/d/1rAtWHURm8bsPJW3En9eYy16_KEXVnHwMZmDjOnW7OzU/edit?ts=5bad0d5c)). You can use your Truss corporate credit card to book Truss-related travel so you do not need to carry any costs out of pocket.
+When traveling for work, please log the time in Harvest on the client with a note that it’s for travel (see more in the :lock:[Harvest Time Tracking doc](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit)). You can use your Truss corporate credit card to book Truss-related travel so you do not need to carry any costs out of pocket.
 
 When using a service that customarily takes tips — restaurants, hotel room housekeeping, ride shares — please tip. Truss expects people to tip on the corporate card. (20% for restaurants or rideshare, a few dollars a day for housekeeping, etc.) When it’s possible to patronize a service that offers a living wage as a baseline, rather than a tipping system, we encourage you to do so. 
 
