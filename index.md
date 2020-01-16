@@ -4,6 +4,8 @@ This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We sha
 
 > **Disclaimer for Trussels**: This is a living document and should be considered malleable and fallible. The Founders have not read this document in a long time, and certainly do not read every edit. It really is not an employee handbook or formal statement of policy. If you have any questions about this guide or want to know Truss’s policy on any of these issues, please contact Jen or another Founder. If something seems like it’s wrong, or missing, or whatever, please suggest a change or add a comment directly in this doc, or post about it in #onboarding on Slack. You can see when it was last updated in the version history.
 
+* TOC {:toc}
+
 # Pre-First-Day
 Hello, and welcome to Truss! 
 
