@@ -1,11 +1,45 @@
+<sidebar>
+  <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+  {% if site.logo %}
+    <img src="{{site.logo | relative_url}}" alt="Logo" />
+  {% endif %}
+
+  <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+  {% if site.github.is_project_page %}
+  <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+  {% endif %}
+
+  {% if site.github.is_user_page %}
+  <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+  {% endif %}
+
+  {% if site.show_downloads %}
+  <ul>
+    <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+    <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+    <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+  </ul>
+  {% endif %}
+
+  <div class="toc" markdown="1">
+  * TOC
+  {:toc}
+  </div>
+
+  {% if site.github.is_project_page %}
+  <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+{% endif %}
+  <p><small>Hosted on GitHub Pages &mdash; Based on theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+</sidebar>
+
+<section markdown="1">
 This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do.
 
 > **Disclaimer**: Hi, friend! Thanks for caring so much about this that you are reading the disclaimer! We super-duper appreciate it. Our lawyers need you to know that the Trussel Guide to Truss is a reflection of Trussel’s personal experiences, and neither Truss nor any of its employees are making any promises about anything. In other words, we (that’s all of us) hereby disclaim any and all warranties, duties or guarantees and this document is presented “AS IS”. You assume any and all risks if you incorporate or adopt any of these practices. Also, we make no promises about merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort, lack of negligence, or whether reading this a loud at midnight after the correct eldritch sacrifices may summon an unknowable horror that devours souls and flesh alike. We have no idea and make no promises! Whatever happens is all on you. Hooray!
 
 > **Disclaimer for Trussels**: This is a living document and should be considered malleable and fallible. The Founders have not read this document in a long time, and certainly do not read every edit. It really is not an employee handbook or formal statement of policy. If you have any questions about this guide or want to know Truss’s policy on any of these issues, please contact Jen or another Founder. If something seems like it’s wrong, or missing, or whatever, please suggest a change or add a comment directly in this doc, or post about it in #onboarding on Slack. You can see when it was last updated in the version history.
-
-* TOC
-{:toc}
 
 # Pre-First-Day
 Hello, and welcome to Truss! 
@@ -623,3 +657,4 @@ Alternatively, if you see another project spinning up that you are interested in
 
 # Congratulations
 You’re now “Full Trussel.” We’re still not completely sure what this means, but we’re still proud of you.
+      </section>
