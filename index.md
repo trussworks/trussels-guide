@@ -34,7 +34,7 @@ Please take a look and let us know if you have any questions.
 * Invitation to **Gusto** — more on that later — arrives just after you sign
     * Information about **health insurance** (it’ll say it’s in California because that’s where Truss is registered as a business. We promise it’s ok, but please still check in if you’re worried) — probably arrives along with Gusto
 * A **laptop** — to do your work! — arrives before your first day. You’ll run through the :lock:[securely setting up your Mac checklist](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs/edit) during your onboarding call. This (and other) link(s) won’t work until you have your @truss.works email address set up.
-* A company **credit card** — to purchase things more easily through the company! Activated upon arrival — contact the onboarding manager if it hasn’t arrived and you have need of it. It is not tied to your personal credit. (Currently, we are transitioning from the ChaseInk credit card to the Wells Fargo credit card. You will receive both. Do not use the Wells Fargo card yet. More information to come.)
+* A company **credit card** — to purchase things more easily through the company! Activated upon arrival — contact the onboarding manager if it hasn’t arrived and you have need of it. It is not tied to your personal credit.
 * A **T-shirt** — to show you belong! — arrives a week or four after joining.
 * A **sticker** — to stick to things! — arrives a week or four after joining.
 
@@ -313,7 +313,15 @@ Truss has three founders:
 They are all great and approachable.
 
 ## Group: Bubble Prince (practice areas)
-“Bubble Prince” is the term we use for Practice leads, who form the leadership layer of Truss. Truss operates via *Practice Areas*. 
+Bubble Prince” is the term we use for the Truss leadership team; it includes the founding team, and:
+
+* **Nick** Software Engineering Practice Lead.
+* **Jesse** Director of Research and Design and Practice Lead.
+* **Kayless** Director of Government Programs and Delivery Management Practice Lead.
+* **Kimber** Director of Security Engineering and Infrasec Practice Lead.
+* **Jeremy** Infrasec Practice Lead.
+* **Andrew** Director of Product Management and Product Management Practice Lead.
+* **Burstein** General Council.
 
 Practice areas and their leads are listed in the :lock:[Practice Areas tab of this spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit#gid=28195153).
 
