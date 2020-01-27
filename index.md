@@ -316,11 +316,11 @@ They are all great and approachable.
 Bubble Prince” is the term we use for the Truss leadership team; it includes the founding team, and:
 
 * **Nick** Software Engineering Practice Lead.
-* **Jesse** Director of Research and Design and Practice Lead.
+* **Jesse** Director and Practice Lead of Research and Design.
 * **Kayless** Director of Government Programs and Delivery Management Practice Lead.
 * **Kimber** Director of Security Engineering and Infrasec Practice Lead.
 * **Jeremy** Infrasec Practice Lead.
-* **Andrew** Director of Product Management and Product Management Practice Lead.
+* **Andrew** Director and Practice Lead of Product Management.
 * **Burstein** General Council.
 
 Practice areas and their leads are listed in the :lock:[Practice Areas tab of this spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit#gid=28195153).
