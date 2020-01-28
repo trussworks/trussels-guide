@@ -8,12 +8,12 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:rgba(40,26,23,0.6);
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color:#222;
+h1 {
+  color:#d26048;
   margin:0 0 20px;
 }
 
@@ -30,21 +30,20 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#4a4a4a;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color: rgba(40,26,23,0.6);
 }
 
 a {
-  color:#267CB9;
+  color:#d26048;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color: rgba(210,96,72,0.3);
 }
 
 a small {
@@ -56,6 +55,10 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+h1 a {
+  color: #d26048;
 }
 
 // from https://every-layout.dev/layouts/sidebar/
@@ -172,7 +175,7 @@ ul.downloads {
 }
 
 strong {
-  color:#222;
+  color: rgba(40,26,23,0.6);
   font-weight:700;
 }
 
@@ -184,7 +187,7 @@ strong {
 .downloads a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:rgba(40,26,23,0.6);
 }
 
 small {
