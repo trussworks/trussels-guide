@@ -532,6 +532,9 @@ We track our expenses in Expensify. You’ll set up an account and join our orga
 ## Practice: A deeper dive into Slack
 There’s a lot we can say about Slack. So much, in fact, that we’ve created :lock:[a separate document with tips for staying on top of it](https://docs.google.com/document/d/1l30ZDQm_2MV5THmsLmItFKXmF3otJpaBpalDo_gQNTE/).
 
+## Practice: Onboarding survey	
+Please fill out the :lock:[onboarding survey](https://docs.google.com/forms/d/e/1FAIpQLSegtL32kgYeiJm_a6Nwdc7kFsyYTiO--phz-_Sy-IPz9jg2YA/viewform). This form helps us understand and improve our onboarding process. You are welcome and encouraged to fill it out more than once throughout your onboarding. We discuss and act on ways to further improve in  #c-welcoming.
+
 # First month
 ## Practice: Harassment prevention training
 We like to think we’re pretty great here at Truss, but we’re not perfect. So we want to be sure we have a way to catch and respond to issues. To that end, we have :lock:[a policy and video we need you to review](https://drive.google.com/drive/u/0/folders/12ja-vkMrZffVj31kJEhQ94LA0c54KrCJ) (we promise they’re not as bad as many you’ve seen). 
