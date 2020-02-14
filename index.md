@@ -593,7 +593,7 @@ We encourage informal mentorship (and co-mentorship) at Truss. You can read :loc
 We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI). The next one will be in May 2020 in New Orleans, and we’re planning it in #wg-offsite2020
 
 ## Resource: Conferences
-See our guide to :lock:[conferences and professional development](https://docs.google.com/document/d/1e6nkUTntLCZwiFzGsTKUDcVJ5W1xbywLmKLGWyntYyY/edit?usp=sharing). 
+See our guide to :lock:[conferences and professional development](https://docs.google.com/document/d/1oeyg7frH7vZzgUuTBoOkowk1n1tbKx49RXuye22TlQg/). 
 
 ## Resource: Public relations
 We work with a PR firm called Press Friendly. Their primary job is to align with our business strategy, create a 12-month PR narrative, place articles in publications and conferences ([partial list is here](https://truss.works/press-resources)), and conduct practitioner interviews to get expert opinions, stories, and data. 
