@@ -203,7 +203,7 @@ When you log in for the first time, your inbox will be full of calendar invites,
 Whereas we don't use email for a lot of internal communications, it is not uncommon to interact with external folks that way. It can be helpful to set up a signature (`Settings >> General >> Signature`). Parts that you may consider: name, title, a link to the Truss homepage, and maybe a little bit of guidance for people who aren't used to working in a distributed manner.
 
 `
-Dr. Sprout Trussel, Esq.
+Dr. Sprout Trussel, Esq. (they/them)
 Senior Vegetable Relations
 https://truss.works
 
