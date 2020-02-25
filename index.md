@@ -200,7 +200,7 @@ The first part to work with is mail. You’ll need to log in to your `username@t
 
 When you log in for the first time, your inbox will be full of calendar invites, shared document links, and tool invites. Hopefully, your onboarding meeting + this guide will help you make sense of the deluge.
 
-Whereas we don't use email for a lot of internal communications, it is not uncommon to interact with external folks that way. It can be helpful to set up a signature (`Settings >> General >> Signature`). Parts that you may consider: name, title, a link to the Truss homepage, and maybe a little bit of guidance for people who aren't used to working in a distributed manner.
+Whereas we don't use email for a lot of internal communications, it is not uncommon to interact with external folks that way. It can be helpful to set up a signature (`Settings >> General >> Signature`). Parts that you may consider: name, pronouns, title, a link to the Truss homepage, and maybe a little bit of guidance for people who aren't used to working in a distributed manner.
 
 `
 Dr. Sprout Trussel, Esq. (they/them)
