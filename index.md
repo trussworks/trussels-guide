@@ -225,7 +225,7 @@ Truss maintains our devices via a tool called Fleetsmith. This means if we need 
 We use Code42’s CrashPlan to back up our computers. It runs in the background and incrementally backs up files to cloud storage. Installation requires some manual configuration — consult the :lock:[CrashPlan Configuration Guide](https://docs.google.com/document/d/1EI-cfHN1mBNWT3LXJLXsJVYIuF89Z1QLLj1sA2JaEHM).
 
 ## Tool: Slack (communication)
-Your pre-first-day email contained some information about Slack. Here are some more details to keep you going.
+Your pre-first-day email contained some information about Slack. Single sign-on with your @truss.works email address is required to access the Truss Slack. Here are some more details to keep you going.
 
 ### Practice: When setting up your Slack profile
 Please use a [profile picture](https://get.slack.help/hc/en-us/articles/115005506003-Upload-a-profile-photo) or custom avatar (we recommend [Gravatar](http://en.gravatar.com/), which can automatically re-use your avatar across platforms), instead of a Slack default avatar. It doesn’t have to be a photo, but it should be uniquely you. 
