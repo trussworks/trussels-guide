@@ -90,8 +90,6 @@ While we are :lock:[headquartered in San Francisco](https://docs.google.com/docu
 
 We :lock:[run experiments to figure out how to better include distributed folk](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), and we have [a playbook for our established practices](https://github.com/trussworks/Distributed-playbook). 
 
-We also document :lock:[healthy work habits for distributed teams](https://docs.google.com/document/d/1u8NVVPv5lmxjrjpLEPDrBveL3avaVAPy2jPMfenGRlI/edit). 
-
 If you find yourself using a coworking space, please use :lock:[the budget for coworking space](https://docs.google.com/document/d/1iJKrrd-u1aJ_mdKJRWrSho8d3fKLkOj0_NLuSQ73hQo/edit). (More on this and other decision records after your first day.)
 
 ### Meetings: What to expect
