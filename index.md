@@ -372,7 +372,7 @@ All CWPs are listed in the :lock:[CWP spreadsheet](https://docs.google.com/sprea
 ## Tool: Harvest (timekeeping)
 We keep track of our time using a tool called Harvest. It can be used as a web interface, desktop application, and on mobile (or any combination of these). Please take a look at our :lock:[internal guide about how to use Harvest](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit#).
 
-We track time in 15-minute increments.
+We track time in 15-minute increments. Lunch is usually not considered working time; absent specific rules from the contract you may be on, as a rule of thumb if you’re doing something you wouldn’t do on the weekend on your own time, like a client lunch, a 1:1 with your manager, or a meeting, then you are working and please record the time in the appropriate category. If you are doing something during lunch that you would normally do on a weekend (like: a long lunch outside, lunch with a friend) then you are not working and do not record time.
 
 When you are not working due to a company holiday, you should leave those days blank in Harvest. Similarly, vacation time and sick time are not tracked in Harvest. Use Gusto to request vacation and sick time.
 
