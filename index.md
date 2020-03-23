@@ -374,6 +374,10 @@ We keep track of our time using a tool called Harvest. It can be used as a web i
 
 We track time in 15-minute increments.
 
+If you work through lunch, record your time in the appropriate category. Examples of working through lunch: a client lunch, a 1:1 with your manager, or a meeting.
+
+If you're not working through lunch, do not record that time unless your project has specific rules stating otherwise. Your project lead or delivery manager will know. Examples of not working through lunch: a long lunch outside, lunch with a friend, eating and surfing the web.
+
 When you are not working due to a company holiday, you should leave those days blank in Harvest. Similarly, vacation time and sick time are not tracked in Harvest. Use Gusto to request vacation and sick time.
 
 Note that when you join a new project at Truss you will be added to a specific Harvest category for that project. Typically the delivery manager or a member of that project will do this, and typically this information can be found in a project onboarding doc/project Slack. If you have questions, please direct them to the project you’re joining.
