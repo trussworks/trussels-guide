@@ -2,6 +2,10 @@
 
 The source for https://guide.truss.works
 
+## How to make a change
+
+The Trussel's Guide is important documentation and needs to be correct. Anybody from Truss should feel free to submit a pull request to change the guide. We use the `CODEOWNERS` file to keep track of who should review and merge PRs.
+
 ## Architecture
 
 The guide is hosted on Github Pages. DNS is managed via the Truss AWS account. Merges to `master` deploy in a couple of minutes.
