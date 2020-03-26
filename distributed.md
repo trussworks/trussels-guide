@@ -357,8 +357,6 @@ When you're in a meeting, follow these helpful tips:
 
 # Conclusion
 
-There you go. If you follow all of the above, we are pretty confident that you will be well on your way to crushing it as a distributed company. Of course, there is a lot of nuance in what we learned that has not made it into this short guide. If you want to share your thoughts or have a question, drop us a line at why@truss.works. We are happy to help, but know that we are not a distributed workforce consultancy. Our real job is building amazeballs custom digital infrastructure and applications. We just happened to be distributed and learned a few things that we are happy to share. 
-
-
+There you go. If you follow all of the above, we are pretty confident that you will be well on your way to developing the practice of being a distributed company. There will be challenges, but out of that you will create new practices, policies, and lore that uniquely fit to your culture. Of course, there is a lot of nuance in what we learned that has not made it here, and we’ll continue to update this document as we experiment more. If you want to share your thoughts or have a question, go on and drop us a line at why@truss.works. 
 
 </section>
