@@ -52,7 +52,7 @@ We hold [our values](https://truss.works/values) dearly, and we take time to mak
 If you ever feel uncertain about what to do in a given circumstance, or if you’re writing someone’s review, or if you’re about to be in Prac, or you’re considering if a person you just interviewed would be a good addition, etc, these are the grounding rod for Truss.
 
 ## Practice: Collaboration practices
-Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our [leveling guide](https://docs.google.com/document/d/1AbJBFEkVhSDSRty8oN44PTgiL1NK3X8xe2k4tSpKhhc/edit).
+Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our :lock:[leveling guide](https://docs.google.com/document/d/1AbJBFEkVhSDSRty8oN44PTgiL1NK3X8xe2k4tSpKhhc/edit).
 
 Some aspects of effective collaboration differ from typical software company practices and are worth highlighting.
 
@@ -312,7 +312,7 @@ Most every state, and some cities, require some form of labor law posters to be 
 
 # First week
 ## Resource: Employee directory
-Want to know who you’re working with? :lock:  [Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). :lock:[Here's our org chart](https://manage.gusto.com/people/org_chart), in case you want to know who reports to who.
+Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). :lock:[Here's our org chart](https://manage.gusto.com/people/org_chart), in case you want to know who reports to who.
 
 ## Group: Founders
 Truss has three founders:
@@ -414,7 +414,7 @@ We tend to use one GitHub account with multiple client organizations (and GitHub
 What projects is Truss working on? You can check out most recent :lock:[Pracs](https://drive.google.com/drive/folders/1ZQe5WfJJpA9bgLjbgpKIkJivSXDowBIm) for a list of clients and current status.
 
 * Your project might have an onboarding doc specific to the project you’ll be working on.
-* Take a look at the :lock:  [Truss Clients Folder](https://drive.google.com/drive/folders/1_v3nrWMfmQU4Jw3TswhUptYVwqmA7pu8) to find more documentation — especially important if you are in bizops or are a client or team lead.
+* Take a look at the :lock:[Truss Clients Folder](https://drive.google.com/drive/folders/1_v3nrWMfmQU4Jw3TswhUptYVwqmA7pu8) to find more documentation — especially important if you are in bizops or are a client or team lead.
 * Also look at :lock:[Client Project Descriptions](https://drive.google.com/drive/u/0/folders/1NBKj7gY2AUOmxFjzd97oXPQEac0wMbVI) inside that folder for more up to date information about the projects.
 
 ## Practice: Client privacy
@@ -517,7 +517,7 @@ To keep Truss financially viable, practitioners not on Reserve should aim to wor
 
 Of course, there are weeks where reviews, hiring, or other necessary internal work takes up more than your remaining 4 hours. When this is the case, we understand that either you will have fewer client hours or you will have to work more than 40 hours a week.
 
-In the latter case, we will get you back by giving you :lock: "[surge time](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
+In the latter case, we will get you back by giving you :lock:"[surge time](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
 
 If you have to work more than 40 hours a week to meet your Truss obligations, that is on us and we need to fix it. Please check in with your manager to set expectations, and know that we really prefer folk not work more than 40 hours a week.
 
