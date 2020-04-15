@@ -323,20 +323,27 @@ Truss has three founders:
 
 They are all great and approachable.
 
-## Group: Bubble Prince (practice areas)
-Bubble Prince” is the term we use for the Truss leadership team; it includes the founding team, and:
+## Group: Bubble Prince (leadership team)
+Bubble Prince” is the term we use for the Truss leadership team; it includes the founding team and:
 
-* **Nick** Software Engineering Practice Lead.
-* **Jesse** Director and Practice Lead of Research and Design.
-* **Kayless** Director of Government Programs and Delivery Management Practice Lead.
-* **Kimber** Director of Security Engineering and Infrasec Practice Lead.
-* **Jeremy** Infrasec Practice Lead.
-* **Andrew** Director and Practice Lead of Product Management.
-* **Burstein** General Council.
-
-Practice areas and their leads are listed in the :lock:[Practice Areas tab of this spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit#gid=28195153).
+* **Andrew** Director of Product Management.
+* **Burstein** General Counsel.
+* **Jesse** Director of Research and Design.
+* **Kayless** Director of Government Programs.
+* **Kimber** Director of Security Engineering.
+* **Jeremy** Director of Infrastructure Engineering.
+* **Nick** Application Engineering Practice Lead.
 
 The name “Bubble Prince” came about because Mark (our CTO) brought up that we’re not always good at naming things clearly, saying “we definitely shouldn’t call it ‘bubble prince.’” And here we are. This is an example of a term you can find in the :lock:[Insider Language / Truss Glossary](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit).
+
+## Resource: Practice Areas
+All our practice areas are represented in the Bubble Prince team. Our practices (and their leads) are:
+
+* Application Engineering, lead by Nick
+* Delivery Management, lead by Kayless
+* InfraSec, lead by Kimber & Jeremy
+* Product, lead by Andrew
+* Research & Design, lead by Jesse
 
 ## Meeting: Manager 1:1s
 You have likely already met with your manager. 1:1s are an essential practice at Truss. Everyone meets with their manager on a regular basis, at a frequency comfortable for both of them.
