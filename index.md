@@ -327,7 +327,7 @@ They are all great and approachable.
 Bubble Prince” is the term we use for the Truss leadership team; it includes the founding team and:
 
 * **Andrew** Director of Product Management.
-* **Burstein** General Council.
+* **Burstein** General Counsel.
 * **Jesse** Director of Research and Design.
 * **Kayless** Director of Government Programs.
 * **Kimber** Director of Security Engineering.
