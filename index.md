@@ -664,6 +664,16 @@ If you are no longer happy working on your current project, talk to your manager
 
 Alternatively, if you see another project spinning up that you are interested in, talk to your manager and perhaps the client lead for the new project, or drop in the project’s slack channel.
 
+## Perk: 1Password Families
+Our 1Password license allows Trussels to obtain a :lock:[1Password Families](https://1password.com/families/) license, which will allow you to use 1Password at home and share the benefits with up to five family members. When enrolling in 1Password families, please use your personal email address. 
+
+If you leave Truss, you will need to add your own payment information to the 1Password Families account. You will never be locked out of your data if your subscrition lapses, but you will not be able to add new passwords to your vault.  
+
+## Perk: Tall Poppy Security Training
+:lock:[Tall Poppy](https://app.tallpoppy.net/) is a training platform to help you stay ahead of online threats in your personal life. The Tall Poppy platform provides infomation and support around safe browsing habits, online harrassment, and protecting your personal data and information. 
+
+Use the access code `TRUSS-WORKS` when :lock:[registering](https://app.tallpoppy.net/) your account. 
+
 # Congratulations
 You’re now “Full Trussel.” We’re still not completely sure what this means, but we’re still proud of you.
 
