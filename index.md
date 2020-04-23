@@ -672,8 +672,6 @@ If you leave Truss, you will need to add your own payment information to the 1Pa
 ## Perk: Tall Poppy Security Training
 All Trussels receive access to the :lock:[Tall Poppy](https://app.tallpoppy.net/) platform, a service providing tools, tips, and tricks for protecting privacy, fighting targeted harassment, and support for folks who have been victimized online. This isn’t corporate security training focused on our business. This is human-centered perk meant to support Trussels’ overall safety and well-being.
 
-Use the access code `truss-works` when :lock:[registering](https://app.tallpoppy.net/) your account. 
-
 # Congratulations
 You’re now “Full Trussel.” We’re still not completely sure what this means, but we’re still proud of you.
 
