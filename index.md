@@ -575,10 +575,10 @@ If you want to go outside the United States, especially while on a government co
 
 Many of our clients specifically forbid taking a work laptop outside the U.S. This is **very important**. If you do want to go overseas and bring a Truss laptop, we will need to wipe it and install basic communication tools like G-Suite and Slack, but you will not be able to connect to any client repositories, drives, or infrastructure. 
 
-## Practice: Annual Security Training
-Annual Security Training is required by many of our clients. Please use your Google credentials to log into the :lock:[Habitu8](https://trussworks.habitu8.net/training) learning portal and complete the available training. You will automatically be enrolled in the IT Security training when you first log in. The anual security training is a series of videos (3-5 minutes each) separated with knowledge checks. You should be able to complete the training in under an hour. 
+## Practice: Annual security training
+Many of our clients require that we take annual security training. Use your Google credentials to log into the :lock:[Habitu8](https://trussworks.habitu8.net/training) learning portal and complete the available trainings. The first time that you log in, you will automatically be enrolled in the annual and new hire security trainings. The trainings are a series of videos (3-5 minutes each) separated by knowledge checks. You should be able to complete the trainings in under an hour. 
 
-If you have an interest in other training topics, you can watch any of the available videos in the 'Video Library' at any time. 
+If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time. 
 
 # First 3 months
 ## Practice: Visiting other Trussels
