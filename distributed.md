@@ -6,7 +6,7 @@
 
 <section markdown="1">
 
-# Introduction
+# Truss Distributed Playbook
 
 COVID-19 is forcing tough choices about remote work. Even worse, these decisions are necessary, broadly impactful, and urgent. We appreciate everyone who is confronting this new reality, making courageous decisions without the benefit of experience or practice. We at Truss have both from eight years of working as a distributed office, and we want to share what we’ve learned in case it might help you through this transition.
 
