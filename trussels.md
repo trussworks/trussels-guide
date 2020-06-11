@@ -107,7 +107,7 @@ At some point during your first week, please take 15-20 minutes to walk through 
 ### Practice: Equipment and setting up your workspace
 Wherever you work, we want you to be set up for comfort and success.
 
-For distributed employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/1tgpHtsjChQpPDXackhpOQaxXX0j8AP3EFj9_GwChbqU/edit).
+For distributed employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/17fabSPNEgDAYLLLfqCQhv--2dV3jBSwdE2CSwVHjXys/edit).
 
 Equipment can include:
 
@@ -519,7 +519,7 @@ Here are a few best practices:
 
 * If you are visiting a place where other Trussels are, Truss will pay for coffee or lunch for a meetup.
 * \#colleagues-and-coffee — this Slack channel pairs Trussels up to meet on a regular basis.
-* We each have $10 allotted to us each month as a “discretionary kindness budget.” If you want to send someone a present, card, etc, you are welcome to do so within this budget.
+* We each have 150 allotted to us each month as an employee effectiveness budget that doubles as a “discretionary kindness budget.” If you want to send someone a present, card, etc, you are welcome to do so within this budget.
 * \#book-club — a Slack channel where we pick a book to read together, and then get together to discuss it.
 * \#movie-club — a Slack channel where we pick a movie to watch asynchronously and then get together to discuss it
 
@@ -582,7 +582,7 @@ In order to have a continual improvement of Truss, and to have an environment to
 Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #bizops to be added to the list of approved users.
 
 ## Practice: Employee effectiveness
-Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1hvie-sPwZgOw8U7W2qmCk6dzWf7TYX28_CRfFCWL_FI/edit) to use at their own discretion.
+Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
 
 ## Things that may or may not impact you
 * Resource: :lock:[The office in San Francisco](https://docs.google.com/document/d/1YQMTZInuIQkLxma-MJAP8w7c88OzK0Zq04m8AtN5SlI/edit)
