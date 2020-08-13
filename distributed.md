@@ -279,7 +279,7 @@ Truss maintains our devices via a tool called Fleetsmith. This means if we need 
 
 ### Backup
 
-We use Code42’s CrashPlan to back up our computers. It runs in the background and incrementally backs up files to cloud storage. Installation requires some manual configuration, but we can recover full images quickly. These benefits are definitely worth the effort.
+We use Backblaze's business backup to back up our computers. It runs in the background and incrementally backs up files to cloud storage. Installation requires some manual configuration, but we can recover individual files quickly. These benefits are definitely worth the effort.
 
 ## Team chat apps
 
