@@ -486,7 +486,7 @@ This includes :lock:[each Trussel’s salary and level](https://docs.google.com/
 
 Level changes and salary adjustments occur for 25% of Trussels each quarter. More on that in the reviews section.
 
-## Resource: :lock:[Paid Time Off (PTO) policy](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit)
+## Resource: :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit)
 What holidays do we take as an organization?
 
 How do we handle sick, parental, and other leave?
@@ -495,7 +495,7 @@ How much notice do you need to give before taking a vacation?
 
 What happens if we have a crunch time to get something done for a client and we work more than 40 hours one week?
 
-Please read :lock:[our PTO policy doc](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit) — it is very important to us that we maintain a healthy work-life balance, and that we take care of our bodies and our selves.
+Please read :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit) — it is very important to us that we maintain a healthy work-life balance, and that we take care of our bodies and our selves.
 
 Trussels each get 160 hours of vacation per year, and you start accumulating this time with your first paycheck.
 
@@ -530,7 +530,7 @@ To keep Truss financially viable, practitioners not on Reserve should aim to wor
 
 Of course, there are weeks where reviews, hiring, or other necessary internal work takes up more than your remaining 4 hours. When this is the case, we understand that either you will have fewer client hours or you will have to work more than 40 hours a week.
 
-In the latter case, we will get you back by giving you :lock:"[surge time](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
+In the latter case, we will get you back by giving you :lock:"[surge time](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit#heading=h.koxwwtzc8e3b)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
 
 If you have to work more than 40 hours a week to meet your Truss obligations, that is on us and we need to fix it. Please check in with your manager to set expectations, and know that we really prefer folk not work more than 40 hours a week.
 
