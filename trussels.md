@@ -604,9 +604,9 @@ If you want to go outside the United States, especially while on a government co
 Many of our clients specifically forbid taking a work laptop outside the U.S. This is **very important**. If you do want to go overseas and bring a Truss laptop, we will need to wipe it and install basic communication tools like G-Suite and Slack, but you will not be able to connect to any client repositories, drives, or infrastructure.
 
 ## Practice: Annual security training
-Many of our clients require that we take annual security training. Use your Google credentials to log into the :lock:[Habitu8](https://trussworks.habitu8.net/training) learning portal and complete the available trainings. The first time that you log in, you will automatically be enrolled in the required trainings. The trainings are a series of videos (3-5 minutes each) separated by knowledge checks. You should be able to complete the trainings in under an hour. 
+Many of our clients require that we take annual security training. Use your Google credentials to log into the :lock:[Habitu8](https://trussworks.habitu8.net/training) learning portal and complete the available trainings. The first time that you log in, you will automatically be enrolled in the required trainings. The trainings are a series of videos (3-5 minutes each) separated by knowledge checks. You should be able to complete the trainings in under an hour.
 
-If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time. 
+If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time.
 
 # First 3 months
 ## Practice: Visiting other Trussels
@@ -670,9 +670,9 @@ If you are no longer happy working on your current project, talk to your manager
 Alternatively, if you see another project spinning up that you are interested in, talk to your manager and perhaps the client lead for the new project, or drop in the project’s slack channel.
 
 ## Perk: 1Password Families
-Our 1Password license allows Trussels to obtain a :lock:[1Password Families](https://1password.com/families/) license, which will allow you to use 1Password at home and share the benefits with up to five family members. If you already have a paid subscription for 1Password, you may use your complimentary license from Truss to cover that cost for the duration of your time with us. When enrolling in 1Password families, please use your personal email address. 
+Our 1Password license allows Trussels to obtain a :lock:[1Password Families](https://1password.com/families/) license, which will allow you to use 1Password at home and share the benefits with up to five family members. If you already have a paid subscription for 1Password, you may use your complimentary license from Truss to cover that cost for the duration of your time with us. When enrolling in 1Password families, please use your personal email address.
 
-If you leave Truss, you will need to add your own payment information to the 1Password Families account. You will never be locked out of your data if your subscrition lapses, but you will not be able to add new passwords to your vault.  
+If you leave Truss, you will need to add your own payment information to the 1Password Families account. You will never be locked out of your data if your subscrition lapses, but you will not be able to add new passwords to your vault.
 
 ## Perk: Tall Poppy Security Training
 All Trussels receive access to the :lock:[Tall Poppy](https://app.tallpoppy.net/) platform, a service providing tools, tips, and tricks for protecting privacy, fighting targeted harassment, and support for folks who have been victimized online. This isn’t corporate security training focused on our business. This is human-centered perk meant to support Trussels’ overall safety and well-being.
