@@ -486,7 +486,7 @@ This includes :lock:[each Trussel’s salary and level](https://docs.google.com/
 
 Level changes and salary adjustments occur for 25% of Trussels each quarter. More on that in the reviews section.
 
-## Resource: :lock:[Paid Time Off (PTO) policy](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit)
+## Resource: :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit)
 What holidays do we take as an organization?
 
 How do we handle sick, parental, and other leave?
@@ -495,7 +495,7 @@ How much notice do you need to give before taking a vacation?
 
 What happens if we have a crunch time to get something done for a client and we work more than 40 hours one week?
 
-Please read :lock:[our PTO policy doc](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit) — it is very important to us that we maintain a healthy work-life balance, and that we take care of our bodies and our selves.
+Please read :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit) — it is very important to us that we maintain a healthy work-life balance, and that we take care of our bodies and our selves.
 
 Trussels each get 160 hours of vacation per year, and you start accumulating this time with your first paycheck.
 
@@ -530,7 +530,7 @@ To keep Truss financially viable, practitioners not on Reserve should aim to wor
 
 Of course, there are weeks where reviews, hiring, or other necessary internal work takes up more than your remaining 4 hours. When this is the case, we understand that either you will have fewer client hours or you will have to work more than 40 hours a week.
 
-In the latter case, we will get you back by giving you :lock:"[surge time](https://docs.google.com/document/d/16iCTMBVrdZHwvtru6RKPPM7bh10bwTIDfAul-WCO8s4/edit)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
+In the latter case, we will get you back by giving you :lock:"[surge time](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit#heading=h.koxwwtzc8e3b)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
 
 If you have to work more than 40 hours a week to meet your Truss obligations, that is on us and we need to fix it. Please check in with your manager to set expectations, and know that we really prefer folk not work more than 40 hours a week.
 
@@ -604,9 +604,9 @@ If you want to go outside the United States, especially while on a government co
 Many of our clients specifically forbid taking a work laptop outside the U.S. This is **very important**. If you do want to go overseas and bring a Truss laptop, we will need to wipe it and install basic communication tools like G-Suite and Slack, but you will not be able to connect to any client repositories, drives, or infrastructure.
 
 ## Practice: Annual security training
-Many of our clients require that we take annual security training. Use your Google credentials to log into the :lock:[Habitu8](https://trussworks.habitu8.net/training) learning portal and complete the available trainings. The first time that you log in, you will automatically be enrolled in the required trainings. The trainings are a series of videos (3-5 minutes each) separated by knowledge checks. You should be able to complete the trainings in under an hour. 
+Many of our clients require that we take annual security training. Use your Google credentials to log into the :lock:[Habitu8](https://trussworks.habitu8.net/training) learning portal and complete the available trainings. The first time that you log in, you will automatically be enrolled in the required trainings. The trainings are a series of videos (3-5 minutes each) separated by knowledge checks. You should be able to complete the trainings in under an hour.
 
-If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time. 
+If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time.
 
 # First 3 months
 ## Practice: Visiting other Trussels
@@ -670,9 +670,9 @@ If you are no longer happy working on your current project, talk to your manager
 Alternatively, if you see another project spinning up that you are interested in, talk to your manager and perhaps the client lead for the new project, or drop in the project’s slack channel.
 
 ## Perk: 1Password Families
-Our 1Password license allows Trussels to obtain a :lock:[1Password Families](https://1password.com/families/) license, which will allow you to use 1Password at home and share the benefits with up to five family members. If you already have a paid subscription for 1Password, you may use your complimentary license from Truss to cover that cost for the duration of your time with us. When enrolling in 1Password families, please use your personal email address. 
+Our 1Password license allows Trussels to obtain a :lock:[1Password Families](https://1password.com/families/) license, which will allow you to use 1Password at home and share the benefits with up to five family members. If you already have a paid subscription for 1Password, you may use your complimentary license from Truss to cover that cost for the duration of your time with us. When enrolling in 1Password families, please use your personal email address.
 
-If you leave Truss, you will need to add your own payment information to the 1Password Families account. You will never be locked out of your data if your subscrition lapses, but you will not be able to add new passwords to your vault.  
+If you leave Truss, you will need to add your own payment information to the 1Password Families account. You will never be locked out of your data if your subscrition lapses, but you will not be able to add new passwords to your vault.
 
 ## Perk: Tall Poppy Security Training
 All Trussels receive access to the :lock:[Tall Poppy](https://app.tallpoppy.net/) platform, a service providing tools, tips, and tricks for protecting privacy, fighting targeted harassment, and support for folks who have been victimized online. This isn’t corporate security training focused on our business. This is human-centered perk meant to support Trussels’ overall safety and well-being.
