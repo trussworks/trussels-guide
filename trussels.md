@@ -31,10 +31,10 @@ Please take a look and let us know if you have any questions.
 * Once you’re done with your first-day responsibilities, your **day is done**.
 
 ### Things we're sending you
-* Invitation to **Gusto** — more on that later — arrives just after you sign
-    * Information about **health insurance** (it’ll say it’s in California because that’s where Truss is registered as a business. We promise it’s ok, but please still check in if you’re worried) — probably arrives along with Gusto
+* Invitation to **Paylocity** — more on that later — arrives just after you sign
+    * Information about **health insurance** (it’ll say it’s in California because that’s where Truss is registered as a business. We promise it’s ok, but please still check in if you’re worried) — probably arrives along with Paylocity
 * A **laptop** — to do your work! — arrives before your first day. You’ll run through the :lock:[securely setting up your Mac checklist](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs/edit) during your onboarding call. This (and other) link(s) won’t work until you have your @truss.works email address set up.
-* A company **credit card** — to purchase things more easily through the company! Activated upon arrival — contact the onboarding manager if it hasn’t arrived and you have need of it. It is not tied to your personal credit.
+* A company **credit card** — to purchase things more easily through the company! Upon its arrival please ping #accounting for your Unique ID to activate the card — contact the onboarding manager if your card hasn’t arrived and you have need of it. It is not tied to your personal credit.
 * A **T-shirt** — to show you belong! — arrives a week or four after joining.
 * A **sticker** — to stick to things! — arrives a week or four after joining.
 
@@ -86,7 +86,7 @@ You’ll also see some things mentioned in this intro (“Prac,” “decision r
 ## Practice: [Distributed-first](https://github.com/trussworks/Distributed-playbook)
 We are a distributed-first business.
 
-While we are :lock:[headquartered in San Francisco](https://docs.google.com/document/d/1YQMTZInuIQkLxma-MJAP8w7c88OzK0Zq04m8AtN5SlI/edit), many of us work from home, work while traveling to clients, or live and work in entirely different cities or states.
+While there is a large handful of Trussels in the San Francisco bay area, we are ultimately a distributed-first company with Trussels that live and work in entirely different cities or states across the country. Many of us work from home or co-work spaces, or work while traveling to clients.
 
 We :lock:[run experiments to figure out how to better include distributed folk](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), and we have [a playbook for our established practices](https://github.com/trussworks/Distributed-playbook).
 
@@ -100,20 +100,20 @@ Here are some helpful notes:
 * We don’t use email that heavily, so meetings can appear on calendars without much warning. It’s helpful to have your calendar open and readily available.
 * You should add personal events to your calendar that you do not want scheduled over. You don't have to include the specifics but you should block off the time. These can include routine events (lunch, working hours) or one-offs (doctor’s appointments, picking up a kid, special events).
 * We encourage you to add some focus time to your calendar at least weekly to give yourself unbroken time to concentrate on work. Some teams schedule work time together so they always know people on their teams are available at the same time.
-* We involve everyone at every level in our hiring process. After two weeks as a Trussel, you’ll see appointments on your calendar to review resumes or conduct interviews. There are :lock:[resources](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to help you understand the process. Ping #hiring if you have a conflict you cannot avoid.
+* We involve everyone at every level in our hiring process. After two weeks as a Trussel, you may see appointments on your calendar to review resumes or conduct interviews. There are :lock:[resources](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to help you understand the process. Ping #hiring if you have a conflict you cannot avoid.
 
 At some point during your first week, please take 15-20 minutes to walk through :lock:[How to Calendar Like a Trussel](https://docs.google.com/document/d/1C_Y7AF9phESfdiNORmFL1ABhnkaDon7A3xHNl_0NpKE/edit#). Follow those instructions to get your permissions and working hours set up.
 
 ### Practice: Equipment and setting up your workspace
 Wherever you work, we want you to be set up for comfort and success.
 
-For distributed employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/17fabSPNEgDAYLLLfqCQhv--2dV3jBSwdE2CSwVHjXys/edit).
+For all employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/17fabSPNEgDAYLLLfqCQhv--2dV3jBSwdE2CSwVHjXys/edit).
 
 Equipment can include:
 
 * **Peripherals** (mouse, keyboard, monitor). Ask in #equipment-discussion for recommendations.
 * **Charger**. Getting an extra one so you can keep one in your regular office and have one on the go is super great.
-* **Headphones**. Whether you’re in an open office or a coffee shop, a lot of calls happen in the same space. In response, we recommend getting some form of noise-cancelling headphones. Follow :lock:[this decision record](https://docs.google.com/document/d/1I1gT0rczbqxMIUPhGgOX4mcdYP_-N6kKd5_6F4iptTk/edit).
+* **Headphones**. Whether you’re in an open office, a coffee shop, or even a noisy house, a lot of calls happen in the same space. In response, we recommend getting some form of noise-cancelling headphones. Follow :lock:[this decision record](https://docs.google.com/document/d/1bM5D2QPEd9Y3egm90FiVMYlNXiZnCmq2cql3MVSqHNY/edit).
 
 \#equipment-discussion is a great place for questions and equipment reviews.
 
@@ -122,7 +122,7 @@ We value open and transparent communication, which makes Slack a better communic
 
 All Slack channels begin with “#” — you’ve seen some mentioned in this guide already.
 
-You’ve been added to 6 default channels:
+You’ve been added to 8 default channels:
 
 * **\#announcements**: Must-read messages for everyone at Truss. Discussions about announcements take place in other channels, typically #general or #random.
 * **\#random**: Not sure where it goes? It goes here! (This is also where we chatter during our weekly Prac meetings, instead of in the Zoom chat.)
@@ -130,10 +130,12 @@ You’ve been added to 6 default channels:
 * **\#onboarding**: Questions & improvement suggestions for onboarding.
 * **\#love**: Share :heart: for your fellow Trussels and the things they do.
 * **[\#rage_cage](https://truss.works/blog/2017/1/13/slack-serendipity-and-the-ragecage)**: Vent frustrations IN ALL CAPS.
+* **\#rave_cave**: A place to share things that make you the happiest, which is best accomplished by screaming (IN ALL CAPS).
+* **\#wins**: A channel where we socialize company wins
 
 You should also join any Slack channels related to projects that you’re on, and any channels for your team or discipline. You may also end up in a project-specific workspace with its own set of channels, depending on your project.
 
-Feel free to join other channels that interest you. Some are about topics that you might find useful, such as #distributed, or #design-research. Others are just for fun, by their nature — such as #kids or #food or #selfies. Those are all decidedly optional. They can be a great way to get to know other Trussels in a social context.
+Feel free to join other channels that interest you. Some are about topics that you might find useful, such as #distributed, or #design-research. Others are just for fun, by their nature — such as #kids or #food or #pets or #selfies. Those are all decidedly optional. They can be a great way to get to know other Trussels in a social context.
 
 There are also a few “affinity group” channels, which we’ll tell you how to join later.
 
@@ -141,12 +143,10 @@ If you like to celebrate your birthday or Trusselversary, join us in #celebratio
 
 You will likely end up with a mix of project channels, team channels, and fun channels.
 
-## Tool: Gusto (payroll provider)
-Gusto is where you request time off, enroll in and learn about medical/dental/vision benefits, manage where your paychecks go, etc.
+## Tool: Paylocity (payroll provider and bridge to benefits)
+Paylocity is where you request time off, link to enroll in and learn about medical/dental/vision benefits, manage where your paychecks go, etc.
 
-Your benefits become active on the 1st of the month following your start date, but you can opt in at any time during the first 30 days of your employment. If you are outside of Northern California, you are only eligible for our PPO health insurance options, as Kaiser is strictly NorCal. Because Truss is based in California, our health providers will say “California” even if you are elsewhere. Please ask us if you’d like for a double-check.
-
-Gusto emails you every other Friday, which is when we get paid, and once a month with a survey, which we hope you’ll fill out.
+Your benefits become active on the 1st of the month following your start date, but you can opt in at any time during the first 30 days of your employment. Truss offers HMO plans for Trussels in California as well as PPO plans for Trussels regardless of location. 
 
 ## Resource: A little history
 If you’re curious to learn more about our history and our goals, check out :lock:[the Founder presentation from the 2019 offsite](https://drive.google.com/drive/folders/12z0jg3xkc2CLH8xNmNUS0fOGdexXmE7U).
@@ -181,13 +181,13 @@ During your first week, you’ll:
 3. Have the opportunity to join us for a Being Humans Together chat (optional). These happen on Fridays at 9:30 Pacific/12:30 Eastern, and should already be on your calendar. They’re a non-work-related group chat where we get together and talk about … well, anything really.
 
 We try to be sure everyone has done the following in their first 3 months:
-1. Visit another Trussel in person
+1. Visit another Trussel in person...with the current climate we totally get that this may not happen. In the mean time, we suggest joining the #colleagues-and-coffee channel to be automatically paired every 3 weeks for a "donut" with another Trussel 
 2. Lead your first interview to help us keep hiring good people
 
 You’ll then be a “Full Trussel”!
 
 ## Getting started on the tools we use
-You should have a bunch of invitations in your inbox. Your hiring manager will walk you through each of these. If you don’t have an invitation to one of the tools listed in this onboarding guide, please let your hiring manager know.
+You should have a bunch of invitations in your inbox. Your onboarding manager will walk you through each of these. If you don’t have an invitation to one of the tools listed in this onboarding guide, please let your hiring manager know.
 
 Here’s who to contact for help on :lock:[various business systems](https://docs.google.com/spreadsheets/d/1dMQCW7fI0SGwBEtCSf8uX3n1beE0GC5yTgtUrPetFUM/edit#gid=0) (you don’t need everything in here).
 
@@ -221,8 +221,8 @@ If you already use 1Password, spend a few minutes reading their documentation on
 ### Security Tool: Fleetsmith (device management)
 Truss maintains our devices via a tool called Fleetsmith. This means if we need to give device images to a client, or if we lose a laptop or a password, we’ll be able to respond. Please think about how you use your work laptop in light of others potentially seeing what on a personal laptop would be private.
 
-### Security Tool: CrashPlan (backup)
-We use Code42’s CrashPlan to back up our computers. It runs in the background and incrementally backs up files to cloud storage. Installation requires some manual configuration — consult the :lock:[CrashPlan Configuration Guide](https://docs.google.com/document/d/1EI-cfHN1mBNWT3LXJLXsJVYIuF89Z1QLLj1sA2JaEHM).
+### Security Tool: BackBlaze (backup)
+We use Backblaze to back up our computers. It runs in the background and incrementally backs up files to cloud storage. Installation is currently manual — consult the :lock:[Backblaze 101](https://docs.google.com/document/d/1k6FDXAJJ-ii6ez_6PIg10_HJJxnggvh895yLm9ZsOX0/edit).
 
 ## Tool: Slack (communication)
 Your pre-first-day email contained some information about Slack. Single sign-on with your @truss.works email address is required to access the Truss Slack. Here are some more details to keep you going.
@@ -249,7 +249,7 @@ All employees get a Zoom Pro account, so they can host meetings lasting unlimite
 
 When you set up Zoom, you should assign scheduling privileges to our scheduling helpers so they can add (or remove) meetings on your schedule.
 
-* Log in to Zoom https://zoom.us/signin
+* Log in to Zoom https://truss-works.zoom.us/
 * Select **Settings** from left navigation
 * Click or scroll down to **Other** and find **Schedule Privilege**
 * Click the plus sign and assign to the list of emails that appears when you type in `!aim2assist` in Slack
@@ -305,14 +305,14 @@ We have a neat bot you can use in some Slack channels by typing `/pivotal [story
 ## Tool: Vanguard/Ascensus 401(k)
 Here are :lock:[directions to enroll in your Truss Vanguard 401(k) Enrollment Brochure](https://drive.google.com/file/d/1WGDpn7QJAHrp0vnaMrnnBenz3ZM0UI_O/view). It won’t find you until you are in the system — the onboarding manager will go over this with you in your meeting.
 
-The [Vanguard website](https://my.vanguardplan.com/vanguard/logon.cfm) is where you can make updates to your deferral rates. Please note that deferral changes are updated manually by the payroll administrator, and are only changed within Gusto on Mondays, as per :lock:[Truss Decision Record 0022](https://docs.google.com/document/d/17BHGvQgXftQ9wgKgJH8dOD8_X7raP-Zu_VfZHVpSPXc/edit#heading=h.7qctexvsqsup). Please update your deferral rate changes by the Sunday evening before a pay day if you want the change to take effect for a given payroll cycle.
+The [Vanguard website](https://my.vanguardplan.com/vanguard/logon.cfm) is where you can make updates to your deferral rates. Please note that deferral changes are updated manually by the payroll administrator, and are only changed within Paylocity on Mondays, as per :lock:[Truss Decision Record 0022](https://docs.google.com/document/d/17BHGvQgXftQ9wgKgJH8dOD8_X7raP-Zu_VfZHVpSPXc/edit#heading=h.7qctexvsqsup). Please update your deferral rate changes by the Sunday evening before a pay day if you want the change to take effect for a given payroll cycle.
 
 ## Tool: Poster Guard
-Most every state, and some cities, require some form of labor law posters to be displayed at the workplace. As a distributed company, your workplace is where ever you feel like opening your laptop. Rather than send you the world’s ugliest laptop sticker with teensy-tiny font, we use [Poster Guard](https://www.posterguard.com) to email you the correct HR poster annually and if there are any mid-year updates. Ya’ll have been signed up for this service as part of the onboarding. Check your Truss email. Click the link. Enter your email in the form. View the PDFs. Rejoice.
+Most every state, and some cities, require some form of labor law posters to be displayed at the workplace. As a distributed company, your workplace is where ever you feel like opening your laptop. Rather than send you the world’s ugliest laptop sticker with teensy-tiny font, we use [Poster Guard](https://www.posterguard.com) to email you the correct HR poster annually and if there are any mid-year updates. Ya’ll have been signed up for this service as part of the onboarding. As posters are updated on any level - federal, state, city, you will receive a notice to view. Check your Truss email. Click the link. Enter your email in the form. View the PDFs. Rejoice.
 
 # First week
 ## Resource: Employee directory
-Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). :lock:[Here's our org chart](https://manage.gusto.com/people/org_chart), in case you want to know who reports to who.
+Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). 
 
 ## Group: Founders
 Truss has three founders:
@@ -373,13 +373,16 @@ Often on Fridays after Pracs, a Trussel signs up for a 20-40 minute time slot to
 
 OTT spots are taken up on a first-come-first-served basis — just claim the event by changing the event title on the company-wide calendar.
 
+## Meeting: Ask Me Anything (AMA)
+Hosted every Friday at 2pm Pacific by a member of the leadership team.  Got a question, get an answer, really..ask them anything!
+
 ## Resource: Truss roles and responsibilities
 We try to define :lock:[who should be doing what with the customer and on the team](https://docs.google.com/document/d/10OE6h8NTHKr5K969r2JcjmwsBcUWJjAfEAtBcbx9dw8/edit) to ensure we meet expectations. Discuss with your manager which role(s) you’ll serve in.
 
 See also :lock:[this draft document on team lead / feature lead responsibilities](https://docs.google.com/document/d/1IM9129n1pwnqKinDNLgyD85i7xtejNbGmeOJXOqKpS8/).
 
 ## Resource: Company-wide projects (CWP)
-Projects that span the whole company are managed via CWP, a monthly meeting on the Company-Wide calendar. These are broken up into short-term projects, operational disciplines, and practice areas.
+Projects that span the whole company are managed via CWP, a monthly meeting on the Truss Events calendar. These are broken up into short-term projects, operational disciplines, and practice areas.
 
 Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), operational disciplines are done via committee or as a team, and practice areas are covered by #bubble-prince. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
 
@@ -394,7 +397,7 @@ If you work through lunch, record your time in the appropriate category. Example
 
 If you're not working through lunch, do not record that time unless your project has specific rules stating otherwise. Your project lead or delivery manager will know. Examples of not working through lunch: a long lunch outside, lunch with a friend, eating and surfing the web.
 
-When you are not working due to a company holiday, you should leave those days blank in Harvest. Similarly, vacation time and sick time are not tracked in Harvest. Use Gusto to request vacation and sick time.
+When you are not working due to a company holiday, you should leave those days blank in Harvest. Similarly, vacation time and sick time are not tracked in Harvest. Use Paylocity to request vacation and sick time.
 
 Note that when you join a new project at Truss you will be added to a specific Harvest category for that project. Typically the delivery manager or a member of that project will do this, and typically this information can be found in a project onboarding doc/project Slack. If you have questions, please direct them to the project you’re joining.
 
@@ -466,7 +469,7 @@ Ask in #hiring for support or pairing if you want! Screening and interviewing fo
 ### Hiring Tool: Lever (hiring support)
 To manage applicants and our hiring pipeline, we use a tool called Lever.
 
-Our :lock:[hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) has many details about how to use it. Additional details are in this doc :lock:[about how to add a new hiring lead](https://docs.google.com/document/d/1vak9QxYtd-6BTathh7uTuAQDOQrz8xim4nx5AjbapbI/edit#heading=h.otkplwguga7b). If the candidate is senior and needs to be expedited, :lock:[here](https://docs.google.com/document/d/1X95zJEuDS2jIcEayUAqG3rcR4MTG_CC6Vzwj41oB-x8/edit#)’s the doc on that.
+Our :lock:[hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) has many details about how to use it. If the candidate is senior and needs to be expedited, :lock:[here](https://docs.google.com/document/d/1X95zJEuDS2jIcEayUAqG3rcR4MTG_CC6Vzwj41oB-x8/edit#)’s the doc on that. Post in #hiring if you have any questions.
 
 ## Practice: Staff resumes
 Please upload your resume to our :lock:[staff resume folder](https://drive.google.com/drive/u/0/folders/1IUeONKgIA2FEDWDqfS-8KkPVKC-HTiFh) on Google Drive. This helps us prepare to get clearance for folk on some projects, and to bid on proposals, and to not have to scramble for either or be left in the cold if someone is taking a much-needed vacation. You can always update it later.
@@ -499,7 +502,7 @@ Please read :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCF
 
 Trussels each get 160 hours of vacation per year, and you start accumulating this time with your first paycheck.
 
-You get as much sick time as you need to get healthy. If you have a medical condition that causes you to miss more than five consecutive days, please let us know. Truss may move you to short term medical leave or otherwise try to accommodate you.
+All Trussels also get 160 hours of sick time, if you need it please use it to get healthy. If you have a medical condition that causes you to miss more than five consecutive days, or find that you need more than the allotted 160 hours please let us know. Truss may move you to short term medical leave or otherwise try to accommodate you.
 
 ## Practice: Reserve
 When Trussels are not on client work, they are on #reserve.
@@ -537,13 +540,13 @@ If you have to work more than 40 hours a week to meet your Truss obligations, th
 Our thinking on this is laid out in the :lock:[Decision Record about working hours](https://docs.google.com/document/d/16sjxZ279L8SzPTErxcdwqoG9a6EO30cTovs1sJgnN5o/edit) as well as the :lock:[Harvest Time Tracking Guide](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit).
 
 ## Practice: Helping us to hire: paired interviewing
-After you have been at Truss for 2 weeks, you will be paired with someone else to conduct an interview. Ask in #hiring for support or pairing if you want!
+After you have been at Truss for 2 weeks, you may be paired with someone else to conduct an interview. Ask in #hiring for support or pairing if you want!
 
 Remember in week one when we talked about digital screens? Review that section to remember what we look for when hiring, the tool we use (Lever), and how much time per week it might take up.
 
 * :lock:[Training materials for behavioral interviews.](https://drive.google.com/drive/u/0/folders/1g7gTa2LrFYGJTRDO19yNdoSEHBE7AlfN)
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* :lock:[What we are currently hiring for](https://docs.google.com/spreadsheets/d/13_DFMpOHwN4vAl3lRSHze46pJm5GCzIcrbMCgJgiumA). This is also announced each week in the Practitioner’s Meeting.
+* :lock:[What we are currently hiring for](https://docs.google.com/spreadsheets/d/13_DFMpOHwN4vAl3lRSHze46pJm5GCzIcrbMCgJgiumA). This is also announced in the #hiring slack channel.
 
 ## Resource: Support
 We have a team that acts as both executive assistants for some folk and to schedule interviews for hiring.
@@ -567,7 +570,7 @@ Please fill out the :lock:[onboarding survey](https://docs.google.com/forms/d/e/
 ## Practice: Harassment prevention training
 We like to think we’re pretty great here at Truss, but we’re not perfect. So we want to be sure we have a way to catch and respond to issues. To that end, we have :lock:[a policy and video we need you to review](https://drive.google.com/drive/u/0/folders/12ja-vkMrZffVj31kJEhQ94LA0c54KrCJ) (we promise they’re not as bad as many you’ve seen).
 
-When you're done, download the blank certificate and policy, sign it and put in :lock:[this folder](https://drive.google.com/drive/folders/1v8GdbkXaVSoAh8AddTLAFDrf4IpOx186), and let your manager know.
+When you're done, download the blank certificate and policy, sign it and put in :lock:[this folder](https://drive.google.com/drive/folders/1v8GdbkXaVSoAh8AddTLAFDrf4IpOx186), and let your manager and onboarding manager know.
 
 ## Meeting: Quarterly stakeholders meetings
 Once a quarter, Bubbles present an update on the company — how we’re doing, and what we’re aiming for. It’s a special thing where Truss leadership demonstrates radical transparency with the team. It’s usually 90 minutes long and replaces a Friday Prac.
@@ -585,7 +588,6 @@ Retrium is a retro-specific tool that we’ve found useful. Set up an account at
 Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
 
 ## Things that may or may not impact you
-* Resource: :lock:[The office in San Francisco](https://docs.google.com/document/d/1YQMTZInuIQkLxma-MJAP8w7c88OzK0Zq04m8AtN5SlI/edit)
 * Meetings: Manager’s meetings (#puma-wranglers)
 
 ## Resource: Style guides are nice
@@ -601,7 +603,7 @@ We have documents about :lock:[booking travel](https://docs.google.com/document/
 ### International travel
 If you want to go outside the United States, especially while on a government contract, you’ll need to check with the program manager, potentially our lawyers, and definitely the client.
 
-Many of our clients specifically forbid taking a work laptop outside the U.S. This is **very important**. If you do want to go overseas and bring a Truss laptop, we will need to wipe it and install basic communication tools like G-Suite and Slack, but you will not be able to connect to any client repositories, drives, or infrastructure.
+Many of our clients specifically forbid taking a work laptop outside the U.S. This is **very important**. If you do want to go overseas and bring a Truss laptop, we will need to wipe it and install basic communication tools like G Suite and Slack, but you will not be able to connect to any client repositories, drives, or infrastructure.
 
 ## Practice: Annual security training
 Many of our clients require that we take annual security training. Use your Google credentials to log into the :lock:[Habitu8](https://trussworks.habitu8.net/training) learning portal and complete the available trainings. The first time that you log in, you will automatically be enrolled in the required trainings. The trainings are a series of videos (3-5 minutes each) separated by knowledge checks. You should be able to complete the trainings in under an hour.
@@ -615,7 +617,7 @@ While we think we can be a high-trust environment while also being a fully distr
 We’d like to be sure that each Trussel has a chance to meet at least one other Trussel in the flesh within their first three months. We also have :lock:[a guide for how to visit other Trussels](https://docs.google.com/document/d/1OrlraUQuNnHSJNFZVFbsbF3hvtgGiuisWFdnfJKduKA/edit).
 
 ## Practice: Helping us to hire: Interviewing solo or as lead
-After 90 days, you may be lead on an interview or do a phone screen solo. :lock:[Here are some training materials in how to conduct phone screens](https://drive.google.com/drive/u/0/folders/1hLOH71dSI0B3H5XltXlE6scXQL7GY1cQ).
+After 90 days, you may be lead on an interview or do an intro interview solo. :lock:[Here are some training materials in how to conduct intro interviews](https://drive.google.com/drive/u/0/folders/1hLOH71dSI0B3H5XltXlE6scXQL7GY1cQ).
 
 Remember in weeks one and two when we talked about helping us to hire? Review that section to remember what we look for when hiring, the tool we use (Lever), how much time per week it might take up, and what resources are available to you.
 
@@ -623,10 +625,10 @@ Remember in weeks one and two when we talked about helping us to hire? Review th
 We encourage informal mentorship (and co-mentorship) at Truss. You can read :lock:[all about our approach](https://docs.google.com/document/d/1sS0ps5xVp6ClrVavKiPAfJqEKV5sq7B8I4OfIjvZsls/edit).
 
 ## Meeting: Offsites
-We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI). The next one will be in May 2020 in New Orleans, and we’re planning it in #wg-offsite2020
+We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI). We’re planning our next, see #wg-offsite2020 for updates.
 
 ## Resource: Conferences
-See our guide to :lock:[conferences and professional development](https://docs.google.com/document/d/1oeyg7frH7vZzgUuTBoOkowk1n1tbKx49RXuye22TlQg/).
+See our guide to :lock:[conferences and professional development](https://docs.google.com/document/d/1W9RZ1Ywv9J_SMzuwH0UTsn0LvYHRDcjFQwIzA4J_YRo/edit).
 
 ## Resource: Public relations
 We work with a PR firm called Press Friendly. Their primary job is to align with our business strategy, create a 12-month PR narrative, place articles in publications and conferences ([partial list is here](https://truss.works/press-resources)), and conduct practitioner interviews to get expert opinions, stories, and data.
@@ -645,7 +647,7 @@ If there’s something you’re particularly excited about, we’d love to help 
 * If you do use LinkedIn, please make sure your profile is up to date. Clients routinely use it as a way to see who we are.
 
 ## Practice: Helping onboard new Trussels
-To help people acclimate more quickly, we have :lock:[an onboarding buddy system](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit). Buddies can be found in #c-welcoming, and rotate approximately every 3 months.
+To help people acclimate more quickly, we have :lock:[an onboarding buddy system](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit). Buddies can be found in #c-welcoming, and rotate approximately every 3 months. Any trussel that has completed their onboarding can become an onboarding buddy.
 
 ## Practice: Starting a new auxiliary group within Truss
 If you see a need for a new working group, committee, guild, or affinity group at Truss, please follow :lock:[this guide in how to set up an auxiliary group](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762).
