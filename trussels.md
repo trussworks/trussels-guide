@@ -144,9 +144,9 @@ If you like to celebrate your birthday or Trusselversary, join us in #celebratio
 You will likely end up with a mix of project channels, team channels, and fun channels.
 
 ## Tool: Paylocity (payroll provider and bridge to benefits)
-Paylocity is where you request time off, link to enroll in and learn about medical/dental/vision benefits, manage where your paychecks go, etc.
+Paylocity is where you request time off and manage where your paychecks go.
 
-Your benefits become active on the 1st of the month following your start date, but you can opt in at any time during the first 30 days of your employment. Truss offers HMO plans for Trussels in California as well as PPO plans for Trussels regardless of location. 
+Your benefits become active on the 1st of the month following your start date, but you can opt in at any time during the first 30 days of your employment. Truss offers HMO plans for Trussels in California as well as PPO plans for Trussels regardless of location. If you do not have link within Paylocity, please visit https://ztruss.bswift.com to access the benefits info.
 
 ## Resource: A little history
 If you’re curious to learn more about our history and our goals, check out :lock:[the Founder presentation from the 2019 offsite](https://drive.google.com/drive/folders/12z0jg3xkc2CLH8xNmNUS0fOGdexXmE7U).
@@ -181,7 +181,7 @@ During your first week, you’ll:
 3. Have the opportunity to join us for a Being Humans Together chat (optional). These happen on Fridays at 9:30 Pacific/12:30 Eastern, and should already be on your calendar. They’re a non-work-related group chat where we get together and talk about … well, anything really.
 
 We try to be sure everyone has done the following in their first 3 months:
-1. Visit another Trussel in person...with the current climate we totally get that this may not happen. In the mean time, we suggest joining the #colleagues-and-coffee channel to be automatically paired every 3 weeks for a "donut" with another Trussel 
+1. Join #colleagues-and-coffee to be automatically paired every 3 weeks for a "donut" with another Trussel. (During non-covid times, we would suggest meeting another Trussel in person.)
 2. Lead your first interview to help us keep hiring good people
 
 You’ll then be a “Full Trussel”!
@@ -374,19 +374,20 @@ Often on Fridays after Pracs, a Trussel signs up for a 20-40 minute time slot to
 OTT spots are taken up on a first-come-first-served basis — just claim the event by changing the event title on the company-wide calendar.
 
 ## Meeting: Ask Me Anything (AMA)
-Hosted every Friday at 2pm Pacific by a member of the leadership team.  Got a question, get an answer, really..ask them anything!
+Hosted every Friday at 2p Pacific / 5p Eastern by a member of the leadership team.  Got a question, get an answer, really..ask them anything!
 
 ## Resource: Truss roles and responsibilities
 We try to define :lock:[who should be doing what with the customer and on the team](https://docs.google.com/document/d/10OE6h8NTHKr5K969r2JcjmwsBcUWJjAfEAtBcbx9dw8/edit) to ensure we meet expectations. Discuss with your manager which role(s) you’ll serve in.
 
 See also :lock:[this draft document on team lead / feature lead responsibilities](https://docs.google.com/document/d/1IM9129n1pwnqKinDNLgyD85i7xtejNbGmeOJXOqKpS8/).
 
-## Resource: Company-wide projects (CWP)
-Projects that span the whole company are managed via CWP, a monthly meeting on the Truss Events calendar. These are broken up into short-term projects, operational disciplines, and practice areas.
+## Resource: Company-wide projects (CWP) and Truss Events calendar
+We have a wide range of practices, disciplines, and working groups that comprise our CWP, they are listed in the :lock:[CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit). 
 
 Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), operational disciplines are done via committee or as a team, and practice areas are covered by #bubble-prince. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
 
-All CWPs are listed in the :lock:[CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit#gid=1363518626).
+Many of the meetings for various groups can be found on the Truss Events calendar.
+
 
 ## Tool: Harvest (timekeeping)
 We keep track of our time using a tool called Harvest. It can be used as a web interface, desktop application, and on mobile (or any combination of these). Please take a look at our :lock:[internal guide about how to use Harvest](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit#).
@@ -487,7 +488,7 @@ We find that internal transparency about levels leads to a healthier working env
 
 This includes :lock:[each Trussel’s salary and level](https://docs.google.com/spreadsheets/d/1DcLAt2ujjIm_Aa3C5w_jfqhePYtBERpRk4qLPGBPCQ4/edit#gid=0), and :lock:[what being at that level means, as well as how to lose or gain a level](https://docs.google.com/document/d/1Zlbzv8FUqTukV_eGOWdnLBhcvZ29BNU0yFk5gO4JDgE/edit#heading=h.ys7hvdzb2ga5).
 
-Level changes and salary adjustments occur for 25% of Trussels each quarter. More on that in the reviews section.
+More info on that can be found in the reviews section.
 
 ## Resource: :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit)
 What holidays do we take as an organization?
@@ -577,9 +578,6 @@ Once a quarter, Bubbles present an update on the company — how we’re doing, 
 
 ## Practice: Reviews
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
-
-## Practice: Company retros every quarter
-In order to have a continual improvement of Truss, and to have an environment to air issues towards resolution, we host an organizational retro approximately once a quarter. You can read more about the process, including how we deal with action items, in :lock:[this retro how-to doc](https://docs.google.com/document/d/1otre3SpTU_eIpj4LlHNk3kt8FEPvdWIfQ-wRDNjWTLA/edit) which covers how to use Retrium as well.
 
 ### Tool: Retrium (retro support)
 Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #bizops to be added to the list of approved users.
