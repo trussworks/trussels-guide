@@ -118,7 +118,7 @@ Equipment can include:
 \#equipment-discussion is a great place for questions and equipment reviews.
 
 ## Resource: Communication Expectations
-Communication is essential.  We have a number of tools to use here at Truss, though some are far more prevalent than others.  Slack is our number one source of communication, while email is a tool we all have it is not as reliable or swift. This :lock:[doc](https://docs.google.com/document/d/1auMZSl-tUleBpJC8WjG6dtCvaEtjbbbCMnsVR7bIP8c/edit#heading=h.mw7235wtjesw) will provide you more info on that as well as expectation around Zoom, communication during business travel, and general communication tips: 
+Communication is essential.  We have a number of tools to use here at Truss, though some are far more prevalent than others.  Slack is our number one source of communication, while email is a tool we all have it is not as reliable or swift. This :lock:[doc](https://docs.google.com/document/d/1auMZSl-tUleBpJC8WjG6dtCvaEtjbbbCMnsVR7bIP8c/edit#heading=h.mw7235wtjesw) will provide you more info on that as well as expectations around Zoom, communication during business travel, and general communication tips: 
 
 ## Practice: Expect to use Slack a lot
 We value open and transparent communication, which makes Slack a better communication tool for us than email. (Our other major communication tool is :lock:[Zoom, for video conferencing](https://docs.google.com/document/d/1P2QzYm5v21IdrgbDjEZG2kq9E5GCu5lcSPv-2-2RxCg/edit).)
