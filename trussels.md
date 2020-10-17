@@ -35,6 +35,7 @@ Please take a look and let us know if you have any questions.
     * Information about **health insurance** (it’ll say it’s in California because that’s where Truss is registered as a business. We promise it’s ok, but please still check in if you’re worried) — probably arrives along with Paylocity
 * A **laptop** — to do your work! — arrives before your first day. You’ll run through the :lock:[securely setting up your Mac checklist](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs/edit) during your onboarding call. This (and other) link(s) won’t work until you have your @truss.works email address set up.
 * A company **credit card** — to purchase things more easily through the company! Upon its arrival please ping #accounting for your Unique ID to activate the card — contact the onboarding manager if your card hasn’t arrived and you have need of it. It is not tied to your personal credit.
+    * Until your company credit card arrives, feel free to buy things with your personal card if you wish, so that you are not delayed in getting the things that make you effective from the outset. You can :lock:[reimburse these things](https://docs.google.com/document/d/111fUHlCubh2MG00JjKbWzgZ5uHdnQEPeLCcFuWl7l3g/edit#heading=h.a3hgmt3xnmb3).
 * A **T-shirt** — to show you belong! — arrives a week or four after joining.
 * A **sticker** — to stick to things! — arrives a week or four after joining.
 
