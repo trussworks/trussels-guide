@@ -84,12 +84,12 @@ We use a handy slackbot called `/define`. You can use it to search for unfamilia
 
 You’ll also see some things mentioned in this intro (“Prac,” “decision records,” and the things beginning with a #) which will become clear later.
 
-## Practice: [Distributed-first](https://github.com/trussworks/Distributed-playbook)
+## Practice: [Distributed-first](https://guide.truss.works/distributed)
 We are a distributed-first business.
 
 While there is a large handful of Trussels in the San Francisco bay area, we are ultimately a distributed-first company with Trussels that live and work in entirely different cities or states across the country. Many of us work from home or co-work spaces, or work while traveling to clients.
 
-We :lock:[run experiments to figure out how to better include distributed folk](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), and we have [a playbook for our established practices](https://github.com/trussworks/Distributed-playbook).
+We :lock:[run experiments to figure out how to better include distributed folk](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), and we have [a playbook for our established practices](https://guide.truss.works/distributed).
 
 If you find yourself using a coworking space, please use :lock:[the budget for coworking space](https://docs.google.com/document/d/1iJKrrd-u1aJ_mdKJRWrSho8d3fKLkOj0_NLuSQ73hQo/edit). (More on this and other decision records after your first day.)
 
@@ -147,10 +147,10 @@ If you like to celebrate your birthday or Trusselversary, join us in #celebratio
 
 You will likely end up with a mix of project channels, team channels, and fun channels.
 
-## Tool: Paylocity (payroll provider and bridge to benefits)
+## Tool: [Paylocity](https://www.paylocity.com) (payroll provider and bridge to benefits)
 Paylocity is where you request time off and manage where your paychecks go.
 
-Your benefits become active on the 1st of the month following your start date, but you can opt in at any time during the first 30 days of your employment. Truss offers HMO plans for Trussels in California as well as PPO plans for Trussels regardless of location. If you do not have link within Paylocity, please visit https://ztruss.bswift.com to access the benefits info.
+Your benefits become active on the 1st of the month following your start date, but you can opt in at any time during the first 30 days of your employment. Truss offers HMO plans for Trussels in California as well as PPO plans for Trussels regardless of location.
 
 ## Resource: A little history
 If you’re curious to learn more about our history and our goals, check out :lock:[the Founder presentation from the 2019 offsite](https://drive.google.com/drive/folders/12z0jg3xkc2CLH8xNmNUS0fOGdexXmE7U).
