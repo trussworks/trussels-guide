@@ -23,14 +23,18 @@ TODO
 -->
 
 # Community First
-One of the things that is imortant to us is making sure that we have a community around our projects that is safe for everyone to participate, no matter if they are fellow Trussels or not. This means that we have developed a strong [Code of Conduct](CODE-OF-CONDUCT) that governs how we manage the community and contributions to our projects. Our ultimate goal is to make sure that everyone has a voice and is able to contribute to our software in ways that are meaningful to them. You should always include a copy of the Code Of Conduct, or point to this canonical version so that the community at large is aware.
+One of the things that is important to us is making sure that we have a community around our projects that is safe for everyone to participate, no matter if they are fellow Trussels or not. This means that we have developed a strong [Code of Conduct](CODE-OF-CONDUCT) that governs how we manage the community and contributions to our projects. Our ultimate goal is to make sure that everyone has a voice and is able to contribute to our software in ways that are meaningful to them. You should always include a copy of the Code Of Conduct, or point to this canonical version so that the community at large is aware.
 
 # Licensing
 
-Documentation should be licensed as [CC-BY 4.0 International](LICENSE-CC-BY-4.0) when possible.
+Non-software projects, like documentation, should be licensed as [CC-BY 4.0 International](LICENSE-CC-BY-4.0) when possible and include a copy of the license.
 
-Where it makes sense, source code should default to using a [BSD](LICENSE-BSD-3-CLAUSE) license.
+Where it makes sense, source code should default to using an [Apache 2.0](LICENSE-APACHE-2.0) license, and should include a copy of the license.
+
+When there is a mix of items, please include a [`NOTICE`](NOTICE) file that declares which license(s) are in use for each part of the project.
 
 Certain projects may require the use of an existing license in the case of open source software not originally created by Truss. Follow these terms as conditions where necessary as it will specify how such code may be used, modified or shared.
 
 Each project may need to modify and extend licenses to fit their own circumstances.
+
+For fuller guidance, please see :lock:[TDR 0066 - Open Source License Defaults for TrussWorks Owned Projects](https://docs.google.com/document/d/12UYIN3XfRPdKQV87_0ILa9-z6eWRBcLqtwP9fCyR6Tg/edit#heading=h.5wnob6jxgsgl)
