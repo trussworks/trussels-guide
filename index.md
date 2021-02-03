@@ -12,7 +12,8 @@ We have two guides published right now:
 
 * The [`Trussel's Guide to Truss`](trussels), which is about Truss, the organization.
 * The [`Truss Distributed Playbook`](distributed), which is about distributed work.
+* The [`How to Open Source like a Trussel`](opensource), which is about how we do OSS software.
 
-These are both licensed [CC-BY 4.0 International](LICENSE-CC-BY-4.0).
+These are licensed [CC-BY 4.0 International](LICENSE-CC-BY-4.0).
 
 </section>
