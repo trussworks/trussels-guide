@@ -674,7 +674,7 @@ If you are no longer happy working on your current project, talk to your manager
 Alternatively, if you see another project spinning up that you are interested in, talk to your manager and perhaps the client lead for the new project, or drop in the project’s slack channel.
 
 ## Perk: 1Password Families
-Our 1Password license allows Trussels to obtain a :lock:[1Password Families](https://1password.com/families/) license, which will allow you to use 1Password at home and share the benefits with up to five family members. If you already have a paid subscription for 1Password, you may use your complimentary license from Truss to cover that cost for the duration of your time with us. When enrolling in 1Password families, please use your personal email address.
+Our 1Password license allows Trussels to obtain a :lock:[1Password Families](https://support.1password.com/link-family/) license, which will allow you to use 1Password at home and share the benefits with up to five family members. If you already have a paid subscription for 1Password, you may use your complimentary license from Truss to cover that cost for the duration of your time with us. When enrolling in 1Password families, please use your personal email address.
 
 If you leave Truss, you will need to add your own payment information to the 1Password Families account. You will never be locked out of your data if your subscrition lapses, but you will not be able to add new passwords to your vault.
 
