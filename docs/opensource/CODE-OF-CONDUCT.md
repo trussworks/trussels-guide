@@ -1,11 +1,10 @@
-<!-- We want a table of contents in the sidebar.  The krampdown -->
-<!-- renderer supports {:toc}, but there's no way to have a layout -->
-<!-- processed by krampdown.  Thus, we put some light layout -->
-<!-- information here in the markdown. -->
-{% include sidebar.html %}
+---
+layout: default
+parent: How to Open Source like a Trussel
+---
 
-<section markdown="1">
 # Contributor Covenant Code of Conduct
+{: .no_toc .fw-700 }
 
 ## Our Pledge
 

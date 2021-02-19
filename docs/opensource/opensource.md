@@ -1,11 +1,23 @@
-<!-- We want a table of contents in the sidebar.  The krampdown -->
-<!-- renderer supports {:toc}, but there's no way to have a layout -->
-<!-- processed by krampdown.  Thus, we put some light layout -->
-<!-- information here in the markdown. -->
-{% include sidebar.html %}
+---
+layout: default
+title: How to Open Source like a Trussel
+nav_order: 4
+has_toc: false
+has_children: true
+---
 
-<section markdown="1">
 This is the `How to Open Source like a Trussel`, written by Trussels for Trussels. We share it here for others to see how we approach open source.
+
+<hr>
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+* TOC
+{:toc}
+</details>
+<hr>
 
 # Default To Open
 Truss encourages working in the open. What does this mean? Making the software we write open source where we can as often as we can so that everyone can benefit. Benefits include early identification and elimination of defects, cost savings through outside involvement, and reusability.
@@ -23,15 +35,15 @@ TODO
 -->
 
 # Community First
-One of the things that is important to us is making sure that we have a community around our projects that is safe for everyone to participate, no matter if they are fellow Trussels or not. This means that we have developed a strong [Code of Conduct](CODE-OF-CONDUCT) that governs how we manage the community and contributions to our projects. Our ultimate goal is to make sure that everyone has a voice and is able to contribute to our software in ways that are meaningful to them. You should always include a copy of the Code Of Conduct, or point to this canonical version so that the community at large is aware.
+One of the things that is important to us is making sure that we have a community around our projects that is safe for everyone to participate, no matter if they are fellow Trussels or not. This means that we have developed a strong [Code of Conduct]({{ '/docs/opensource/CODE-OF-CONDUCT' | relative_url }}) that governs how we manage the community and contributions to our projects. Our ultimate goal is to make sure that everyone has a voice and is able to contribute to our software in ways that are meaningful to them. You should always include a copy of the Code Of Conduct, or point to this canonical version so that the community at large is aware.
 
 # Licensing
 
-Non-software projects, like documentation, should be licensed as [CC-BY 4.0 International](LICENSE-CC-BY-4.0) when possible and include a copy of the license.
+Non-software projects, like documentation, should be licensed as [CC-BY 4.0 International]({{ '/docs/opensource/LICENSE-CC-BY-4.0' | relative_url }}) when possible and include a copy of the license.
 
-Where it makes sense, source code should default to using an [Apache 2.0](LICENSE-APACHE-2.0) license, and should include a copy of the license.
+Where it makes sense, source code should default to using an [Apache 2.0]({{ '/docs/opensource/LICENSE-APACHE-2.0' | relative_url }}) license, and should include a copy of the license.
 
-When there is a mix of items, please include a [`NOTICE`](NOTICE) file that declares which license(s) are in use for each part of the project.
+When there is a mix of items, please include a [`NOTICE`]({{ '/docs/opensource/NOTICE' | relative_url }}) file that declares which license(s) are in use for each part of the project.
 
 Certain projects may require the use of an existing license in the case of open source software not originally created by Truss. Follow these terms as conditions where necessary as it will specify how such code may be used, modified or shared.
 

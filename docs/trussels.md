@@ -1,8 +1,8 @@
-<!-- We want a table of contents in the sidebar.  The krampdown -->
-<!-- renderer supports {:toc}, but there's no way to have a layout -->
-<!-- processed by krampdown.  Thus, we put some light layout -->
-<!-- information here in the markdown. -->
-{% include sidebar.html %}
+---
+layout: default
+title: Trussels' Guide to Truss
+nav_order: 2
+---
 
 <section markdown="1">
 This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do.
@@ -10,6 +10,17 @@ This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We sha
 > **Disclaimer**: Hi, friend! Thanks for caring so much about this that you are reading the disclaimer! We super-duper appreciate it. Our lawyers need you to know that the Trussels' Guide to Truss is a reflection of Trussels' personal experiences, and neither Truss nor any of its employees are making any promises about anything. In other words, we (that’s all of us) hereby disclaim any and all warranties, duties or guarantees and this document is presented “AS IS”. You assume any and all risks if you incorporate or adopt any of these practices. Also, we make no promises about merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort, lack of negligence, or whether reading this a loud at midnight after the correct eldritch sacrifices may summon an unknowable horror that devours souls and flesh alike. We have no idea and make no promises! Whatever happens is all on you. Hooray!
 
 > **Disclaimer for Trussels**: This is a living document and should be considered malleable and fallible. The Founders have not read this document in a long time, and certainly do not read every edit. It really is not an employee handbook or formal statement of policy. If you have any questions about this guide or want to know Truss’s policy on any of these issues, please contact Jen or another Founder. If something seems like it’s wrong, or missing, or whatever, please suggest a change or ask about it in #onboarding on Slack. You can see when it was last updated in the version history.
+
+<hr>
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+* TOC
+{:toc}
+</details>
+<hr>
 
 # Pre-First-Day
 Hello, and welcome to Truss!
@@ -119,7 +130,7 @@ Equipment can include:
 \#equipment-discussion is a great place for questions and equipment reviews.
 
 ## Resource: Communication Expectations
-Communication is essential.  We have a number of tools to use here at Truss, though some are far more prevalent than others.  Slack is our number one source of communication, while email is a tool we all have it is not as reliable or swift. This :lock:[doc](https://docs.google.com/document/d/1auMZSl-tUleBpJC8WjG6dtCvaEtjbbbCMnsVR7bIP8c/edit#heading=h.mw7235wtjesw) will provide you more info on that as well as expectations around Zoom, communication during business travel, and general communication tips: 
+Communication is essential.  We have a number of tools to use here at Truss, though some are far more prevalent than others.  Slack is our number one source of communication, while email is a tool we all have it is not as reliable or swift. This :lock:[doc](https://docs.google.com/document/d/1auMZSl-tUleBpJC8WjG6dtCvaEtjbbbCMnsVR7bIP8c/edit#heading=h.mw7235wtjesw) will provide you more info on that as well as expectations around Zoom, communication during business travel, and general communication tips:
 
 ## Practice: Expect to use Slack a lot
 We value open and transparent communication, which makes Slack a better communication tool for us than email. (Our other major communication tool is :lock:[Zoom, for video conferencing](https://docs.google.com/document/d/1P2QzYm5v21IdrgbDjEZG2kq9E5GCu5lcSPv-2-2RxCg/edit).)
@@ -316,7 +327,7 @@ Most every state, and some cities, require some form of labor law posters to be 
 
 # First week
 ## Resource: Employee directory
-Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). 
+Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/).
 
 ## Group: Founders
 Truss has three founders:
@@ -386,7 +397,7 @@ We try to define :lock:[who should be doing what with the customer and on the te
 See also :lock:[this draft document on team lead / feature lead responsibilities](https://docs.google.com/document/d/1IM9129n1pwnqKinDNLgyD85i7xtejNbGmeOJXOqKpS8/).
 
 ## Resource: Company-wide projects (CWP) and Truss Events calendar
-We have a wide range of practices, disciplines, and working groups that comprise our CWP, they are listed in the :lock:[CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit). 
+We have a wide range of practices, disciplines, and working groups that comprise our CWP, they are listed in the :lock:[CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit).
 
 Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), operational disciplines are done via committee or as a team, and practice areas are covered by #bubble-prince. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
 
