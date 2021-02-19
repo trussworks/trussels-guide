@@ -1,0 +1,70 @@
+//
+// Custom overrides from a user.
+//
+
+// BASE
+html {
+  @include fs-5;
+}
+
+h1,
+.text-alpha {
+	font-weight: 700;
+}
+
+h2,
+.text-beta {
+	font-weight: 600;
+}
+
+// SIDENAV
+
+.navigation {
+  padding-left: $gutter-spacing-sm;
+  padding-right: $gutter-spacing-sm;
+}
+
+.navigation-list-link {
+	color: #091E42;
+	
+	&.active {
+		color: #D26048;
+	}
+
+	&:hover {
+		color: #D26048;
+	}
+}
+
+.navigation-list-item {
+	@include fs-4;
+}
+
+.main-nav.nav-open {
+	border-top: 1px solid #e2e2e2;
+	padding-top: 1rem;
+}
+
+.side-bar {
+	box-shadow: 1px 0 2px rgba(0,0,0,0.02), 
+              2px 0 4px rgba(0,0,0,0.02), 
+              4px 0 8px rgba(0,0,0,0.02), 
+              6px 0 16px rgba(0,0,0,0.02),
+              8px 0 32px rgba(0,0,0,0.02);
+  border: none;
+}
+
+// SITE HEADER
+.site-header {
+	border: none;
+}
+
+.site-title {
+	padding-left: $gutter-spacing-sm;
+  padding-right: $gutter-spacing-sm;
+
+  @include mq(md) {
+  	padding-top: .5rem;
+  	padding-bottom: 0;
+  }
+}

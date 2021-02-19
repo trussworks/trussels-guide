@@ -1,5 +1,42 @@
-# we extend the theme pretty heavily
-theme: jekyll-theme-minimal
+baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "https://research-design-playbook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "markdowncheatsheet.md", "contribution-guidelines/"]
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/truss-icon.svg"
+
+# Enable or disable the site search
+search_enabled: true
+
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "trussels-guide on GitHub":
+    - "//github.com/trussworks/trussels-guide"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 TrussWorks"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
+
 markdown: kramdown
+
 plugins:
   - jemoji
+  - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
