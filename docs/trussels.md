@@ -338,21 +338,21 @@ Truss has three founders:
 
 They are all great and approachable.
 
-## Group: Bubble Prince (leadership team)
-Bubble Prince is the term we use for the Truss leadership team; it includes the founding team and:
+## Group: Truss Leadership Team (formerly "Bubble Prince")
+Bubble Prince is the term formerly used for the Truss leadership team; it includes the founding team and:
 
 * **Andrew** Director of Product Management.
 * **Burstein** General Counsel.
-* **Jesse** Director of Research and Design.
-* **Kayless** Director of Government Programs.
-* **Kimber** Director of Security Engineering.
 * **Jeremy** Director of Infrastructure Engineering.
+* **Jesse** Director of Research and Design.
+* **Kimber** Director of Security Engineering.
 * **Nick** Application Engineering Practice Lead.
+* **Nicole** Head of People Ops.
 
 The name “Bubble Prince” came about because Mark (our CTO) brought up that we’re not always good at naming things clearly, saying “we definitely shouldn’t call it ‘bubble prince.’” And here we are. This is an example of a term you can find in the :lock:[Insider Language / Truss Glossary](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit).
 
 ## Resource: Departments and Practice Areas
-All our departments and practice areas are represented in the Bubble Prince team. Truss has three departments lead by the founders:
+All our departments and practice areas are represented in the Truss Leadership Team. Truss has three departments lead by the founders:
 
 * BizOps (business operations), lead by Jen (COO)
 * Key Practices (the product/service we sell), lead by Mark (CTO)
