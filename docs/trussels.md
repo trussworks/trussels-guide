@@ -78,7 +78,13 @@ Here are some things you might expect to work differently from other places:
 * **We often think of things within the [RACI framework](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix),** even when that’s not spelled out. (RACI = Responsible, Accountable, Consulted, and Informed.)
 
 ## Practice: Diversity & Inclusion
-Diversity & Inclusion are in the DNA of Truss. We :lock:[approach D&I strategically](https://docs.google.com/document/d/1ZtFNX-YzncPA9e9bysXAnKyYtMsMoIRSdXLR90ikKus/edit). While we can never be free of bias, we :lock:[work to diminish our biases](https://docs.google.com/document/d/1drjIPbGJww7a3rG0nU7aqx16MLwl25dvsJPg7FFhsEI/edit). We encourage continual self-reflection and practice.
+Diversity & Inclusion are in the DNA of Truss. We :lock:[approach D&I strategically](https://docs.google.com/document/d/1ZtFNX-YzncPA9e9bysXAnKyYtMsMoIRSdXLR90ikKus/edit). While we can never be free of bias, we :lock:[work to diminish our biases](https://docs.google.com/document/d/1drjIPbGJww7a3rG0nU7aqx16MLwl25dvsJPg7FFhsEI/edit). We encourage continual self-reflection and practice. To ensure we have a shared language around these concepts, we use the following definitions ([source](https://viablefuturescenter.org/racemattersinstitute/about-us-2/189-2/)):
+
+**Diversity** refers to the wide array of differences among people and their perspectives on the world. It is an important organizational goal in its own right, but a diverse workplace is not necessarily an equitable workplace.
+
+**Inclusion** is reflected in organizational culture where diverse peoples can raise their perspectives authentically, and where those voices matter and impact decisions. Promising a broader view of the world and a more democratic process of decision-making, inclusion is an important organizational process goal. But it does not automatically guarantee equity in an organization’s results.
+
+**Equity** refers to results where advantage and disadvantage are not distributed on the basis of identity. Strategies that produce equity must be targeted to address the varying barriers experienced by different marginalized groups and communities. Equity requires informed policies and practices, intentionally designed to promote opportunity and rectify disparities, as well as informed people positioned to implement them effectively.
 
 Together, we increase a sense of safety by knowing fellow Trussels are working to diminish their biases, too. We represent this in our [Diversity and Inclusion Pledge](https://truss.works/diversity-and-inclusion-pledge).
 
