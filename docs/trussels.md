@@ -119,7 +119,7 @@ At some point during your first week, please take 15-20 minutes to walk through 
 ### Practice: Equipment and setting up your workspace
 Wherever you work, we want you to be set up for comfort and success.
 
-For all employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/17fabSPNEgDAYLLLfqCQhv--2dV3jBSwdE2CSwVHjXys/edit).
+For all employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/17fabSPNEgDAYLLLfqCQhv--2dV3jBSwdE2CSwVHjXys/edit) and a $350 budget for headphones.
 
 Equipment can include:
 
