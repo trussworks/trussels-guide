@@ -341,30 +341,30 @@ They are all great and approachable.
 ## Group: Truss Leadership Team (formerly "Bubble Prince")
 Bubble Prince is the term formerly used for the Truss leadership team; it includes the founding team and:
 
-* **Andrew** Director of Product Management.
-* **Burstein** General Counsel.
-* **Jeremy** Director of Infrastructure Engineering.
-* **Jesse** Director of Research and Design.
-* **Kimber** Director of Security Engineering.
-* **Nick** Application Engineering Practice Lead.
-* **Nicole** Head of People Ops.
+* **Andrew Hughey** Director of Product Management.
+* **Michael Burstein** General Counsel.
+* **Jeremy Avnet** Director of Infrastructure Engineering.
+* **Jesse Taggert** Director of Research and Design.
+* **Kimber Dowsett** Director of Security Engineering.
+* **Nick Twyman** Application Engineering Practice Lead.
+* **Nicole Miles** Head of People Ops.
 
 The name “Bubble Prince” came about because Mark (our CTO) brought up that we’re not always good at naming things clearly, saying “we definitely shouldn’t call it ‘bubble prince.’” And here we are. This is an example of a term you can find in the :lock:[Insider Language / Truss Glossary](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit).
 
 ## Resource: Departments and Practice Areas
-All our departments and practice areas are represented in the Truss Leadership Team. Truss has three departments lead by the founders:
+Truss has three departments lead by the founders:
 
-* BizOps (business operations), lead by Jen (COO)
-* Key Practices (the product/service we sell), lead by Mark (CTO)
-* Sales (commercial and government), lead by Everett (CEO)
+* BizOps (business operations), lead by Jen Leech (COO)
+* Key Practices (the product/service we sell), lead by Mark Ferlatte (CTO)
+* Sales (commercial and government), lead by Everett Harper (CEO)
 
 Key Practices consists of the following practice areas:
 
-* Application Engineering, lead by Nick
-* Delivery Management, lead by Kayless
-* InfraSec, lead by Kimber & Jeremy
-* Product, lead by Andrew
-* Research & Design, lead by Jesse
+* Application Engineering, lead by Nick Twyman
+* Delivery Management, lead by Amy Meng
+* InfraSec, lead by Kimber Dowsett & Jeremy Avnet
+* Product Management, lead by Andrew Hughey
+* Research & Design, lead by Jesse Taggert
 
 ## Meeting: Manager 1:1s
 You have likely already met with your manager. 1:1s are an essential practice at Truss. Everyone meets with their manager on a regular basis, at a frequency comfortable for both of them.
@@ -475,7 +475,7 @@ When we hire, we want to be sure we maintain our values and expand our diversity
 
 * :lock:[Here are some training materials for digital screens](https://drive.google.com/drive/u/0/folders/1hxCXc52LvS8J2axYas4F5QayNvcz1XbG).
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* :lock:[These are the positions we are currently hiring for](https://docs.google.com/spreadsheets/d/13_DFMpOHwN4vAl3lRSHze46pJm5GCzIcrbMCgJgiumA).
+* :lock:[These are the positions we are currently hiring for](https://docs.google.com/spreadsheets/d/1xPcmMqcZCAIeaHlCiUNABODuZn6S44rMaGEEPe2ompc/edit#gid=1962892766).
 * We use Lever to track our hiring pipeline. See the next section.
 
 You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them.
@@ -638,7 +638,7 @@ Remember in weeks one and two when we talked about helping us to hire? Review th
 We encourage informal mentorship (and co-mentorship) at Truss. You can read :lock:[all about our approach](https://docs.google.com/document/d/1sS0ps5xVp6ClrVavKiPAfJqEKV5sq7B8I4OfIjvZsls/edit).
 
 ## Meeting: Offsites
-We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI). We’re planning our next, see #wg-offsite2020 for updates.
+We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI). 
 
 ## Resource: Conferences
 See our guide to :lock:[conferences and professional development](https://docs.google.com/document/d/1W9RZ1Ywv9J_SMzuwH0UTsn0LvYHRDcjFQwIzA4J_YRo/edit).
