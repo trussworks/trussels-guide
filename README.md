@@ -21,7 +21,7 @@ The following methods will result in the site being available at [http://localho
 If you have Docker installed you can run the following without managing Ruby on your system:
 
 ```sh
-docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:2.6 /bin/bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
+docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:2.7.2 /bin/bash -c "gem install bundler:2.2.13 && bundle install && bundle exec jekyll serve --host 0.0.0.0"
 ```
 
 ### Local Ruby
