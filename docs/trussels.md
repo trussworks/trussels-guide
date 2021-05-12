@@ -95,12 +95,12 @@ We use a handy slackbot called `/define`. You can use it to search for unfamilia
 
 You’ll also see some things mentioned in this intro (“Prac,” “decision records,” and the things beginning with a #) which will become clear later.
 
-## Practice: [Distributed-first](https://guide.truss.works/distributed)
+## Practice: [Distributed-first](https://guide.truss.works/docs/distributed)
 We are a distributed-first business.
 
 While there is a large handful of Trussels in the San Francisco bay area, we are ultimately a distributed-first company with Trussels that live and work in entirely different cities or states across the country. Many of us work from home or co-work spaces, or work while traveling to clients.
 
-We :lock:[run experiments to figure out how to better include distributed folk](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), and we have [a playbook for our established practices](https://guide.truss.works/distributed).
+We :lock:[run experiments to figure out how to better include distributed folk](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), and we have [a playbook for our established practices](https://guide.truss.works/docs/distributed).
 
 If you find yourself using a coworking space, please use :lock:[the budget for coworking space](https://docs.google.com/document/d/1iJKrrd-u1aJ_mdKJRWrSho8d3fKLkOj0_NLuSQ73hQo/edit). (More on this and other decision records after your first day.)
 
@@ -378,18 +378,26 @@ Every Friday at 9:30a Pacific / 12:30p Eastern, we have an optional half hour me
 
 At BHT, people can share things going on in their lives, or even to show and tell something interesting to the group. Frequently, the facilitator also has a particular prompt for the week.
 
+Can be found on the Truss Events calendar.
+
 ## Meeting: Friday Practitioners Meetings (a.k.a. Prac)
 Every Friday at 10a Pacific / 1p Eastern, we have Prac. It’s a time for us to hear from the founders, get updates on projects, recognize each other’s contributions, and so on.
 
 Find upcoming agendas and past notes in Google Drive at Truss > Meetings > :lock:[Practitioners Meetings](https://drive.google.com/drive/folders/1EnPcgZiymz23JPZ2CoOQUQ56nhgXCQYh).
+
+Can be found on the Truss Events calendar.
 
 ## Meeting: One Topic Talks (OTT)
 Often on Fridays after Pracs, a Trussel signs up for a 20-40 minute time slot to practice a talk or explore a topic; occasionally someone from outside the company presents to us. We often record these, and store the :lock:[recordings on Google Drive](https://drive.google.com/drive/u/0/folders/1uZXvsUnKao3wsPdXcG1eNomQi2pdCPY5).
 
 OTT spots are taken up on a first-come-first-served basis — just claim the event by changing the event title on the company-wide calendar.
 
+Can be found on the Truss Events calendar.
+
 ## Meeting: Ask Me Anything (AMA)
-Hosted every Friday at 2p Pacific / 5p Eastern by a member of the leadership team.  Got a question, get an answer, really..ask them anything!
+Hosted every other Friday at 9a Pacific / 12p Eastern by a member of the leadership team.  Got a question, get an answer, really..ask them anything!
+
+Can be found on the Truss Events calendar.
 
 ## Resource: Truss roles and responsibilities
 We try to define :lock:[who should be doing what with the customer and on the team](https://docs.google.com/document/d/10OE6h8NTHKr5K969r2JcjmwsBcUWJjAfEAtBcbx9dw8/edit) to ensure we meet expectations. Discuss with your manager which role(s) you’ll serve in.
@@ -443,7 +451,7 @@ You’ll be invited to our GitHub org via your @truss.works email address. You c
 We tend to use one GitHub account with multiple client organizations (and GitHub supports that model well), so it's really up to you. You will need to maintain account security (2FA, etc) for the account you do use.
 
 ## Resource: Client projects
-What projects is Truss working on? You can check out most recent :lock:[Pracs](https://drive.google.com/drive/folders/1ZQe5WfJJpA9bgLjbgpKIkJivSXDowBIm) for a list of clients and current status.
+What projects is Truss working on? You can check out most recent :lock:[Pracs](https://drive.google.com/drive/folders/1EnPcgZiymz23JPZ2CoOQUQ56nhgXCQYh) for a list of clients and current status.
 
 * Your project might have an onboarding doc specific to the project you’ll be working on.
 * Take a look at the :lock:[Truss Clients Folder](https://drive.google.com/drive/folders/1_v3nrWMfmQU4Jw3TswhUptYVwqmA7pu8) to find more documentation — especially important if you are in bizops or are a client or team lead.
@@ -475,7 +483,7 @@ When we hire, we want to be sure we maintain our values and expand our diversity
 
 * :lock:[Here are some training materials for digital screens](https://drive.google.com/drive/u/0/folders/1hxCXc52LvS8J2axYas4F5QayNvcz1XbG).
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* :lock:[These are the positions we are currently hiring for](https://docs.google.com/spreadsheets/d/1xPcmMqcZCAIeaHlCiUNABODuZn6S44rMaGEEPe2ompc/edit#gid=1962892766).
+* :lock:[These are the positions we are currently hiring for](https://docs.google.com/spreadsheets/d/1xPcmMqcZCAIeaHlCiUNABODuZn6S44rMaGEEPe2ompc/edit).
 * We use Lever to track our hiring pipeline. See the next section.
 
 You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them.
@@ -638,7 +646,7 @@ Remember in weeks one and two when we talked about helping us to hire? Review th
 We encourage informal mentorship (and co-mentorship) at Truss. You can read :lock:[all about our approach](https://docs.google.com/document/d/1sS0ps5xVp6ClrVavKiPAfJqEKV5sq7B8I4OfIjvZsls/edit).
 
 ## Meeting: Offsites
-We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI). 
+We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI).
 
 ## Resource: Conferences
 See our guide to :lock:[conferences and professional development](https://docs.google.com/document/d/1W9RZ1Ywv9J_SMzuwH0UTsn0LvYHRDcjFQwIzA4J_YRo/edit).

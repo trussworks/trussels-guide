@@ -9,7 +9,7 @@ permalink: /
 
 This is the `Trussels' Guide`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do.
 
-We have two guides published right now:
+We have the following guides published right now:
 
 * The [`Trussels' Guide to Truss`]({{ '/docs/trussels' | relative_url }}), which is about Truss, the organization.
 * The [`Truss Distributed Playbook`]({{ '/docs/distributed' | relative_url }}), which is about distributed work.
