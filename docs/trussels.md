@@ -76,6 +76,8 @@ We believe:
 
 **Remember, we are human.**
 
+Everett, Jen, and Mark believe these things and hope that you do, too.
+
 ### Purpose
 
 Truss' purpose is: "Move to the edge and declare it center." If you're wondering what that means, [Everett did a talk that goes into some detail](https://www.youtube.com/watch?v=Z0xOy5puyDM).
