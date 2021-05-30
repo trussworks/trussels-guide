@@ -58,10 +58,27 @@ Please take a look and let us know if you have any questions.
 
 And now, here’s some more reading to get a sense of what you’re coming into...
 
-## Practice: Our values
+## Practice: Our values, beliefs, and purpose
+
+### Values
 We hold [our values](https://truss.works/values) dearly, and we take time to make them visible by explicitly appreciating people who have embodied them.
 
 If you ever feel uncertain about what to do in a given circumstance, or if you’re writing someone’s review, or if you’re about to be in Prac, or you’re considering if a person you just interviewed would be a good addition, etc, these are the grounding rod for Truss.
+
+### Beliefs
+While our values are tactical in nature, our beliefs are constraints that must always be true.
+
+We believe:
+
+* All people must have the ability and opportunity to do their best work.
+* We pursue mastery of craft and mastery of self.
+* We pursue explicit and positive outcomes for Truss employees, customers, partners, owners, end users and their communities.
+
+**Remember, we are human.**
+
+### Purpose
+
+Truss' purpose is: "Move to the edge and declare it center." If you're wondering what that means, [Everett did a talk that goes into some detail](https://www.youtube.com/watch?v=Z0xOy5puyDM).
 
 ## Practice: Collaboration practices
 Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our :lock:[leveling guide](https://docs.google.com/document/d/1AbJBFEkVhSDSRty8oN44PTgiL1NK3X8xe2k4tSpKhhc/edit).
