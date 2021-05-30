@@ -8,7 +8,7 @@ The Trussel's Guide is important documentation and needs to be correct. Anybody 
 
 ## Architecture
 
-The guide is hosted on Github Pages. DNS is managed via the Truss AWS account. Merges to `master` deploy in a couple of minutes.
+The guide is hosted on Github Pages. DNS is managed via the Truss AWS account. Merges to `main` deploy in a couple of minutes.
 
 Github Pages acts like Jekyll, more or less.
 
