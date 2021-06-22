@@ -357,7 +357,7 @@ Spending a little time setting up Zoom helps make a good experience for you and 
   * Check “Press and hold SPACE key to temporarily unmute yourself” — SPACE is easier to find than the unmute button.
 * Check “Turn off my video when joining a meeting.” This will allow you to gather yourself before entering a meeting space, preventing potentially embarrassing moments.
 * If you use the same email account for both Zoom and Slack, you can type /zoom in Slack to generate a quick join link. This is super useful for ad hoc meetings.
-* Add your pronouns to your Zoom handle at set up. Doing this prevents confusion and normalizes inclusion.
+* [Add your pronouns to your Zoom handle at set up](https://support.zoom.us/hc/en-us/articles/4402698027533-Adding-and-sharing-your-pronouns). Doing this prevents confusion and normalizes inclusion.
 
 When you're in a meeting, follow these helpful tips:
 
