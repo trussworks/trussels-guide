@@ -350,8 +350,9 @@ Spending a little time setting up Zoom helps make a good experience for you and 
 * When you set up your Zoom account, assign scheduling privileges to scheduling helpers or executive assistants so they can add or remove meetings on your schedule.
 * Integrate Zoom into your Google calendar to make it easier to schedule video conferences. We are also fans of the Zoom browser plugin that adds Zoom details to Google Calendar invites.
 * If possible, use dual monitors. This will let you see a video of folks on one screen and share your other screen. Unfortunately, you will almost certainly find that Zoom puts the screens on the opposite monitors you want it to. Every. Darn. Time.
-* Go into Zoom settings and uncheck “Prompt a confirmation before leaving a meeting” so you can eliminate that bit of awkwardness where you’ve said goodbye but then have to look for the “exit meeting” prompt.
+* Go into Zoom settings and uncheck “Ask me to confirm when I leave a meeting” so you can eliminate that bit of awkwardness where you’ve said goodbye but then have to look for the “exit meeting” prompt.
 * Some people like to turn on the “Remind me” setting, which lets Zoom give you a notification of an upcoming meeting if you have the Zoom desktop app running in the background.
+* To be able to see up to 49 participants in each meeting, go to the video settings and check the box for "Display up to 49 participants per screen in Gallery View." Being able to see all of the participants on a call helps build connections and can minimize confusion.
 * Unless you are using a separate push-to-talk system (you probably aren’t — see below), apply the following settings:
   * Check “Mute microphone when joining a meeting.” This will prevent you from interrupting an in-progress meeting (and will generally help you avoid embarrassment).
   * Check “Press and hold SPACE key to temporarily unmute yourself” — SPACE is easier to find than the unmute button.
@@ -361,10 +362,10 @@ Spending a little time setting up Zoom helps make a good experience for you and 
 
 When you're in a meeting, follow these helpful tips:
 
-* Use the Zoom chat feature only for on-topic discussions. If you’d like to speak, type “hand” into the chat box. The presenter or facilitator can then walk through the hands in sequence. We’ve also found it useful to type “response” when you want to respond directly to something that someone else has said. Typing “response” allows the facilitator or presenter to “jump the stack” and call on you to respond, thereby allowing discussion to flow. Zoom does have a “raise hand” function, but we find it difficult to see and prefer just to use the chat.
-* Banter can be a really positive contribution to any meeting, especially presentations. It also can be exceptionally distracting. The host should decide if they want banter, and, if they do, then they should make a thread in your team chat app — not Zoom — for banter. This mulleted approach allows business upfront in Zoom, with a party in the back on Slack.
+* If you’d like to speak, type “hand” into the chat box. The presenter or facilitator can then walk through the hands in sequence. We’ve also found it useful to type “response”  or "re" when you want to respond directly to something that someone else has said. Typing “response” allows the facilitator or presenter to “jump the stack” and call on you to respond, thereby allowing discussion to flow. Zoom does have a “raise hand” function, but we find it difficult to see and prefer just to use the chat.
+* Use the Zoom chat feature only for on-topic discussions. Banter can be a really positive contribution to any meeting, especially presentations. It also can be exceptionally distracting. The host should decide if they want banter, and, if they do, then they should make a thread in your team chat app — not Zoom — for banter. This mulleted approach allows business upfront in Zoom, with a party in the back on Slack.
+* During introductions, icebreakers, or similar "around the room" conversations, take turns talking by choosing the next person to speak. This popcorn/beachball process prevents us talking over each other and keeps the conversation flowing. 
 * Full Screen mode is nice, except that it transforms the chat box into a floating window, which always seems to be in the way. Instead of using Full Screen mode, double click the window title bar so that the window grows to fill the screen (a subtle difference, granted). This keeps the chat box as a bar on the side of the video panel, minimizing distractions.
-* To be able to see up to 49 participants in each meeting, go to the video settings and check the box for "Display up to 49 participants per screen in Gallery View." Being able to see all of the participants on a call helps build connections and can minimize confusion.
 
 # Conclusion
 
