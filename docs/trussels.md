@@ -156,10 +156,11 @@ We value open and transparent communication, which makes Slack a better communic
 
 All Slack channels begin with “#” — you’ve seen some mentioned in this guide already.
 
-You’ve been added to 8 default channels:
+You’ve been added to 9 default channels:
 
 * **\#announcements**: Must-read messages for everyone at Truss. Discussions about announcements take place in other channels, typically #general or #random.
-* **\#random**: Not sure where it goes? It goes here! (This is also where we chatter during our weekly Prac meetings, instead of in the Zoom chat.)
+* **\#random**: Not sure where it goes? It goes here!
+* **\#prac**: This is where we chatter during our weekly Prac meetings, instead of in the Zoom chat. Prac agendas are also pinned for convenience.
 * **\#general**: All-Truss updates.
 * **\#onboarding**: Questions & improvement suggestions for onboarding.
 * **\#love**: Share :heart: for your fellow Trussels and the things they do.
