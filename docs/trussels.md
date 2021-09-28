@@ -347,7 +347,7 @@ Most every state, and some cities, require some form of labor law posters to be 
 
 # First week
 ## Resource: Employee directory
-Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). Further along in this guide, you'll take steps to add yourself to the team page.
+Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). More details on how you get added to the team page can be found later in this guide.
 
 ## Group: Founders
 Truss has three founders:
