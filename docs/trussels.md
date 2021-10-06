@@ -362,12 +362,11 @@ They are all great and approachable.
 Bubble Prince is the term formerly used for the Truss leadership team; it includes the founding team and:
 
 * **Andrew Hughey** Director of Product Management.
-* **Michael Burstein** General Counsel.
 * **Jeremy Avnet** Director of Infrastructure Engineering.
 * **Jesse Taggert** Director of Research and Design.
-* **Kimber Dowsett** Director of Security Engineering.
 * **Nick Twyman** Application Engineering Practice Lead.
-* **Nicole Miles** Head of People Ops.
+* **Hannah Kane** Head of Delivery.
+* **Nora Alves** (Interim) Head of People.
 
 The name “Bubble Prince” came about because Mark (our CTO) brought up that we’re not always good at naming things clearly, saying “we definitely shouldn’t call it ‘bubble prince.’” And here we are. This is an example of a term you can find in the :lock:[Insider Language / Truss Glossary](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit).
 
@@ -381,8 +380,8 @@ Truss has three departments lead by the founders:
 Key Practices consists of the following practice areas:
 
 * Application Engineering, lead by Nick Twyman
-* Delivery Management, lead by Amy Meng
-* InfraSec, lead by Kimber Dowsett & Jeremy Avnet
+* Delivery Management, lead by Hannah Kane
+* InfraSec, lead by Jeremy Avnet
 * Product Management, lead by Andrew Hughey
 * Research & Design, lead by Jesse Taggert
 
