@@ -22,7 +22,7 @@ aux_links:
     - "//github.com/trussworks/trussels-guide"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 TrussWorks"
+footer_content: "Copyright &copy; 2021 TrussWorks"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
