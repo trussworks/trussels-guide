@@ -347,7 +347,7 @@ Most every state, and some cities, require some form of labor law posters to be 
 
 # First week
 ## Resource: Employee directory
-Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/).
+Want to know who you’re working with? :lock:[Here's a complete list of Trussels](https://docs.google.com/spreadsheets/d/1KqJSQX4fEZ2_ia4GyJ-51GXCJ-2w29ygNfLH4W6PDFk/edit#gid=166180719). You can read Trussels’ bios on [our website’s team page](https://truss.works/team/). More details on how you get added to the team page can be found later in this guide.
 
 ## Group: Founders
 Truss has three founders:
@@ -482,7 +482,7 @@ We tend not to talk about our clients or the work, unless an exception has been 
 It can be fun to tell your friends “I'm sorry, I can't talk about my work" secret-agent style. For more on why please see our :lock:[Clients are Confidential decision record](https://docs.google.com/document/d/1Z55GH3BrfRnUt0hUCb6sdi4ecXC_ZLlOD5tW-kDOigA/edit#).
 
 ## Resource: Team page
-We want to let the world know you work here! Please submit your headshot and bio in the Pivotal story requesting it.
+We want to let the world know you work here! If you didn't submit a photo of yourself and short bio in the onboarding form, please submit your headshot and bio to the People Ops team.
 
 * [Here’s what the team page looks like](https://truss.works/team/) — each of us has submitted a photo and bio.
 * If you’re worried about writing a bio, feel free to use :lock:[this framework](https://docs.google.com/document/d/187KfAd5l9dpMxw8TTpVLSHEuYyQYCUbUnU6ej_t7qMY/edit).
