@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 <section markdown="1">
-This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do.
+This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do. 
 
 > **Disclaimer**: Hi, friend! Thanks for caring so much about this that you are reading the disclaimer! We super-duper appreciate it. Our lawyers need you to know that the Trussels' Guide to Truss is a reflection of Trussels' personal experiences, and neither Truss nor any of its employees are making any promises about anything. In other words, we (that’s all of us) hereby disclaim any and all warranties, duties or guarantees and this document is presented “AS IS”. You assume any and all risks if you incorporate or adopt any of these practices. Also, we make no promises about merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort, lack of negligence, or whether reading this a loud at midnight after the correct eldritch sacrifices may summon an unknowable horror that devours souls and flesh alike. We have no idea and make no promises! Whatever happens is all on you. Hooray!
 
@@ -594,12 +594,12 @@ Remember in week one when we talked about digital screens? Review that section t
 ## Resource: Support
 We have a team that acts as both executive assistants for some folk and to schedule interviews for hiring.
 
-If you ever want to schedule something and include an oversubscribed person (usually Bubbles), please check the pinned message in #aim2assist to see who wrangles them. They can see some things on calendars other Trussels can’t.
+If you ever want to schedule something and include someone from TLT, please check the pinned message in #aim2assist to see who wrangles them. They can see some things on calendars other Trussels can’t.
 
 If you have questions about a scheduled interview or something else related to hiring, ping @hiring-support.
 
 ## Tool: Expensify (expense tracking) + our credit card
-We track our expenses in Expensify. You’ll set up an account and join our organization. Please use your Truss card, rather than a personal card, for anything related to Truss or our clients whenever possible. Please check out :lock:[the Truss Guide to Credit Cards, Expense Categories, Expensify, and Reimbursement Policy](https://docs.google.com/document/d/111fUHlCubh2MG00JjKbWzgZ5uHdnQEPeLCcFuWl7l3g/edit#heading=h.vgnrvk7wzdu2).
+We track our expenses in Expensify. You’ll set up an account and join our organization. Please use your Truss card, rather than a personal card, for anything related to Truss or our clients whenever possible. Please check out :lock:[the Truss Guide to Credit Cards, Expense Categories, Expensify, and Reimbursement Policy](https://docs.google.com/document/d/111fUHlCubh2MG00JjKbWzgZ5uHdnQEPeLCcFuWl7l3g/edit#heading=h.vgnrvk7wzdu2). Please also stay on top of submitting your expense reports, as it requires manual follow up 
 
 (Want a low-stakes way to try out Expensify? Consider making your first expense from the “Employee Effectiveness” budget to send your Onboarding Buddy something.)
 
@@ -616,13 +616,13 @@ We like to think we’re pretty great here at Truss, but we’re not perfect. So
 When you're done, download the blank certificate and policy, sign it and put in :lock:[this folder](https://drive.google.com/drive/folders/1v8GdbkXaVSoAh8AddTLAFDrf4IpOx186), and let your manager and onboarding manager know.
 
 ## Meeting: Quarterly stakeholders meetings
-Once a quarter, Bubbles present an update on the company — how we’re doing, and what we’re aiming for. It’s a special thing where Truss leadership demonstrates radical transparency with the team. It’s usually 90 minutes long and replaces a Friday Prac.
+Once a quarter, Truss Leadership Team (TLT) present an update on the company — how we’re doing, and what we’re aiming for. It’s a special thing where Truss leadership demonstrates radical transparency with the team. It’s usually 90 minutes long and replaces a Friday Prac.
 
 ## Practice: Reviews
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
 
 ### Tool: Retrium (retro support)
-Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #bizops to be added to the list of approved users.
+Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-infra to be added to the list of approved users.
 
 ## Practice: Employee effectiveness
 Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
@@ -641,7 +641,7 @@ When using a service that customarily takes tips — restaurants, hotel room hou
 We have documents about :lock:[booking travel](https://docs.google.com/document/d/1cmX_l8KKoXzvGClxDCKmxNRrJl5r5b2zQA4oaZag-GE/edit), :lock:[car rental business account](https://docs.google.com/document/d/1mUywlbohK3hkbvoGQcv_HQM0vShEpPHSV_ktPG_ZWS0/edit), :lock:[mandatory info required for car rental insurance](https://docs.google.com/forms/d/e/1FAIpQLScXIw9ZUHDywa6cBYpM2SZcm9LZXNbVvIw0AlpqBqOwynBpxw/viewform?usp=sf_link) [(reference)](https://trussworks.slack.com/archives/CJ92Z9H0W/p1564526082023700), and :lock:[security at borders](https://docs.google.com/document/d/1hFWi8eSTGc56h6o5V_hQY4laVIqE4nBB6_yThJ-kehc/edit?usp=sharing).
 
 ### International travel
-If you want to go outside the United States, especially while on a government contract, you’ll need to check with the program manager, potentially our lawyers, and definitely the client.
+If you want to go outside the United States, especially while on a government contract, you’ll need to check with the delivery manager or client success manager and definitely the client.
 
 Many of our clients specifically forbid taking a work laptop outside the U.S. This is **very important**. If you do want to go overseas and bring a Truss laptop, we will need to wipe it and install basic communication tools like G Suite and Slack, but you will not be able to connect to any client repositories, drives, or infrastructure.
 
@@ -673,8 +673,6 @@ See our guide to :lock:[conferences and professional development](https://docs.g
 ## Resource: Public relations
 We work with a PR firm called Press Friendly. Their primary job is to align with our business strategy, create a 12-month PR narrative, place articles in publications and conferences ([partial list is here](https://truss.works/press-resources)), and conduct practitioner interviews to get expert opinions, stories, and data.
 
-PR planning happens quarterly (see :lock:[the Press Friendly folder in our public Drive](https://drive.google.com/drive/folders/1AWhKGcyGqzoSRvBltzh4029Po9IJzKWN)). You can review, or even submit ideas of your own :lock:[here](https://docs.google.com/spreadsheets/d/1wJUXntWQkpjAQx5hR31Fo5R2NyNAxtVdFrxCeJ8tSPc/edit#gid=800239856). PR updates are :lock:[documented weekly](https://docs.google.com/document/d/17UPsAsJuQMfdhVsGc70UJCdV20NwzNvs4J5RiQatwJc/edit).
-
 While we don’t require sharing and spreading our content, it does make an enormous difference. We have attracted candidates as well as prospects (on vacation in Italy!) because they read an article that a Trussel shared. We will share when articles are released in the #marketing channel at minimum.
 
 ### Practice: Writing for the blog
@@ -687,7 +685,7 @@ If there’s something you’re particularly excited about, we’d love to help 
 * If you do use LinkedIn, please make sure your profile is up to date. Clients routinely use it as a way to see who we are.
 
 ## Practice: Helping onboard new Trussels
-To help people acclimate more quickly, we have :lock:[an onboarding buddy system](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit). Buddies can be found in #c-welcoming, and rotate approximately every 3 months. Any trussel that has completed their onboarding can become an onboarding buddy.
+To help people acclimate more quickly, we have :lock:[an onboarding buddy system](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit). Any trussel that has completed their onboarding can become an onboarding buddy.
 
 ## Practice: Starting a new auxiliary group within Truss
 If you see a need for a new working group, committee, guild, or affinity group at Truss, please follow :lock:[this guide in how to set up an auxiliary group](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762).
@@ -704,7 +702,7 @@ Are you just not getting what you need out of :lock:[the tools we already use wi
 * :lock:[Any contracts will need to be signed by one of the founders](https://docs.google.com/document/d/1bNuvvPSTpepWlyYhE8GpvFMaQP3I7izTkgEiFauk2I0/edit) or Truss’s general counsel.
 * Check in with #accounting on how to get those bills paid.
 * Let #legal know where a copy of the license can be found.
-* Make sure that there are at least two admins for any tool you are using to make sure we can still access it if one of you ~~gets hit by a bus~~ wins the lottery and moves to a remote mountain top.
+* Make sure that there are at least two admins for any tool you are using to make sure we can still access it if one of you wins the lottery and moves to a remote mountain top.
 
 ## Practice: Changing Projects
 If you are no longer happy working on your current project, talk to your manager. They will work with you to figure out if there are upcoming projects that might be of interest or other possible options. If you are no longer ethically aligned with your project, please review :lock:[this document](https://docs.google.com/document/d/1sNX0u6rwO3lZrUa3Xp0BE77W6EiQrNMZL3RbqhAcXDI/edit#) (and talk to your manager).
