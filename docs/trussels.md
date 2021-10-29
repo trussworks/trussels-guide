@@ -358,8 +358,8 @@ Truss has three founders:
 
 They are all great and approachable.
 
-## Group: Truss Leadership Team (formerly "Bubble Prince")
-Bubble Prince is the term formerly used for the Truss leadership team; it includes the founding team and:
+## Group: Truss Leadership Team 
+The Truss leadership team includes the founding team and:
 
 * **Andrew Hughey** Director of Product Management.
 * **Jeremy Avnet** Director of Infrastructure Engineering.
@@ -367,8 +367,6 @@ Bubble Prince is the term formerly used for the Truss leadership team; it includ
 * **Nick Twyman** Application Engineering Practice Lead.
 * **Hannah Kane** Head of Delivery.
 * **Nora Alves** (Interim) Head of People.
-
-The name “Bubble Prince” came about because Mark (our CTO) brought up that we’re not always good at naming things clearly, saying “we definitely shouldn’t call it ‘bubble prince.’” And here we are. This is an example of a term you can find in the :lock:[Insider Language / Truss Glossary](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit).
 
 ## Resource: Departments and Practice Areas
 Truss has three departments lead by the founders:
@@ -502,7 +500,6 @@ When we hire, we want to be sure we maintain our values and expand our diversity
 
 * :lock:[Here are some training materials for digital screens](https://drive.google.com/drive/u/0/folders/1hxCXc52LvS8J2axYas4F5QayNvcz1XbG).
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* :lock:[These are the positions we are currently hiring for](https://docs.google.com/spreadsheets/d/1xPcmMqcZCAIeaHlCiUNABODuZn6S44rMaGEEPe2ompc/edit).
 * We use Lever to track our hiring pipeline. See the next section.
 
 You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them.
