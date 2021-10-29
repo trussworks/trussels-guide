@@ -418,11 +418,6 @@ Hosted every other Friday at 9a Pacific / 12p Eastern by a member of the leaders
 
 Can be found on the Truss Events calendar.
 
-## Resource: Truss roles and responsibilities
-We try to define :lock:[who should be doing what with the customer and on the team](https://docs.google.com/document/d/10OE6h8NTHKr5K969r2JcjmwsBcUWJjAfEAtBcbx9dw8/edit) to ensure we meet expectations. Discuss with your manager which role(s) you’ll serve in.
-
-See also :lock:[this draft document on team lead / feature lead responsibilities](https://docs.google.com/document/d/1IM9129n1pwnqKinDNLgyD85i7xtejNbGmeOJXOqKpS8/).
-
 ## Resource: Company-wide projects (CWP) and Truss Events calendar
 We have a wide range of practices, disciplines, and working groups that comprise our CWP, they are listed in the :lock:[CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit).
 
