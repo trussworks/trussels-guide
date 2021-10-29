@@ -470,11 +470,9 @@ You’ll be invited to our GitHub org via your @truss.works email address. You c
 We tend to use one GitHub account with multiple client organizations (and GitHub supports that model well), so it's really up to you. You will need to maintain account security (2FA, etc) for the account you do use.
 
 ## Resource: Client projects
-What projects is Truss working on? You can check out most recent :lock:[Pracs](https://drive.google.com/drive/folders/1EnPcgZiymz23JPZ2CoOQUQ56nhgXCQYh) for a list of clients and current status.
+What projects is Truss working on? You can check out most recent :lock:[Project/Client Health Dashboard](https://docs.google.com/spreadsheets/d/1A-i48dfUrtt8cIyvZ-q4yLbIfq1dYM1tTNbxMeEqEnM/edit#gid=0) for a list of clients and current status.
 
 * Your project might have an onboarding doc specific to the project you’ll be working on.
-* Take a look at the :lock:[Truss Clients Folder](https://drive.google.com/drive/folders/1_v3nrWMfmQU4Jw3TswhUptYVwqmA7pu8) to find more documentation — especially important if you are in bizops or are a client or team lead.
-* Also look at :lock:[Client Project Descriptions](https://drive.google.com/drive/u/0/folders/1NBKj7gY2AUOmxFjzd97oXPQEac0wMbVI) inside that folder for more up to date information about the projects.
 
 ## Practice: Client privacy
 We tend not to talk about our clients or the work, unless an exception has been agreed on. There are NDAs which lend more specificity. Each project should document any things which are okay to discuss about a project, limitations of NDAs or Controlled Unclassified Data, etc. Talk to your project lead if there are any questions.
