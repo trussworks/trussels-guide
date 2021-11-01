@@ -515,7 +515,7 @@ Please upload your resume to our :lock:[staff resume folder](https://drive.googl
 
 # Second week
 ## Resource: Decision records (TDRs)
-We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shephered TDRs through completion by joining **#c-tdr**
+We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shepherd TDRs through completion by joining **#c-tdr**
 
 See what makes a good (and bad) TDR in the :lock:[101 doc](https://docs.google.com/document/d/1RfUU5syewOTYwuYId1D0Z-tXBvNlzko6fUEDCyfQ60U/edit#). You can see all active TDRs our :lock:[Decision Record folder](https://drive.google.com/drive/folders/1yzan1FKNjbe48EvQldI3X6_AkeGXGpcY).
 
