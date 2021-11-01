@@ -249,7 +249,7 @@ Let’s get security practices in place before signing up for tools. Security ca
 You’ll also go over these tools during your onboarding meeting. Before setting them up, please review our :lock:[laptop setup & security guidelines](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs). The guide includes setup instructions for your laptop.
 
 ### Security Tool: 1Password (password management)
-We use this password manager to ensure that we use strong, unique passwords for all of our tools. Note that you get a [free 1Password Families membership](https://support.1password.com/link-family/) with your Truss 1Password account.
+We use 1Password as our password manager to ensure that we use strong, unique passwords for all of our tools. Note that you get a [free 1Password Families membership](https://support.1password.com/link-family/) with your Truss 1Password account.
 
 If you already use 1Password, spend a few minutes reading their documentation on using multiple accounts. 
 
