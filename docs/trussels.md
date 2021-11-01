@@ -278,7 +278,7 @@ We also have some private Slack channels specifically for affinity groups — th
 You can type `/list-groups` in any Slack channel (including a direct message to yourself) to see these affinity groups, and then follow the directions to join as appropriate. You can also learn more in :lock:[this guide](https://docs.google.com/document/d/1ZNdjjtjT9X7QdNkP25NkZEbYPaMWfnjDm5mZVqIanBo/edit).
 
 ## Tool: Zoom (videoconferencing)
-We use Zoom for our meetings. You’ve already used it when you interviewed and for your onboarding meeting! It allows people to join by either video or phone audio. :lock:[If at least one person in a meeting will be distributed, we encourage everyone in the meeting to use Zoom](https://docs.google.com/document/d/1f4Kavn0mxLamvn3AYBMpLHVsF8vgnfcP28IzBaJWn4E/edit).
+We use Zoom for our internal meetings. You’ve already used it when you interviewed and for your onboarding meeting! It allows people to join by either video or phone audio. :lock:[If at least one person in a meeting will be distributed, we encourage everyone in the meeting to use Zoom](https://docs.google.com/document/d/1f4Kavn0mxLamvn3AYBMpLHVsF8vgnfcP28IzBaJWn4E/edit). (Specific clients may require you to use a different videoconferencing tool on their projects; setting that tool up should be part of the project's onboarding process.) 
 
 All employees get a Zoom Pro account, so they can host meetings lasting unlimited minutes for up to 100 participants.
 
