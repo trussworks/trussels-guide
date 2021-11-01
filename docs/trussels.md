@@ -110,7 +110,7 @@ Terms like “thought duking” and “Kayless” are added to the :lock:[Inside
 > **Crab Claws: that weird thing people do with their hands during video chats**
 > Clapping is loud and awful when on a conference call, and so “clapping” silently is better. We picked up [crab claws](https://slate.com/technology/2018/05/u-s-digital-service-debuts-an-unofficial-star-wars-crab-logo-on-twitter.html) from Defense Digital Service (our former partner clients for our [MilMove](https://truss.works/blog/ive-been-moved) project).
 
-We use a handy slackbot called `/define`. You can use it to search for unfamiliar terms, TLAs (three letter acronyms), or even emojis. You can use this bot in any Slack channel, but if you want to test it out, type `/define` in a DM to yourself or to Slackbot and it will pull up a list of instructions for using the bot. If something isn’t in `/define`, please ask someone to define it — and consider adding it once you know.
+We use a handy slackbot called `/define`. You can use it to search for unfamiliar terms, TLAs (three letter acronyms), or even emojis. You can use Define in any Slack channel, but if you want to test it out, type `/define` in a DM to yourself or to Slackbot and it will pull up a list of instructions for using the bot. If a term isn’t in `/define`, please ask someone to define it — and consider adding it once you know.
 
 You’ll also see some things mentioned in this intro (“Prac,” “decision records,” and the things beginning with a #) which will become clear later.
 
