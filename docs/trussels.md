@@ -406,7 +406,7 @@ Find upcoming agendas and past notes in Google Drive at Truss > Meetings > :lock
 Can be found on the Truss Events calendar.
 
 ## Meeting: One Topic Talks (OTT)
-Often on Fridays after Pracs, a Trussel signs up for a 20-40 minute time slot to practice a talk or explore a topic; occasionally someone from outside the company presents to us. Take a look at our past :lock: [OTTs here](https://docs.google.com/document/d/1_jvD8U3hh8QTl7JhGNFmhCCvm-AkpHl-xI8ohHJJ6iE/edit).
+OTTs have a designated time slot on Fridays after Prac. A Trussel can sign up for an open spot to do a 20-40–minute presentation to interested Trussels. People have used the slot to practice a talk or explore a topic, and occasionally someone from outside the company presents to us. Take a look at our past :lock: [OTTs here](https://docs.google.com/document/d/1_jvD8U3hh8QTl7JhGNFmhCCvm-AkpHl-xI8ohHJJ6iE/edit).
 
 OTT spots are taken up on a first-come-first-served basis — just claim the event by changing the event title on the company-wide calendar.
 
