@@ -685,7 +685,7 @@ If there’s something you’re particularly excited about, we’d love to help 
 * If you do use LinkedIn, please make sure your profile is up to date. Clients routinely use it as a way to see who we are.
 
 ## Practice: Helping onboard new Trussels
-To help people acclimate more quickly, we have :lock:[an onboarding buddy system](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit). Any trussel that has completed their onboarding can become an onboarding buddy.
+To help people acclimate more quickly, we have :lock:[an onboarding buddy system](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit). Any Trussel who has finished onboarding can become an onboarding buddy for someone else.
 
 ## Practice: Starting a new auxiliary group within Truss
 If you see a need for a new working group, committee, guild, or affinity group at Truss, please follow :lock:[this guide in how to set up an auxiliary group](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762).
