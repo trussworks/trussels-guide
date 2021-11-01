@@ -616,7 +616,7 @@ We like to think we’re pretty great here at Truss, but we’re not perfect. So
 When you're done, download the blank certificate and policy, sign it and put in :lock:[this folder](https://drive.google.com/drive/folders/1v8GdbkXaVSoAh8AddTLAFDrf4IpOx186), and let your manager and onboarding manager know.
 
 ## Meeting: Quarterly stakeholders meetings
-Once a quarter, Truss Leadership Team (TLT) present an update on the company — how we’re doing, and what we’re aiming for. It’s a special thing where Truss leadership demonstrates radical transparency with the team. It’s usually 90 minutes long and replaces a Friday Prac.
+Once a quarter, the Truss Leadership Team (TLT) presents an update on the company — how we’re doing, and what we’re aiming for. Stakeholders is a special event where Truss leadership demonstrates radical transparency with the team. It’s usually 90 minutes long and replaces a Friday Prac.
 
 ## Practice: Reviews
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
