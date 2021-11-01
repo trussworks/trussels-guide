@@ -561,7 +561,7 @@ Here are a few best practices:
 
 * If you are visiting a place where other Trussels are, Truss will pay for coffee or lunch for a meetup.
 * \#colleagues-and-coffee — this Slack channel pairs Trussels up to meet on a regular basis.
-* We each have $150 allotted to us each month as an employee effectiveness budget that doubles as a “discretionary kindness budget.” If you want to send someone a present, card, etc, you are welcome to do so within this budget.
+* We each have a $150 employee effectiveness budget each month that includes a “discretionary kindness budget.” If you want to send someone a present, card, treat, etc, you are welcome to do so within this budget. You don't need manager approval for those purchases, but they should be logged in Expensify as * Employee Effectiveness - COGS* unless you are part of Truss Leadership or are in a non-billable role. 
 * \#book-club — a Slack channel where we pick a book to read together, and then get together to discuss it.
 * \#movie-club — a Slack channel where we pick a movie to watch asynchronously and then get together to discuss it
 
