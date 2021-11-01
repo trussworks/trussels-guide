@@ -429,7 +429,7 @@ Many of the meetings for various groups can be found on the Truss Events calenda
 
 
 ## Tool: Harvest (timekeeping)
-We keep track of our time using a tool called Harvest. It can be used as a web interface, desktop application, and on mobile (or any combination of these). Please take a look at our :lock:[internal guide about how to use Harvest](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit#). It is important, especially for our internal accounting team, to have timely and accurate submission of your hours every week.
+We keep track of our time using a tool called Harvest. It can be used as a web interface, desktop application, and on mobile (or any combination of these). Please take a look at our :lock:[internal guide about how to use Harvest](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit#). Ideally you should log your time daily, before you finish working for the day. It is important, especially for our internal accounting team, to have timely and accurate submission of your hours every week.
 
 We track time in 15-minute increments.
 
