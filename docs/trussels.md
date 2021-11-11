@@ -359,6 +359,7 @@ Truss has three founders:
 They are all great and approachable.
 
 ## Group: Truss Leadership Team aka TLT
+
 The Truss leadership team includes the founding team and:
 
 * **Andrew Hughey** Director of Product Management.
@@ -496,7 +497,6 @@ When we hire, we want to be sure we maintain our values and expand our diversity
 
 * :lock:[Here are some training materials for digital screens](https://drive.google.com/drive/u/0/folders/1hxCXc52LvS8J2axYas4F5QayNvcz1XbG).
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* :lock:[These are the positions we are currently hiring for](https://docs.google.com/spreadsheets/d/1xPcmMqcZCAIeaHlCiUNABODuZn6S44rMaGEEPe2ompc/edit).
 * We use Lever to track our hiring pipeline. See the next section.
 
 You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them.
