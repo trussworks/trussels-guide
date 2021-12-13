@@ -382,8 +382,8 @@ Key Practices consists of the following practice areas:
 * Delivery Management, led by Amy Meng
 * InfraSec, led by Jeremy Avnet
 * Client Success, led by Hannah Kane
-* Product Management, led by Andrew Hughey
-* Research & Design, led by Jesse Taggert
+* Product Management, led by Carla Silvey
+* Research & Design, led by Carmen Bocanegra
 
 ## Meeting: Manager 1:1s
 You have likely already met with your manager. 1:1s are an essential practice at Truss. Everyone meets with their manager on a regular basis, at a frequency comfortable for both of them.
@@ -419,10 +419,8 @@ Hosted every other Friday at 9a Pacific / 12p Eastern by a member of the leaders
 Can be found on the Truss Events calendar.
 
 
-## Resource: Company-wide projects (CWP) and Truss Events calendar
-We have a wide range of practices, disciplines, and working groups that comprise our CWP, they are listed in the :lock:[CWP spreadsheet](https://docs.google.com/spreadsheets/d/1n31Xr3vtvf1_Emddpkh7KhpcfzoG1e8p8P2CEIkOF5Q/edit).
-
-Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), operational disciplines are done via committee or as a team, and practice areas are covered by #bubble-prince. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
+## Resource: Working Groups and the Truss Events calendar
+Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), and operational disciplines are done via committee or as a team. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
 
 Many of the meetings for various groups can be found on the Truss Events calendar.
 
