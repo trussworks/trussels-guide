@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 <section markdown="1">
-This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do. 
+This is the `Trussels' Guide to Truss`, written by Trussels for Trussels. We share it here for others to see how we try to do what we do.
 
 > **Disclaimer**: Hi, friend! Thanks for caring so much about this that you are reading the disclaimer! We super-duper appreciate it. Our lawyers need you to know that the Trussels' Guide to Truss is a reflection of Trussels' personal experiences, and neither Truss nor any of its employees are making any promises about anything. In other words, we (that’s all of us) hereby disclaim any and all warranties, duties or guarantees and this document is presented “AS IS”. You assume any and all risks if you incorporate or adopt any of these practices. Also, we make no promises about merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, workmanlike effort, lack of negligence, or whether reading this a loud at midnight after the correct eldritch sacrifices may summon an unknowable horror that devours souls and flesh alike. We have no idea and make no promises! Whatever happens is all on you. Hooray!
 
@@ -251,7 +251,7 @@ You’ll also go over these tools during your onboarding meeting. Before setting
 ### Security Tool: 1Password (password management)
 We use 1Password as our password manager to ensure that we use strong, unique passwords for all of our tools. Note that you get a [free 1Password Families membership](https://support.1password.com/link-family/) with your Truss 1Password account.
 
-If you already use 1Password, spend a few minutes reading their documentation on using multiple accounts. 
+If you already use 1Password, spend a few minutes reading their documentation on using multiple accounts.
 
 ### Security Tool: Kandji (device management)
 Truss maintains our devices via a tool called Kandji. This means if we need to give device images to a client, or if we lose a laptop or a password, we’ll be able to respond. Please think about how you use your work laptop in light of others potentially seeing what on a personal laptop would be private.
@@ -278,7 +278,7 @@ We also have some private Slack channels specifically for affinity groups — th
 You can type `/list-groups` in any Slack channel (including a direct message to yourself) to see these affinity groups, and then follow the directions to join as appropriate. You can also learn more in :lock:[this guide](https://docs.google.com/document/d/1ZNdjjtjT9X7QdNkP25NkZEbYPaMWfnjDm5mZVqIanBo/edit).
 
 ## Tool: Zoom (videoconferencing)
-We use Zoom for our internal meetings. You’ve already used it when you interviewed and for your onboarding meeting! It allows people to join by either video or phone audio. :lock:[If at least one person in a meeting will be distributed, we encourage everyone in the meeting to use Zoom](https://docs.google.com/document/d/1f4Kavn0mxLamvn3AYBMpLHVsF8vgnfcP28IzBaJWn4E/edit). (Specific clients may require you to use a different videoconferencing tool on their projects; setting that tool up should be part of the project's onboarding process.) 
+We use Zoom for our internal meetings. You’ve already used it when you interviewed and for your onboarding meeting! It allows people to join by either video or phone audio. :lock:[If at least one person in a meeting will be distributed, we encourage everyone in the meeting to use Zoom](https://docs.google.com/document/d/1f4Kavn0mxLamvn3AYBMpLHVsF8vgnfcP28IzBaJWn4E/edit). (Specific clients may require you to use a different videoconferencing tool on their projects; setting that tool up should be part of the project's onboarding process.)
 
 All employees get a Zoom Pro account, so they can host meetings lasting unlimited minutes for up to 100 participants.
 
@@ -463,6 +463,9 @@ You’ll be invited to our GitHub org via your @truss.works email address. You c
 
 We tend to use one GitHub account with multiple client organizations (and GitHub supports that model well), so it's really up to you. You will need to maintain account security (2FA, etc) for the account you do use.
 
+## Tool: Dockerhub
+You'll be invited to our Dockerhub org via your docker ID. In slack ping `@docker-hub-owners` to get yourself added. If you do not have an account you can follow :lock:[Create a Dockerhub account](https://docs.google.com/document/d/1LV4hnsOkxvr9UNbVD6bNiZaYJ5-bwJor-KKzJeTpdtM/edit?usp=sharing) as with Github you may not need to be in Dockerhub much or at all. Ask in #truss-infra for more information or assistance.
+
 ## Resource: Client projects
 What projects is Truss working on? You can check out most recent :lock:[Project/Client Health Dashboard](https://docs.google.com/spreadsheets/d/1A-i48dfUrtt8cIyvZ-q4yLbIfq1dYM1tTNbxMeEqEnM/edit#gid=0) for a list of projects and current status.
 
@@ -557,7 +560,7 @@ Here are a few best practices:
 
 * If you are visiting a place where other Trussels are, Truss will pay for coffee or lunch for a meetup.
 * \#colleagues-and-coffee — this Slack channel pairs Trussels up to meet on a regular basis.
-* We each have a $150 employee effectiveness budget each month that includes a “discretionary kindness budget.” If you want to send someone a present, card, treat, etc, you are welcome to do so within this budget. You don't need manager approval for those purchases, but they should be logged in Expensify as * Employee Effectiveness - COGS* unless you are part of Truss Leadership or are in a non-billable role. 
+* We each have a $150 employee effectiveness budget each month that includes a “discretionary kindness budget.” If you want to send someone a present, card, treat, etc, you are welcome to do so within this budget. You don't need manager approval for those purchases, but they should be logged in Expensify as * Employee Effectiveness - COGS* unless you are part of Truss Leadership or are in a non-billable role.
 * \#book-club — a Slack channel where we pick a book to read together, and then get together to discuss it.
 * \#movie-club — a Slack channel where we pick a movie to watch asynchronously and then get together to discuss it
 
@@ -591,7 +594,7 @@ If you ever want to schedule something and include someone from TLT, please chec
 If you have questions about a scheduled interview or something else related to hiring, ping @hiring-support.
 
 ## Tool: Expensify (expense tracking) + our credit card
-We track our expenses in Expensify. You’ll set up an account and join our organization. Please use your Truss card, rather than a personal card, for anything related to Truss or our clients whenever possible. Please check out :lock:[the Truss Guide to Credit Cards, Expense Categories, Expensify, and Reimbursement Policy](https://docs.google.com/document/d/111fUHlCubh2MG00JjKbWzgZ5uHdnQEPeLCcFuWl7l3g/edit#heading=h.vgnrvk7wzdu2). Please also stay on top of submitting your expense reports, as it requires manual follow up 
+We track our expenses in Expensify. You’ll set up an account and join our organization. Please use your Truss card, rather than a personal card, for anything related to Truss or our clients whenever possible. Please check out :lock:[the Truss Guide to Credit Cards, Expense Categories, Expensify, and Reimbursement Policy](https://docs.google.com/document/d/111fUHlCubh2MG00JjKbWzgZ5uHdnQEPeLCcFuWl7l3g/edit#heading=h.vgnrvk7wzdu2). Please also stay on top of submitting your expense reports, as it requires manual follow up
 
 (Want a low-stakes way to try out Expensify? Consider making your first expense from the “Employee Effectiveness” budget to send your Onboarding Buddy something.)
 
