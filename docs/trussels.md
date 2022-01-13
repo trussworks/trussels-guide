@@ -121,7 +121,7 @@ While there is a large handful of Trussels in the San Francisco bay area, we are
 
 We :lock:[run experiments to figure out how to better include distributed folk](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), and we have [a playbook for our established practices](https://guide.truss.works/docs/distributed).
 
-If you find yourself using a coworking space, please use :lock:[the budget for coworking space](https://docs.google.com/document/d/1iJKrrd-u1aJ_mdKJRWrSho8d3fKLkOj0_NLuSQ73hQo/edit). (More on this and other decision records after your first day.)
+If you find yourself using a coworking space, please use :lock:[the budget for coworking space](https://docs.google.com/document/d/1bCmeMOp80Twc6nTX9QmJnqFuWXAEJKyb5p0mkskwlCU/edit). (More on this and other decision records after your first day.)
 
 ### Meetings: What to expect
 Because most of us can’t bump into each other in the hallway, we have many meetings. It’s something we’re intentional about.
