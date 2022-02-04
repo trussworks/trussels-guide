@@ -83,7 +83,7 @@ The founders Everett, Jen, and Mark believe these things and hope that you do, t
 Truss' purpose is: "Move to the edge and declare it center." If you're wondering what that means, [Everett did a talk that goes into some detail](https://www.youtube.com/watch?v=Z0xOy5puyDM).
 
 ## Practice: Collaboration practices
-Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our :lock:[leveling guide](https://docs.google.com/document/d/1AbJBFEkVhSDSRty8oN44PTgiL1NK3X8xe2k4tSpKhhc/edit).
+Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our :lock:[leveling guide](https://docs.google.com/document/d/1v_N7IQP6pnm2H1HwWPnddvEV_ZdegynPvV3rGYHE_Sw/edit).
 
 Some aspects of effective collaboration differ from typical software company practices and are worth highlighting.
 
@@ -105,12 +105,8 @@ We also take steps to broaden and question the ways we include people. We have o
 
 One way we practice inclusion: :lock:[sharing our pronouns in our Slack and Zoom display names](https://docs.google.com/document/d/1SpPbSjx7I7Ur9izRrLK-dGFIxYM9gYcx9sqyvLFWiBE/edit?usp=sharing). Be sure to include yours when you set up Slack and Zoom.
 
-## Practice: :lock:[Insider Language](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit)
-Terms like “thought duking” and “Kayless” are added to the :lock:[Insider Language / Truss Glossary](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit) as we realize we have them. Here’s an example:
-> **Crab Claws: that weird thing people do with their hands during video chats**
-> Clapping is loud and awful when on a conference call, and so “clapping” silently is better. We picked up [crab claws](https://slate.com/technology/2018/05/u-s-digital-service-debuts-an-unofficial-star-wars-crab-logo-on-twitter.html) from Defense Digital Service (our former partner clients for our [MilMove](https://truss.works/blog/ive-been-moved) project).
-
-We use a handy slackbot called `/define`. You can use it to search for unfamiliar terms, TLAs (three letter acronyms), or even emojis. You can use Define in any Slack channel, but if you want to test it out, type `/define` in a DM to yourself or to Slackbot and it will pull up a list of instructions for using the bot. If a term isn’t in `/define`, please ask someone to define it — and consider adding it once you know.
+## Practice: Insider Language
+We use a handy slackbot called `/define`. You can use it to search for unfamiliar terms, TLAs (three letter acronyms), or even emojis. You can type `/define` followed by the term you want to define in any Slack channel, but if you want to test it out privately, type `/define` in a DM to yourself or to Slackbot and it will pull up a list of instructions for using the bot. If a term isn’t in `/define`, please ask someone to define it — and consider adding it once you know.
 
 You’ll also see some things mentioned in this intro (“Prac,” “decision records,” and the things beginning with a #) which will become clear later.
 
@@ -330,13 +326,6 @@ Google Calendar keeps this org running.
 
 Please check out this :lock:[important and mildly humorous doc about how to configure your calendar to help yourself and your teammates](https://docs.google.com/document/d/1C_Y7AF9phESfdiNORmFL1ABhnkaDon7A3xHNl_0NpKE/edit#). It covers how to block out time to stay productive and fed, how to use the company-wide calendar, how to avoid deleting events for everyone, how to see your coworkers’ OOO time, and how to make scheduling easier for others (especially for hiring!).
 
-## Tool: Pivotal Tracker (project management)
-We use Pivotal Tracker for our internal work, and for client work unless the client expects another tool.
-
-Here is :lock:[how we Pivotal](https://docs.google.com/document/d/1vvbew6VnmXN68Vv9QuY1Kt3qNRXlzgmhnH7wTiYrWj0/edit#) (and by proxy, do agile). :lock:[Here's Nick discussing the strategy of it in a talk](https://drive.google.com/file/d/1-DbKbTRMtTo3JR5W_9U_w-6afnwB3qaG/view?usp=sharing). :lock:[Mark also walked some folk through the tactics](https://zoom.us/recording/play/44q-xvhZw1uCbCaEi26wrLYGBDvcsa-NnokW55zYMG6pnIB2JHl9XkmZlNqylYdg?continueMode=true).
-
-We have a neat bot you can use in some Slack channels by typing `/pivotal [story name]; [story description]`. A story will be added to Tracker without ever having to leave Slack.
-
 ## Tool: Vanguard/Ascensus 401(k)
 Here are :lock:[directions to enroll in your Truss Vanguard 401(k) Enrollment Brochure](https://drive.google.com/file/d/1WGDpn7QJAHrp0vnaMrnnBenz3ZM0UI_O/view). It won’t find you until you are in the system — the onboarding manager will go over this with you in your meeting.
 
@@ -362,29 +351,15 @@ They are all great and approachable.
 
 The Truss leadership team includes the founding team and:
 
-* **Amy Meng** Delivery Management Practice Lead.
-* **Carla Silvey** Product Management Practice Lead.
-* **Carmen Bocanegra** Research and Design Practice Lead.
-* **Elizabeth Eady** (Temporary) Infrastructure Engineering Practice Lead.
-* **Hannah Kane** Head of Delivery (oversees Client Success Managers and Delivery Managers)
-* **Nick Twyman** Application Engineering Practice Lead.
-* **Nora Alves** (Interim) Head of People.
+* **Amy Meng** Associate Director of Delivery Management
+* **Carla Silvey** Director of Product Management
+* **Carmen Bocanegra** Director of Research and Design 
+* **Elizabeth Eady** (Temporary) Director of Infrastructure Engineering
+* **Hannah Kane** VP of Delivery (oversees Client Success Managers and Delivery Managers)
+* **Jessica Sullivan** Director of Finance
+* **Nick Twyman** Sr. Director of Application Engineering
+* **Nora Alves** (Interim) Head of People
 
-## Resource: Departments and Practice Areas
-Truss has three departments led by the founders:
-
-* BizOps (business operations), led by Jen Leech (COO)
-* Key Practices (the product/service we sell), led by Mark Ferlatte (CTO)
-* Sales (commercial and government), led by Everett Harper (CEO)
-
-Key Practices consists of the following practice areas:
-
-* Application Engineering, led by Nick Twyman
-* Delivery Management, led by Amy Meng
-* InfraSec, led by Elizabeth Eady
-* Client Success, led by Hannah Kane
-* Product Management, led by Carla Silvey
-* Research & Design, led by Carmen Bocanegra
 
 ## Meeting: Manager 1:1s
 You have likely already met with your manager. 1:1s are an essential practice at Truss. Everyone meets with their manager on a regular basis, at a frequency comfortable for both of them.
@@ -494,37 +469,15 @@ Only use the alternative one when necessary.
 
 If you want to send emails from your @teamtrussworks.com email, follow [these Google directions on sending email from a different address](https://support.google.com/mail/answer/22370?hl=en).
 
-## Practice: Helping us hire: digital screens
-When we hire, we want to be sure we maintain our values and expand our diversity. To do this, we distribute the hiring load across all Trussels, in part to gauge how an applicant responds to our demographic makeup.
-
-* :lock:[Here are some training materials for digital screens](https://drive.google.com/drive/u/0/folders/1hxCXc52LvS8J2axYas4F5QayNvcz1XbG).
-* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* We use Lever to track our hiring pipeline. See the next section.
-
-You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them.
-
-Ask in #hiring for support or pairing if you want! Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag if you’re approaching that threshold or are otherwise feeling distress.
-
-### Hiring Tool: Lever (hiring support)
-To manage applicants and our hiring pipeline, we use a tool called Lever.
-
-Our :lock:[hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) has many details about how to use it. If the candidate is senior and needs to be expedited, :lock:[here](https://docs.google.com/document/d/1X95zJEuDS2jIcEayUAqG3rcR4MTG_CC6Vzwj41oB-x8/edit#)’s the doc on that. Post in #hiring if you have any questions.
-
 ## Practice: Staff resumes
 Please upload your resume to our :lock:[staff resume folder](https://drive.google.com/drive/u/0/folders/1IUeONKgIA2FEDWDqfS-8KkPVKC-HTiFh) on Google Drive. This helps us prepare to get clearance for folk on some projects, and to bid on proposals, and to not have to scramble for either or be left in the cold if someone is taking a much-needed vacation. You can always update it later.
 
 # Second week
-## Resource: Decision records (TDRs)
-We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shepherd TDRs through completion by joining **#c-tdr**
-
-See what makes a good (and bad) TDR in the :lock:[101 doc](https://docs.google.com/document/d/1RfUU5syewOTYwuYId1D0Z-tXBvNlzko6fUEDCyfQ60U/edit#). You can see all active TDRs our :lock:[Decision Record folder](https://drive.google.com/drive/folders/1yzan1FKNjbe48EvQldI3X6_AkeGXGpcY).
-
-Software projects will also likely have an index for architectural decision records, or ADRs, which work similarly.
 
 ## Resource: Truss leveling & salary
 We find that internal transparency about levels leads to a healthier working environment.
 
-This includes :lock:[each Trussel’s salary and level](https://docs.google.com/spreadsheets/d/1DcLAt2ujjIm_Aa3C5w_jfqhePYtBERpRk4qLPGBPCQ4/edit#gid=0), and :lock:[what being at that level means, as well as how to lose or gain a level](https://docs.google.com/document/d/1Zlbzv8FUqTukV_eGOWdnLBhcvZ29BNU0yFk5gO4JDgE/edit#heading=h.ys7hvdzb2ga5).
+This includes :lock:[each Trussel’s salary and level](https://docs.google.com/spreadsheets/d/1DcLAt2ujjIm_Aa3C5w_jfqhePYtBERpRk4qLPGBPCQ4/edit#gid=0), and :lock:[what being at that level means, as well as how to gain a level](https://docs.google.com/document/d/1v_N7IQP6pnm2H1HwWPnddvEV_ZdegynPvV3rGYHE_Sw/edit).
 
 More info on that can be found in the reviews section.
 
@@ -551,8 +504,6 @@ Reserve includes things like:
 * Building out personal and organizational capacity
 * Assisting with sales proposals
 * Increasing personal capacity by learning things
-
-You can find more on the purpose of Reserve by checking out the :lock:[Reserve playbook](https://docs.google.com/document/d/17dhavWHkZV4v-jDfLra3YM3niDy6WVK8g2uYnjCZr-w/edit#), see their work in the :lock:[Reserve Pivotal](https://www.pivotaltracker.com/n/projects/2120515), and add the Reserve calendar to see and add yourself to standups, retros, and planning sessions.
 
 ## Practice: Bonding with a distributed team
 We’re a distributed company! That means we need to be extra-intentional to bond with each other and build trust.
@@ -581,11 +532,15 @@ Our thinking on this is laid out in the :lock:[Decision Record about working hou
 ## Practice: Helping us to hire: paired interviewing
 After you have been at Truss for 2 weeks, you may be paired with someone else to conduct an interview. Ask in #hiring for support or pairing if you want!
 
-Remember in week one when we talked about digital screens? Review that section to remember what we look for when hiring, the tool we use (Lever), and how much time per week it might take up.
-
-* :lock:[Training materials for behavioral interviews.](https://drive.google.com/drive/u/0/folders/1g7gTa2LrFYGJTRDO19yNdoSEHBE7AlfN)
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* :lock:[What we are currently hiring for](https://docs.google.com/spreadsheets/d/13_DFMpOHwN4vAl3lRSHze46pJm5GCzIcrbMCgJgiumA). This is also announced in the #hiring slack channel.
+* We use Lever to track our hiring pipeline. See the next section.
+
+Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag in #hiring if you’re approaching that threshold or are otherwise feeling distress.
+
+### Hiring Tool: Lever (hiring support)
+To manage applicants and our hiring pipeline, we use a tool called Lever.
+
+Our :lock:[hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) has many details about how to use it. If the candidate is senior and needs to be expedited, :lock:[here](https://docs.google.com/document/d/1X95zJEuDS2jIcEayUAqG3rcR4MTG_CC6Vzwj41oB-x8/edit#)’s the doc on that. Post in #hiring if you have any questions.
 
 ## Resource: Support
 We have a team that acts as both executive assistants for some folk and to schedule interviews for hiring.
@@ -623,9 +578,6 @@ Retrium is a retro-specific tool that we’ve found useful. Set up an account at
 ## Practice: Employee effectiveness
 Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
 
-## Things that may or may not impact you
-* Meetings: Manager’s meetings (#puma-wranglers)
-
 ## Resource: Style guides are nice
 We have :lock:[a visual style guide](https://drive.google.com/drive/u/0/folders/1JTo_mrmlzWBd7L23mtZXyjJTg80rnLre) and :lock:[a copy style guide](https://docs.google.com/document/d/1UqiP1hyqRNELr5AiiwcbMLXdVnWXbP4Y038fy4EyuTY/edit#).
 
@@ -647,7 +599,7 @@ Many of our clients require that we take annual security training. Use your Goog
 If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time.
 
 # First 3 months
-## Practice: Visiting other Trussels
+## Practice: Visiting other Trussels (on hold during COVID)
 While we think we can be a high-trust environment while also being a fully distributed company, there’s still something to be said about seeing another person face-to-face.
 
 We’d like to be sure that each Trussel has a chance to meet at least one other Trussel in the flesh within their first three months. We also have :lock:[a guide for how to visit other Trussels](https://docs.google.com/document/d/1OrlraUQuNnHSJNFZVFbsbF3hvtgGiuisWFdnfJKduKA/edit).
@@ -689,6 +641,13 @@ If you see a need for a new working group, committee, guild, or affinity group a
 If you’re setting up an affinity group, please consider adding :lock:[the affinity groups slackbot to your group](https://docs.google.com/document/d/1ZNdjjtjT9X7QdNkP25NkZEbYPaMWfnjDm5mZVqIanBo/edit).
 
 If something you have done will cause a change for Trussels, please create a copy of :lock:[the Internal Communication Template](https://docs.google.com/document/d/121eHs2aCQcGF66F9T67MY-x7FFrzDHqV--o7lsZEeKQ/edit#) and follow the steps.
+
+## Resource: Decision records (TDRs)
+We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shepherd TDRs through completion by joining **#c-tdr**
+
+See what makes a good (and bad) TDR in the :lock:[101 doc](https://docs.google.com/document/d/1RfUU5syewOTYwuYId1D0Z-tXBvNlzko6fUEDCyfQ60U/edit#). You can see all active TDRs our :lock:[Decision Record folder](https://drive.google.com/drive/folders/1yzan1FKNjbe48EvQldI3X6_AkeGXGpcY).
+
+Software projects will also likely have an index for architectural decision records, or ADRs, which work similarly.
 
 ## Practice: Bringing a new tool to Truss
 Are you just not getting what you need out of :lock:[the tools we already use within Truss](https://docs.google.com/spreadsheets/d/1dMQCW7fI0SGwBEtCSf8uX3n1beE0GC5yTgtUrPetFUM/edit#gid=0)? Want to use something new?
