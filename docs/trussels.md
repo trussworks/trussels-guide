@@ -154,6 +154,8 @@ Communication is essential.  We have a number of tools to use here at Truss, tho
 ## Practice: Use Slack, not email
 We value open and transparent communication, which makes Slack a better communication tool for us than email. (Our other major communication tool is :lock:[Zoom, for video conferencing](https://docs.google.com/document/d/1P2QzYm5v21IdrgbDjEZG2kq9E5GCu5lcSPv-2-2RxCg/edit).)
 
+Please resist pressure to monitor Slack too closely. Active communication is crucial in any distributed company, but Slack can also become a source of interruptions and distractions. It is perfectly fine (even encouraged!) to temporarily close or mute Slack for awhile when you need focus time.
+
 All Slack channels begin with “#” — you’ve seen some mentioned in this guide already.
 
 You’ve been added to 9 default channels:
