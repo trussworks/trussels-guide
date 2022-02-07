@@ -170,11 +170,7 @@ You’ve been added to 9 default channels:
 
 You should also join any Slack channels related to projects that you’re on, and any channels for your team or discipline. You may also end up in a project-specific workspace with its own set of channels, depending on your project.
 
-Feel free to join other channels that interest you. Some are about topics that you might find useful, such as #distributed, or #design-research. Others are just for fun, by their nature — such as #kids or #food or #pets or #selfies. Those are all decidedly optional. They can be a great way to get to know other Trussels in a social context.
-
-There are also a few “affinity group” channels, which we’ll tell you how to join later.
-
-If you like to celebrate your birthday or Trusselversary, join us in #celebrations. There are instructions in the channel description for how to let our birthday bot know when your birthday is.
+Feel free to join other channels that interest you. Some are about topics that you might find useful, such as #distributed, or #design-research. Others are just for fun, by their nature — such as #kids, #food, #pets or #selfies. If you like to celebrate your birthday or Trusselversary, join us in #celebrations. (There are instructions in the channel description for how to let our birthday bot know when your birthday is.) Those are all decidedly optional. They can be a great way to get to know other Trussels in a social context. There are also a few “affinity group” channels, which we’ll tell you how to join later.
 
 You will likely end up with a mix of project channels, team channels, and fun channels.
 
