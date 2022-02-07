@@ -151,8 +151,10 @@ Equipment can include:
 ## Resource: Communication Expectations
 Communication is essential.  We have a number of tools to use here at Truss, though some are far more prevalent than others.  Slack is our number one tool for internal communications — you will receive very few e-mails from other Trussels. This :lock:[doc](https://docs.google.com/document/d/1auMZSl-tUleBpJC8WjG6dtCvaEtjbbbCMnsVR7bIP8c/edit#heading=h.mw7235wtjesw) will provide you more info on that as well as expectations around Zoom, communication during business travel, and general communication tips:
 
-## Practice: Expect to use Slack a lot
+## Practice: Use Slack, not email
 We value open and transparent communication, which makes Slack a better communication tool for us than email. (Our other major communication tool is :lock:[Zoom, for video conferencing](https://docs.google.com/document/d/1P2QzYm5v21IdrgbDjEZG2kq9E5GCu5lcSPv-2-2RxCg/edit).)
+
+Please try to avoid feeling pressured to monitor Slack closely. Active communication is crucial in any distributed company, but Slack can also become a source of interruptions and distractions. Temporarily muting Slack for awhile when you need focus time is encouraged.
 
 All Slack channels begin with “#” — you’ve seen some mentioned in this guide already.
 
@@ -170,11 +172,7 @@ You’ve been added to 9 default channels:
 
 You should also join any Slack channels related to projects that you’re on, and any channels for your team or discipline. You may also end up in a project-specific workspace with its own set of channels, depending on your project.
 
-Feel free to join other channels that interest you. Some are about topics that you might find useful, such as #distributed, or #design-research. Others are just for fun, by their nature — such as #kids or #food or #pets or #selfies. Those are all decidedly optional. They can be a great way to get to know other Trussels in a social context.
-
-There are also a few “affinity group” channels, which we’ll tell you how to join later.
-
-If you like to celebrate your birthday or Trusselversary, join us in #celebrations. There are instructions in the channel description for how to let our birthday bot know when your birthday is.
+Feel free to join other channels that interest you. Some are about topics that you might find useful, such as #distributed, or #design-research. Others are just for fun, by their nature — such as #kids, #food, #pets or #selfies. If you like to celebrate your birthday or Trusselversary, join us in #celebrations. (There are instructions in the channel description for how to let our birthday bot know when your birthday is.) Those are all decidedly optional. They can be a great way to get to know other Trussels in a social context. There are also a few “affinity group” channels, which we’ll tell you how to join later.
 
 You will likely end up with a mix of project channels, team channels, and fun channels.
 
