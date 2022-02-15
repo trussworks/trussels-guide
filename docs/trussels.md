@@ -83,7 +83,7 @@ The founders Everett, Jen, and Mark believe these things and hope that you do, t
 Truss' purpose is: "Move to the edge and declare it center." If you're wondering what that means, [Everett did a talk that goes into some detail](https://www.youtube.com/watch?v=Z0xOy5puyDM).
 
 ## Practice: Collaboration practices
-Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our :lock:[leveling guide](https://docs.google.com/document/d/1AbJBFEkVhSDSRty8oN44PTgiL1NK3X8xe2k4tSpKhhc/edit).
+Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our :lock:[leveling guide](https://docs.google.com/document/d/1v_N7IQP6pnm2H1HwWPnddvEV_ZdegynPvV3rGYHE_Sw/edit).
 
 Some aspects of effective collaboration differ from typical software company practices and are worth highlighting.
 
@@ -522,7 +522,7 @@ Software projects will also likely have an index for architectural decision reco
 ## Resource: Truss leveling & salary
 We find that internal transparency about levels leads to a healthier working environment.
 
-This includes :lock:[each Trussel’s salary and level](https://docs.google.com/spreadsheets/d/1DcLAt2ujjIm_Aa3C5w_jfqhePYtBERpRk4qLPGBPCQ4/edit#gid=0), and :lock:[what being at that level means, as well as how to lose or gain a level](https://docs.google.com/document/d/1Zlbzv8FUqTukV_eGOWdnLBhcvZ29BNU0yFk5gO4JDgE/edit#heading=h.ys7hvdzb2ga5).
+This includes :lock:[each Trussel’s salary and level](https://docs.google.com/spreadsheets/d/1DcLAt2ujjIm_Aa3C5w_jfqhePYtBERpRk4qLPGBPCQ4/edit#gid=0), and :lock:[what being at that level means, as well as how to lose or gain a level](https://docs.google.com/document/d/1v_N7IQP6pnm2H1HwWPnddvEV_ZdegynPvV3rGYHE_Sw/edit).
 
 More info on that can be found in the reviews section.
 
