@@ -618,9 +618,6 @@ Retrium is a retro-specific tool that we’ve found useful. Set up an account at
 ## Practice: Employee effectiveness
 Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
 
-## Things that may or may not impact you
-* Meetings: Manager’s meetings (#puma-wranglers)
-
 ## Resource: Style guides are nice
 We have :lock:[a visual style guide](https://drive.google.com/drive/u/0/folders/1JTo_mrmlzWBd7L23mtZXyjJTg80rnLre) and :lock:[a copy style guide](https://docs.google.com/document/d/1UqiP1hyqRNELr5AiiwcbMLXdVnWXbP4Y038fy4EyuTY/edit#).
 
