@@ -550,8 +550,6 @@ Reserve includes things like:
 * Assisting with sales proposals
 * Increasing personal capacity by learning things
 
-You can find more on the purpose of Reserve by checking out the :lock:[Reserve playbook](https://docs.google.com/document/d/17dhavWHkZV4v-jDfLra3YM3niDy6WVK8g2uYnjCZr-w/edit#), see their work in the :lock:[Reserve Pivotal](https://www.pivotaltracker.com/n/projects/2120515), and add the Reserve calendar to see and add yourself to standups, retros, and planning sessions.
-
 ## Practice: Bonding with a distributed team
 We’re a distributed company! That means we need to be extra-intentional to bond with each other and build trust.
 
