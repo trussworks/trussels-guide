@@ -583,7 +583,6 @@ Remember in week one when we talked about digital screens? Review that section t
 
 * :lock:[Training materials for behavioral interviews.](https://drive.google.com/drive/u/0/folders/1g7gTa2LrFYGJTRDO19yNdoSEHBE7AlfN)
 * We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* :lock:[What we are currently hiring for](https://docs.google.com/spreadsheets/d/13_DFMpOHwN4vAl3lRSHze46pJm5GCzIcrbMCgJgiumA). This is also announced in the #hiring slack channel.
 
 ## Resource: Support
 We have a team that acts as both executive assistants for some folk and to schedule interviews for hiring.
