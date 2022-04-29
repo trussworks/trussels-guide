@@ -363,26 +363,15 @@ The Truss leadership team includes the founding team and:
 * **Amy Meng** Delivery Management Practice Lead.
 * **Carla Silvey** Product Management Practice Lead.
 * **Carmen Bocanegra** Research and Design Practice Lead.
-* **Elizabeth Eady** (Temporary) Infrastructure Engineering Practice Lead.
+* **Elizabeth Eady** Infrastructure Engineering Practice Lead.
 * **Hannah Kane** Head of Delivery (oversees Client Success Managers and Delivery Managers)
 * **Nick Twyman** Application Engineering Practice Lead.
 * **Nora Alves** (Interim) Head of People.
 
-## Resource: Departments and Practice Areas
-Truss has three departments led by the founders:
+## Resource: Working Groups and the Truss Events calendar
+Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), and operational disciplines are done via committee or as a team. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
 
-* BizOps (business operations), led by Jen Leech (COO)
-* Key Practices (the product/service we sell), led by Mark Ferlatte (CTO)
-* Sales (commercial and government), led by Everett Harper (CEO)
-
-Key Practices consists of the following practice areas:
-
-* Application Engineering, led by Nick Twyman
-* Delivery Management, led by Amy Meng
-* InfraSec, led by Elizabeth Eady
-* Client Success, led by Hannah Kane
-* Product Management, led by Carla Silvey
-* Research & Design, led by Carmen Bocanegra
+Many of the meetings for various groups can be found on the Truss Events calendar. :lock: Here are instructions on [how to add yourself to the Truss Events Calendar](https://docs.google.com/document/d/1C_Y7AF9phESfdiNORmFL1ABhnkaDon7A3xHNl_0NpKE/edit#bookmark=id.szfazlc4dp5m).
 
 ## Meeting: Manager 1:1s
 You have likely already met with your manager. 1:1s are an essential practice at Truss. Everyone meets with their manager on a regular basis, at a frequency comfortable for both of them.
@@ -416,12 +405,6 @@ Can be found on the Truss Events calendar.
 Hosted every other Friday at 9a Pacific / 12p Eastern by a member of the leadership team.  Got a question, get an answer, really...ask them anything!
 
 Can be found on the Truss Events calendar.
-
-
-## Resource: Working Groups and the Truss Events calendar
-Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), and operational disciplines are done via committee or as a team. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
-
-Many of the meetings for various groups can be found on the Truss Events calendar.
 
 
 ## Tool: Harvest (timekeeping)
@@ -492,17 +475,6 @@ Only use the alternative one when necessary.
 
 If you want to send emails from your @teamtrussworks.com email, follow [these Google directions on sending email from a different address](https://support.google.com/mail/answer/22370?hl=en).
 
-## Practice: Helping us hire: digital screens
-When we hire, we want to be sure we maintain our values and expand our diversity. To do this, we distribute the hiring load across all Trussels, in part to gauge how an applicant responds to our demographic makeup.
-
-* :lock:[Here are some training materials for digital screens](https://drive.google.com/drive/u/0/folders/1hxCXc52LvS8J2axYas4F5QayNvcz1XbG).
-* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* We use Lever to track our hiring pipeline. See the next section.
-
-You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them.
-
-Ask in #hiring for support or pairing if you want! Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag if you’re approaching that threshold or are otherwise feeling distress.
-
 ### Hiring Tool: Lever (hiring support)
 To manage applicants and our hiring pipeline, we use a tool called Lever.
 
@@ -512,13 +484,6 @@ Our :lock:[hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d
 Please upload your resume to our :lock:[staff resume folder](https://drive.google.com/drive/u/0/folders/1IUeONKgIA2FEDWDqfS-8KkPVKC-HTiFh) on Google Drive. This helps us prepare to get clearance for folk on some projects, and to bid on proposals, and to not have to scramble for either or be left in the cold if someone is taking a much-needed vacation. You can always update it later.
 
 # Second week
-## Resource: Decision records (TDRs)
-We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shepherd TDRs through completion by joining **#c-tdr**
-
-See what makes a good (and bad) TDR in the :lock:[101 doc](https://docs.google.com/document/d/1RfUU5syewOTYwuYId1D0Z-tXBvNlzko6fUEDCyfQ60U/edit#). You can see all active TDRs our :lock:[Decision Record folder](https://drive.google.com/drive/folders/1yzan1FKNjbe48EvQldI3X6_AkeGXGpcY).
-
-Software projects will also likely have an index for architectural decision records, or ADRs, which work similarly.
-
 ## Resource: Truss leveling & salary
 We find that internal transparency about levels leads to a healthier working environment.
 
@@ -574,14 +539,6 @@ If you have to work more than 40 hours a week to meet your Truss obligations, th
 
 Our thinking on this is laid out in the :lock:[Decision Record about working hours](https://docs.google.com/document/d/16sjxZ279L8SzPTErxcdwqoG9a6EO30cTovs1sJgnN5o/edit) as well as the :lock:[Harvest Time Tracking Guide](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit).
 
-## Practice: Helping us to hire: paired interviewing
-After you have been at Truss for 2 weeks, you may be paired with someone else to conduct an interview. Ask in #hiring for support or pairing if you want!
-
-Remember in week one when we talked about digital screens? Review that section to remember what we look for when hiring, the tool we use (Lever), and how much time per week it might take up.
-
-* :lock:[Training materials for behavioral interviews.](https://drive.google.com/drive/u/0/folders/1g7gTa2LrFYGJTRDO19yNdoSEHBE7AlfN)
-* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-
 ## Resource: Support
 We have a team that acts as both executive assistants for some folk and to schedule interviews for hiring.
 
@@ -601,19 +558,26 @@ There’s a lot we can say about Slack. So much, in fact, that we’ve created :
 Please fill out the :lock:[onboarding survey](https://docs.google.com/forms/d/e/1FAIpQLSegtL32kgYeiJm_a6Nwdc7kFsyYTiO--phz-_Sy-IPz9jg2YA/viewform). This form helps us understand and improve our onboarding process. You are welcome and encouraged to fill it out more than once throughout your onboarding. We discuss and act on ways to further improve in  #c-welcoming.
 
 # First month
+## Practice: Helping us hire
+When we hire, we want to be sure we maintain our values and expand our diversity. To do this, we distribute the hiring load across all Trussels, in part to gauge how an applicant responds to our demographic makeup.
+
+* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1kdzrGO-qbjGUWbMCZ79oKMoQr1l2GrTyHqT81i3o51g/edit#heading=h.li598ryqkiqu) to guide you through the process.
+
+Ask in #hiring for support or pairing if you want! Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag if you’re approaching that threshold or are otherwise feeling distress.
+
 ## Practice: Harassment prevention training
 We like to think we’re pretty great here at Truss, but we’re not perfect. So we want to be sure we have a way to catch and respond to issues. To that end, we have :lock:[a policy and video we need you to review](https://drive.google.com/drive/u/0/folders/12ja-vkMrZffVj31kJEhQ94LA0c54KrCJ) (we promise they’re not as bad as many you’ve seen).
 
 When you're done, download the blank certificate and policy, sign it and put in :lock:[this folder](https://drive.google.com/drive/folders/1v8GdbkXaVSoAh8AddTLAFDrf4IpOx186), and let your manager and onboarding manager know.
 
 ## Meeting: Quarterly stakeholders meetings
-Once a quarter, the Truss Leadership Team (TLT) presents an update on the company — how we’re doing, and what we’re aiming for. Stakeholders is a special event where Truss leadership demonstrates radical transparency with the team. It’s usually 90 minutes long and replaces a Friday Prac.
+Once a quarter, the Truss Leadership Team (TLT) presents an update on the company — how we’re doing, and what we’re aiming for. Stakeholders is a special event where Truss leadership demonstrates radical transparency with the team. It’s usually 90 minutes long and replaces a Friday Prac. :lock: [Check out recordings of past meetings here](https://drive.google.com/drive/folders/1aqReSxRtUKztYcQBEdNwhwVjW5OcoMl8).
 
 ## Practice: Reviews
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
 
 ### Tool: Retrium (retro support)
-Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-internal-it-support to be added to the list of approved users.
+Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-internal-it-support to be added to the list of approved users. :lock: [Every project can get its own Retrium room if desired](https://docs.google.com/document/d/1LkvjZzXwARiJIINiUR_h-8PTyx_c3K0GlvaG2zgfiME/edit).
 
 ## Practice: Employee effectiveness
 Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
@@ -639,6 +603,14 @@ Many of our clients require that we take annual security training. Use your Goog
 If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time.
 
 # First 3 months
+
+## Resource: Decision records (TDRs)
+We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shepherd TDRs through completion by joining **#c-tdr**
+
+See what makes a good (and bad) TDR in the :lock:[101 doc](https://docs.google.com/document/d/1RfUU5syewOTYwuYId1D0Z-tXBvNlzko6fUEDCyfQ60U/edit#). You can see all active TDRs our :lock:[Decision Record folder](https://drive.google.com/drive/folders/1yzan1FKNjbe48EvQldI3X6_AkeGXGpcY).
+
+Software projects will also likely have an index for architectural decision records, or ADRs, which work similarly.
+
 ## Practice: Visiting other Trussels
 While we think we can be a high-trust environment while also being a fully distributed company, there’s still something to be said about seeing another person face-to-face.
 
