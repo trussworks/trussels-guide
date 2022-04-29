@@ -441,12 +441,12 @@ Ping someone directly (@[their name]) when you need to make sure they see your m
 If it’s an emergency, call or text instead of using Slack.
 
 ## Tool: GitHub
-You’ll be invited to our GitHub org via your @truss.works email address. You can create a new account with your @truss.works email address, or we can add your existing account to our org. (If you’re not an engineer, you may not need to be in GitHub much or at all.) Ask in #truss-infra more information or assistance.
+You’ll be invited to our GitHub org via your @truss.works email address. You can create a new account with your @truss.works email address, or we can add your existing account to our org. (If you’re not an engineer, you may not need to be in GitHub much or at all.) Ask in #truss-internal-it-support more information or assistance.
 
 We tend to use one GitHub account with multiple client organizations (and GitHub supports that model well), so it's really up to you. You will need to maintain account security (2FA, etc) for the account you do use.
 
 ## Tool: Dockerhub
-You'll be invited to our Dockerhub org via your docker ID. In slack ping `@docker-hub-owners` to get yourself added. If you do not have an account you can follow :lock:[Create a Dockerhub account](https://docs.google.com/document/d/1LV4hnsOkxvr9UNbVD6bNiZaYJ5-bwJor-KKzJeTpdtM/edit?usp=sharing) as with Github you may not need to be in Dockerhub much or at all. Ask in #truss-infra for more information or assistance.
+You'll be invited to our Dockerhub org via your docker ID. In slack ping `@docker-hub-owners` to get yourself added. If you do not have an account you can follow :lock:[Create a Dockerhub account](https://docs.google.com/document/d/1LV4hnsOkxvr9UNbVD6bNiZaYJ5-bwJor-KKzJeTpdtM/edit?usp=sharing) as with Github you may not need to be in Dockerhub much or at all. Ask in #truss-internal-it-support for more information or assistance.
 
 ## Resource: Client projects
 What projects is Truss working on? You can check out most recent :lock:[Project/Client Health Dashboard](https://docs.google.com/spreadsheets/d/1A-i48dfUrtt8cIyvZ-q4yLbIfq1dYM1tTNbxMeEqEnM/edit#gid=0) for a list of projects and current status.
