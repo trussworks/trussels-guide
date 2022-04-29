@@ -458,12 +458,12 @@ Ping someone directly (@[their name]) when you need to make sure they see your m
 If it’s an emergency, call or text instead of using Slack.
 
 ## Tool: GitHub
-You’ll be invited to our GitHub org via your @truss.works email address. You can create a new account with your @truss.works email address, or we can add your existing account to our org. (If you’re not an engineer, you may not need to be in GitHub much or at all.) Ask in #truss-infra more information or assistance.
+You’ll be invited to our GitHub org via your @truss.works email address. You can create a new account with your @truss.works email address, or we can add your existing account to our org. (If you’re not an engineer, you may not need to be in GitHub much or at all.) Ask in #truss-internal-it-support more information or assistance.
 
 We tend to use one GitHub account with multiple client organizations (and GitHub supports that model well), so it's really up to you. You will need to maintain account security (2FA, etc) for the account you do use.
 
 ## Tool: Dockerhub
-You'll be invited to our Dockerhub org via your docker ID. In slack ping `@docker-hub-owners` to get yourself added. If you do not have an account you can follow :lock:[Create a Dockerhub account](https://docs.google.com/document/d/1LV4hnsOkxvr9UNbVD6bNiZaYJ5-bwJor-KKzJeTpdtM/edit?usp=sharing) as with Github you may not need to be in Dockerhub much or at all. Ask in #truss-infra for more information or assistance.
+You'll be invited to our Dockerhub org via your docker ID. In slack ping `@docker-hub-owners` to get yourself added. If you do not have an account you can follow :lock:[Create a Dockerhub account](https://docs.google.com/document/d/1LV4hnsOkxvr9UNbVD6bNiZaYJ5-bwJor-KKzJeTpdtM/edit?usp=sharing) as with Github you may not need to be in Dockerhub much or at all. Ask in #truss-internal-it-support for more information or assistance.
 
 ## Resource: Client projects
 What projects is Truss working on? You can check out most recent :lock:[Project/Client Health Dashboard](https://docs.google.com/spreadsheets/d/1A-i48dfUrtt8cIyvZ-q4yLbIfq1dYM1tTNbxMeEqEnM/edit#gid=0) for a list of projects and current status.
@@ -613,7 +613,7 @@ Once a quarter, the Truss Leadership Team (TLT) presents an update on the compan
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
 
 ### Tool: Retrium (retro support)
-Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-infra to be added to the list of approved users.
+Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-internal-it-support to be added to the list of approved users.
 
 ## Practice: Employee effectiveness
 Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
