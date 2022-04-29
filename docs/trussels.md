@@ -384,6 +384,11 @@ Key Practices consists of the following practice areas:
 * Product Management, led by Carla Silvey
 * Research & Design, led by Carmen Bocanegra
 
+## Resource: Working Groups and the Truss Events calendar
+Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), and operational disciplines are done via committee or as a team. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
+
+Many of the meetings for various groups can be found on the Truss Events calendar. :lock: Here are instructions on [how to add yourself to the Truss Events Calendar](https://docs.google.com/document/d/1C_Y7AF9phESfdiNORmFL1ABhnkaDon7A3xHNl_0NpKE/edit#bookmark=id.szfazlc4dp5m).
+
 ## Meeting: Manager 1:1s
 You have likely already met with your manager. 1:1s are an essential practice at Truss. Everyone meets with their manager on a regular basis, at a frequency comfortable for both of them.
 
@@ -416,12 +421,6 @@ Can be found on the Truss Events calendar.
 Hosted every other Friday at 9a Pacific / 12p Eastern by a member of the leadership team.  Got a question, get an answer, really...ask them anything!
 
 Can be found on the Truss Events calendar.
-
-
-## Resource: Working Groups and the Truss Events calendar
-Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), and operational disciplines are done via committee or as a team. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
-
-Many of the meetings for various groups can be found on the Truss Events calendar.
 
 
 ## Tool: Harvest (timekeeping)
