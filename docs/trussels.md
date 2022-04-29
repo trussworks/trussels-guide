@@ -492,17 +492,6 @@ Only use the alternative one when necessary.
 
 If you want to send emails from your @teamtrussworks.com email, follow [these Google directions on sending email from a different address](https://support.google.com/mail/answer/22370?hl=en).
 
-## Practice: Helping us hire: digital screens
-When we hire, we want to be sure we maintain our values and expand our diversity. To do this, we distribute the hiring load across all Trussels, in part to gauge how an applicant responds to our demographic makeup.
-
-* :lock:[Here are some training materials for digital screens](https://drive.google.com/drive/u/0/folders/1hxCXc52LvS8J2axYas4F5QayNvcz1XbG).
-* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-* We use Lever to track our hiring pipeline. See the next section.
-
-You may be asked to do a “digital screen” shortly after your first day. There’s no interaction with the applicant — you’ll make sure their resume makes sense and that it’s worth Truss doing an intro interview with them.
-
-Ask in #hiring for support or pairing if you want! Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag if you’re approaching that threshold or are otherwise feeling distress.
-
 ### Hiring Tool: Lever (hiring support)
 To manage applicants and our hiring pipeline, we use a tool called Lever.
 
@@ -574,14 +563,6 @@ If you have to work more than 40 hours a week to meet your Truss obligations, th
 
 Our thinking on this is laid out in the :lock:[Decision Record about working hours](https://docs.google.com/document/d/16sjxZ279L8SzPTErxcdwqoG9a6EO30cTovs1sJgnN5o/edit) as well as the :lock:[Harvest Time Tracking Guide](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit).
 
-## Practice: Helping us to hire: paired interviewing
-After you have been at Truss for 2 weeks, you may be paired with someone else to conduct an interview. Ask in #hiring for support or pairing if you want!
-
-Remember in week one when we talked about digital screens? Review that section to remember what we look for when hiring, the tool we use (Lever), and how much time per week it might take up.
-
-* :lock:[Training materials for behavioral interviews.](https://drive.google.com/drive/u/0/folders/1g7gTa2LrFYGJTRDO19yNdoSEHBE7AlfN)
-* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to guide you through the process.
-
 ## Resource: Support
 We have a team that acts as both executive assistants for some folk and to schedule interviews for hiring.
 
@@ -601,6 +582,13 @@ There’s a lot we can say about Slack. So much, in fact, that we’ve created :
 Please fill out the :lock:[onboarding survey](https://docs.google.com/forms/d/e/1FAIpQLSegtL32kgYeiJm_a6Nwdc7kFsyYTiO--phz-_Sy-IPz9jg2YA/viewform). This form helps us understand and improve our onboarding process. You are welcome and encouraged to fill it out more than once throughout your onboarding. We discuss and act on ways to further improve in  #c-welcoming.
 
 # First month
+## Practice: Helping us hire
+When we hire, we want to be sure we maintain our values and expand our diversity. To do this, we distribute the hiring load across all Trussels, in part to gauge how an applicant responds to our demographic makeup.
+
+* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1kdzrGO-qbjGUWbMCZ79oKMoQr1l2GrTyHqT81i3o51g/edit#heading=h.li598ryqkiqu) to guide you through the process.
+
+Ask in #hiring for support or pairing if you want! Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag if you’re approaching that threshold or are otherwise feeling distress.
+
 ## Practice: Harassment prevention training
 We like to think we’re pretty great here at Truss, but we’re not perfect. So we want to be sure we have a way to catch and respond to issues. To that end, we have :lock:[a policy and video we need you to review](https://drive.google.com/drive/u/0/folders/12ja-vkMrZffVj31kJEhQ94LA0c54KrCJ) (we promise they’re not as bad as many you’ve seen).
 
@@ -639,6 +627,7 @@ Many of our clients require that we take annual security training. Use your Goog
 If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time.
 
 # First 3 months
+
 ## Practice: Visiting other Trussels
 While we think we can be a high-trust environment while also being a fully distributed company, there’s still something to be said about seeing another person face-to-face.
 
