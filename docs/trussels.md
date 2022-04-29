@@ -484,13 +484,6 @@ Our :lock:[hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d
 Please upload your resume to our :lock:[staff resume folder](https://drive.google.com/drive/u/0/folders/1IUeONKgIA2FEDWDqfS-8KkPVKC-HTiFh) on Google Drive. This helps us prepare to get clearance for folk on some projects, and to bid on proposals, and to not have to scramble for either or be left in the cold if someone is taking a much-needed vacation. You can always update it later.
 
 # Second week
-## Resource: Decision records (TDRs)
-We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shepherd TDRs through completion by joining **#c-tdr**
-
-See what makes a good (and bad) TDR in the :lock:[101 doc](https://docs.google.com/document/d/1RfUU5syewOTYwuYId1D0Z-tXBvNlzko6fUEDCyfQ60U/edit#). You can see all active TDRs our :lock:[Decision Record folder](https://drive.google.com/drive/folders/1yzan1FKNjbe48EvQldI3X6_AkeGXGpcY).
-
-Software projects will also likely have an index for architectural decision records, or ADRs, which work similarly.
-
 ## Resource: Truss leveling & salary
 We find that internal transparency about levels leads to a healthier working environment.
 
@@ -610,6 +603,13 @@ Many of our clients require that we take annual security training. Use your Goog
 If you have an interest in other security topics, you can watch any of the available videos in the `Video Library` at any time.
 
 # First 3 months
+
+## Resource: Decision records (TDRs)
+We use decision records to document specific organizational choices and why we’ve made them. You can submit a TDR or join the TDR committee to help shepherd TDRs through completion by joining **#c-tdr**
+
+See what makes a good (and bad) TDR in the :lock:[101 doc](https://docs.google.com/document/d/1RfUU5syewOTYwuYId1D0Z-tXBvNlzko6fUEDCyfQ60U/edit#). You can see all active TDRs our :lock:[Decision Record folder](https://drive.google.com/drive/folders/1yzan1FKNjbe48EvQldI3X6_AkeGXGpcY).
+
+Software projects will also likely have an index for architectural decision records, or ADRs, which work similarly.
 
 ## Practice: Visiting other Trussels
 While we think we can be a high-trust environment while also being a fully distributed company, there’s still something to be said about seeing another person face-to-face.
