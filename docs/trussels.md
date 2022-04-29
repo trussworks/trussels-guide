@@ -363,26 +363,10 @@ The Truss leadership team includes the founding team and:
 * **Amy Meng** Delivery Management Practice Lead.
 * **Carla Silvey** Product Management Practice Lead.
 * **Carmen Bocanegra** Research and Design Practice Lead.
-* **Elizabeth Eady** (Temporary) Infrastructure Engineering Practice Lead.
+* **Elizabeth Eady** Infrastructure Engineering Practice Lead.
 * **Hannah Kane** Head of Delivery (oversees Client Success Managers and Delivery Managers)
 * **Nick Twyman** Application Engineering Practice Lead.
 * **Nora Alves** (Interim) Head of People.
-
-## Resource: Departments and Practice Areas
-Truss has three departments led by the founders:
-
-* BizOps (business operations), led by Jen Leech (COO)
-* Key Practices (the product/service we sell), led by Mark Ferlatte (CTO)
-* Sales (commercial and government), led by Everett Harper (CEO)
-
-Key Practices consists of the following practice areas:
-
-* Application Engineering, led by Nick Twyman
-* Delivery Management, led by Amy Meng
-* InfraSec, led by Elizabeth Eady
-* Client Success, led by Hannah Kane
-* Product Management, led by Carla Silvey
-* Research & Design, led by Carmen Bocanegra
 
 ## Meeting: Manager 1:1s
 You have likely already met with your manager. 1:1s are an essential practice at Truss. Everyone meets with their manager on a regular basis, at a frequency comfortable for both of them.
