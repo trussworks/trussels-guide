@@ -577,7 +577,7 @@ Once a quarter, the Truss Leadership Team (TLT) presents an update on the compan
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
 
 ### Tool: Retrium (retro support)
-Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-infra to be added to the list of approved users.
+Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-internal-it-support to be added to the list of approved users. :lock: [Every project can get its own Retrium room if desired](https://docs.google.com/document/d/1LkvjZzXwARiJIINiUR_h-8PTyx_c3K0GlvaG2zgfiME/edit).
 
 ## Practice: Employee effectiveness
 Regardless of how or where you’re working, we want you to be set up for success. Each employee has :lock:[a monthly employee effectiveness budget](https://docs.google.com/document/d/1uUthjyG6cabV5Ml0nwXSJZwxJzQpKgVh2f9F9jUhH5I/edit) to use at their own discretion.
