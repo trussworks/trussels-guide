@@ -106,13 +106,7 @@ We also take steps to broaden and question the ways we include people. We have o
 One way we practice inclusion: :lock:[sharing our pronouns in our Slack and Zoom display names](https://docs.google.com/document/d/1SpPbSjx7I7Ur9izRrLK-dGFIxYM9gYcx9sqyvLFWiBE/edit?usp=sharing). Be sure to include yours when you set up Slack and Zoom.
 
 ## Practice: :lock:[Insider Language](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit)
-Terms like “thought duking” and “Kayless” are added to the :lock:[Insider Language / Truss Glossary](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit) as we realize we have them. Here’s an example:
-> **Crab Claws: that weird thing people do with their hands during video chats**
-> Clapping is loud and awful when on a conference call, and so “clapping” silently is better. We picked up [crab claws](https://slate.com/technology/2018/05/u-s-digital-service-debuts-an-unofficial-star-wars-crab-logo-on-twitter.html) from Defense Digital Service (our former partner clients for our [MilMove](https://truss.works/blog/ive-been-moved) project).
-
-We use a handy slackbot called `/define`. You can use it to search for unfamiliar terms, TLAs (three letter acronyms), or even emojis. You can use Define in any Slack channel, but if you want to test it out, type `/define` in a DM to yourself or to Slackbot and it will pull up a list of instructions for using the bot. If a term isn’t in `/define`, please ask someone to define it — and consider adding it once you know.
-
-You’ll also see some things mentioned in this intro (“Prac,” “decision records,” and the things beginning with a #) which will become clear later.
+We use a handy slackbot called `/define`. You can use it to search for unfamiliar terms, acronyms, or even emojis. You can use Define in any Slack channel, but if you want to test it out, type `/define` in a DM to yourself or to Slackbot and it will pull up a list of instructions for using the bot. If a term isn’t in `/define`, please ask someone to define it — and consider adding it once you know.
 
 ## Practice: [Distributed-first](https://guide.truss.works/docs/distributed)
 We are a distributed-first business.
