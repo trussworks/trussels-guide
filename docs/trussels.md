@@ -527,7 +527,7 @@ To keep Truss financially viable, practitioners not on Reserve should aim to wor
 
 Of course, there are weeks where reviews, hiring, or other necessary internal work takes up more than your remaining 4 hours. When this is the case, we understand that either you will have fewer client hours or you will have to work more than 40 hours a week.
 
-In the latter case, we will get you back by giving you :lock:"[surge time](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit#heading=h.koxwwtzc8e3b)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
+In the latter case, we will get you back by giving you :lock:"[surge time](https://docs.google.com/document/d/1hpHi5KmzxcJIpUYI6cVRGPyQo2juvRFoHGYgVmkA4T8/edit#heading=h.2lx7umpldpx9)” to catch up on some PTO. This should be rare, and only done with your manager’s approval.
 
 If you have to work more than 40 hours a week to meet your Truss obligations, that is on us and we need to fix it. Please check in with your manager to set expectations, and know that we really prefer folk not work more than 40 hours a week.
 
