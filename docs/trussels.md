@@ -322,6 +322,11 @@ Google Calendar keeps this org running.
 
 Please check out this :lock:[important and mildly humorous doc about how to configure your calendar to help yourself and your teammates](https://docs.google.com/document/d/1C_Y7AF9phESfdiNORmFL1ABhnkaDon7A3xHNl_0NpKE/edit#). It covers how to block out time to stay productive and fed, how to use the company-wide calendar, how to avoid deleting events for everyone, how to see your coworkers’ OOO time, and how to make scheduling easier for others (especially for hiring!).
 
+## Tool: Clockwise
+[Clockwise](https://www.getclockwise.com) is an optional tool we have that can help automate common calendar needs (like putting blocks on your work calendar when you have a personal item, providing team OOO calendars, and helping block out focus time). Go ahead and sign up with your TrussWorks Google account if you want; you'll automatically be added to our company subscription.
+
+The flexible meeting feature can be helpful; however, make sure you talk with the other attendees before you flag a meeting as flexible! Meetings are an agreement and agreements should be discussed first.
+
 ## Tool: Pivotal Tracker (project management)
 We use Pivotal Tracker for our internal work, and for client work unless the client expects another tool.
 
