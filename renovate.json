@@ -24,8 +24,5 @@
     },
     "labels": [
         "dependencies"
-    ],
-    "pre-commit": {
-        "enabled": true
-    }
+    ]
 }
