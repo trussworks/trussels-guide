@@ -6,7 +6,6 @@
         "every weekday",
         "after 9am and before 5pm"
     ],
-    "separateMultipleMajor": true,
     "timezone": "America/Los_Angeles",
     "packageRules": [
         {
