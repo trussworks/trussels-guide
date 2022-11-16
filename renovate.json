@@ -1,0 +1,28 @@
+{
+    "extends": [
+        "config:base"
+    ],
+    "schedule": [
+        "every weekday",
+        "after 9am and before 5pm"
+    ],
+    "separateMultipleMajor": true,
+    "timezone": "America/Los_Angeles",
+    "packageRules": [
+        {
+            "matchUpdateTypes": [
+                "minor",
+                "patch",
+                "pin",
+                "digest"
+            ],
+            "automerge": true
+        }
+    ],
+    "lockFileMaintenance": {
+        "enabled": true
+    },
+    "labels": [
+        "dependencies"
+    ]
+}
