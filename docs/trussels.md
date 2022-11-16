@@ -80,7 +80,7 @@ The founders Everett, Jen, and Mark believe these things and hope that you do, t
 
 ### Purpose
 
-Truss' purpose is: "Move to the edge and declare it center." If you're wondering what that means, [Everett did a talk that goes into some detail](https://www.youtube.com/watch?v=Z0xOy5puyDM).
+Truss' purpose is: "Move to the Edge, Declare it Center". If you're wondering what that means, [Everett did a talk that goes into some detail](https://www.youtube.com/watch?v=Z0xOy5puyDM).
 
 ## Practice: Collaboration practices
 Effective collaboration practices are our secret sauce — they make our work great. We expect folks at Truss to collaborate effectively. The skill is included in our :lock:[leveling guide](https://docs.google.com/document/d/1v_N7IQP6pnm2H1HwWPnddvEV_ZdegynPvV3rGYHE_Sw/edit).
