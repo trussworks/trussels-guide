@@ -2,11 +2,12 @@
     "extends": [
         "config:base"
     ],
+    "prConcurrentLimit": 0,
+    "prHourlyLimit": 0,
     "schedule": [
         "every weekday",
         "after 9am and before 5pm"
     ],
-    "separateMultipleMajor": true,
     "timezone": "America/Los_Angeles",
     "packageRules": [
         {
