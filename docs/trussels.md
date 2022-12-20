@@ -228,13 +228,12 @@ When you log in for the first time, your inbox will be full of calendar invites,
 
 Whereas we don't use email for a lot of internal communications, it is not uncommon to interact with external folks that way. It can be helpful to set up a signature (`Settings >> General >> Signature`). Parts that you may consider: name, pronouns, title, a link to the Truss homepage, and maybe a little bit of guidance for people who aren't used to working in a distributed manner.
 
-`
-Dr. Sprout Trussel, Esq. (they/them)
-Senior Vegetable Relations
-https://truss.works
 
-**My working hours may not be your working hours. Please do not feel obligated to reply outside of your normal work schedule.**
-`
+> Dr. Sprout Trussel, Esq. (they/them)
+> Senior Vegetable Relations
+> https://truss.works
+> 
+> **My working hours may not be your working hours. Please do not feel obligated to reply outside of your normal work schedule.**
 
 ## Practice: Security guidelines & setting up your laptop
 Let’s get security practices in place before signing up for tools. Security can’t just be slapped on later and make things actually become secure.
