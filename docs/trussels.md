@@ -288,7 +288,7 @@ Please set your **host key** to our standard internal key. This will allow other
 * Select **Profile** from the left navigation
 * Scroll to **Host Key** and click edit
 * Find out our number by typing `zoom host key` in Slack
-* Replace your host key with the `zoom host key` and click save.
+* Replace your host key with the zoom host key found above, and click save.
 
 :lock:[Here is a doc of the tips and tricks we’ve figured out for using Zoom as a Trussel](https://docs.google.com/document/d/1P2QzYm5v21IdrgbDjEZG2kq9E5GCu5lcSPv-2-2RxCg/edit).
 And as a reminder, you should :lock:[put your pronouns in your Zoom name](https://docs.google.com/document/d/1SpPbSjx7I7Ur9izRrLK-dGFIxYM9gYcx9sqyvLFWiBE/edit).
