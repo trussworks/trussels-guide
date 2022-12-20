@@ -14,21 +14,14 @@ Github Pages acts like Jekyll, more or less.
 
 ## Local testing
 
-The following methods will result in the site being available at [http://localhost:4000](http://localhost:4000).
-
-### Docker
-
-If you have Docker installed you can run the following without managing Ruby on your system:
-
-```sh
-docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:2.7.2 /bin/bash -c "gem install bundler:2.2.13 && bundle install && bundle exec jekyll serve --host 0.0.0.0"
-```
+The following methods will result in the site being available at [http://localhost:4000](http://localhost:4000). However, for small changes, it's easier to use Github's web editor.
 
 ### Local Ruby
 
-If you have a Ruby environment configured, you can run the following:
+If you have `asdf` configured , you can run the following:
 
 ```sh
+asdf install
 bundle install
 bundle exec jekyll serve
 ```
