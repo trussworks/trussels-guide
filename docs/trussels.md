@@ -491,7 +491,7 @@ This includes :lock:[each Trussel’s salary and level](https://docs.google.com/
 
 More info on that can be found in the reviews section.
 
-## Resource: :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit)
+## Resource: :lock:[Time off at Truss](https://docs.google.com/document/d/1hpHi5KmzxcJIpUYI6cVRGPyQo2juvRFoHGYgVmkA4T8/edit)
 What holidays do we take as an organization?
 
 How do we handle sick, parental, and other leave?
@@ -500,7 +500,7 @@ How much notice do you need to give before taking a vacation?
 
 What happens if we have a crunch time to get something done for a client and we work more than 40 hours one week?
 
-Please read :lock:[Time off at Truss](https://docs.google.com/document/d/1iwczCFfu-HRUKF_itytPQyuCFzJdpVb134-L2BWTAcg/edit) — it is very important to us that we maintain a healthy work-life balance, and that we take care of our bodies and our selves.
+Please read :lock:[Time off at Truss](https://docs.google.com/document/d/1hpHi5KmzxcJIpUYI6cVRGPyQo2juvRFoHGYgVmkA4T8/edit) — it is very important to us that we maintain a healthy work-life balance, and that we take care of our bodies and our selves.
 
 Trussels each get 160 hours of vacation per year, and you start accumulating this time with your first paycheck.
 
