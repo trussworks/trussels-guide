@@ -279,7 +279,7 @@ When you set up Zoom, you should assign scheduling privileges to our scheduling 
 * Log in to Zoom https://truss-works.zoom.us/
 * Select **Settings** from left navigation
 * Click or scroll down to **Other** and find **Schedule Privilege**
-* Click the plus sign and assign to the list of emails that appears when you type in `!aim2assist` in Slack
+* Click the plus sign and assign to the list of emails that appears when you type in `!powerrangers` in Slack
 
 
 Please set your **host key** to our standard internal key. This will allow other Trussels to take over as the host of a meeting if for some reason you are unable to attend, or run into connection difficulties in the middle of a meeting.
