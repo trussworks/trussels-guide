@@ -228,13 +228,12 @@ When you log in for the first time, your inbox will be full of calendar invites,
 
 Whereas we don't use email for a lot of internal communications, it is not uncommon to interact with external folks that way. It can be helpful to set up a signature (`Settings >> General >> Signature`). Parts that you may consider: name, pronouns, title, a link to the Truss homepage, and maybe a little bit of guidance for people who aren't used to working in a distributed manner.
 
-`
-Dr. Sprout Trussel, Esq. (they/them)
-Senior Vegetable Relations
-https://truss.works
 
-**My working hours may not be your working hours. Please do not feel obligated to reply outside of your normal work schedule.**
-`
+> Dr. Sprout Trussel, Esq. (they/them)
+> Senior Vegetable Relations
+> https://truss.works
+> 
+> **My working hours may not be your working hours. Please do not feel obligated to reply outside of your normal work schedule.**
 
 ## Practice: Security guidelines & setting up your laptop
 Let’s get security practices in place before signing up for tools. Security can’t just be slapped on later and make things actually become secure.
@@ -280,7 +279,7 @@ When you set up Zoom, you should assign scheduling privileges to our scheduling 
 * Log in to Zoom https://truss-works.zoom.us/
 * Select **Settings** from left navigation
 * Click or scroll down to **Other** and find **Schedule Privilege**
-* Click the plus sign and assign to the list of emails that appears when you type in `!aim2assist` in Slack
+* Click the plus sign and assign to the list of emails that appears when you type in `!powerrangers` in Slack
 
 
 Please set your **host key** to our standard internal key. This will allow other Trussels to take over as the host of a meeting if for some reason you are unable to attend, or run into connection difficulties in the middle of a meeting.
@@ -289,7 +288,7 @@ Please set your **host key** to our standard internal key. This will allow other
 * Select **Profile** from the left navigation
 * Scroll to **Host Key** and click edit
 * Find out our number by typing `zoom host key` in Slack
-* Replace your host key with the `zoom host key` and click save.
+* Replace your host key with the zoom host key found above, and click save.
 
 :lock:[Here is a doc of the tips and tricks we’ve figured out for using Zoom as a Trussel](https://docs.google.com/document/d/1P2QzYm5v21IdrgbDjEZG2kq9E5GCu5lcSPv-2-2RxCg/edit).
 And as a reminder, you should :lock:[put your pronouns in your Zoom name](https://docs.google.com/document/d/1SpPbSjx7I7Ur9izRrLK-dGFIxYM9gYcx9sqyvLFWiBE/edit).
