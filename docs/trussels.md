@@ -162,7 +162,7 @@ You’ve been added to 9 default channels:
 * **\#love**: Share :heart: for your fellow Trussels and the things they do.
 * **[\#rage_cage](https://truss.works/blog/2017/1/13/slack-serendipity-and-the-ragecage)**: Vent frustrations IN ALL CAPS.
 * **\#rave_cave**: A place to share things that make you the happiest, which is best accomplished by screaming (IN ALL CAPS).
-* **\#truss-internal-it-support**: A channel to help you with internal IT support.  
+* **\#truss-internal-it-support**: A channel to help you with internal IT support.
 * **\#wins**: A channel where we socialize company wins
 
 You should also join any Slack channels related to projects that you’re on, and any channels for your team or discipline. You may also end up in a project-specific workspace with its own set of channels, depending on your project.
@@ -232,7 +232,7 @@ Whereas we don't use email for a lot of internal communications, it is not uncom
 > Dr. Sprout Trussel, Esq. (they/them)
 > Senior Vegetable Relations
 > https://truss.works
-> 
+>
 > **My working hours may not be your working hours. Please do not feel obligated to reply outside of your normal work schedule.**
 
 ## Practice: Security guidelines & setting up your laptop
@@ -597,7 +597,7 @@ If you want to go outside the United States, especially while on a government co
 Many of our clients specifically forbid taking a work laptop outside the U.S. This is **very important**. If you do want to go overseas and bring a Truss laptop, we will need to wipe it and install basic communication tools like G Suite and Slack, but you will not be able to connect to any client repositories, drives, or infrastructure.
 
 ## Practice: Security training
-Many of our clients require that we take security training. [Arctic Wolf](https://arcticwolf.com/) is the vendor that we use to provide these trainings. The trainings are a series of videos (3-5 minutes each) separated by periodic knowledge checks. You will receive approximately one video or knowledge check per week via email. Once you receive the email, click on the link and the video or knowledge check will start. 
+Many of our clients require that we take security training. [Arctic Wolf](https://arcticwolf.com/) is the vendor that we use to provide these trainings. The trainings are a series of videos (3-5 minutes each) separated by periodic knowledge checks. You will receive approximately one video or knowledge check per week via email. Once you receive the email, click on the link and the video or knowledge check will start.
 
 # First 3 months
 
