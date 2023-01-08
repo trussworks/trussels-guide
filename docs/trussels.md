@@ -188,8 +188,6 @@ See you soon!
 Hello, new Trussel! Welcome. We’re so glad you’re here.
 
 Your manager and your onboarding buddy should be in touch with you shortly after you join Slack. Ping @welcoming in #onboarding if you don’t hear from them.
-Steps for onboarding
-You can find stories in our :lock:[Hiring, Recruiting, and Onboarding Pivotal](https://www.pivotaltracker.com/n/projects/2188482) (our project management tool of choice) with your name on them to track your :lock:[onboarding progress](https://docs.google.com/document/d/1m1WAjktEKcesgqracZXfUa1xYbh0RQ2K8JJr2fdQqaI/edit).
 
 You may end up doing these in a different order, but this is the gist of it.
 1. Revisit some things from your pre-first-day email
@@ -326,13 +324,6 @@ Please check out this :lock:[important and mildly humorous doc about how to conf
 [Clockwise](https://www.getclockwise.com) is an optional tool we have that can help automate common calendar needs (like putting blocks on your work calendar when you have a personal item, providing team OOO calendars, and helping block out focus time). Go ahead and sign up with your TrussWorks Google account if you want; you'll automatically be added to our company subscription.
 
 The flexible meeting feature can be helpful; however, make sure you talk with the other attendees before you flag a meeting as flexible! Meetings are an agreement and agreements should be discussed first.
-
-## Tool: Pivotal Tracker (project management)
-We use Pivotal Tracker for our internal work, and for client work unless the client expects another tool.
-
-Here is :lock:[how we Pivotal](https://docs.google.com/document/d/1vvbew6VnmXN68Vv9QuY1Kt3qNRXlzgmhnH7wTiYrWj0/edit#) (and by proxy, do agile). :lock:[Here's Nick discussing the strategy of it in a talk](https://drive.google.com/file/d/1-DbKbTRMtTo3JR5W_9U_w-6afnwB3qaG/view?usp=sharing). :lock:[Mark also walked some folk through the tactics](https://zoom.us/recording/play/44q-xvhZw1uCbCaEi26wrLYGBDvcsa-NnokW55zYMG6pnIB2JHl9XkmZlNqylYdg?continueMode=true).
-
-We have a neat bot you can use in some Slack channels by typing `/pivotal [story name]; [story description]`. A story will be added to Tracker without ever having to leave Slack.
 
 ## Tool: Vanguard/Ascensus 401(k)
 Here are :lock:[directions to enroll in your Truss Vanguard 401(k) Enrollment Brochure](https://drive.google.com/file/d/1WGDpn7QJAHrp0vnaMrnnBenz3ZM0UI_O/view). It won’t find you until you are in the system — the onboarding manager will go over this with you in your meeting.
