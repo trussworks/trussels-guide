@@ -1,3 +1,5 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/trussworks/trussels-guide/main.svg)](https://results.pre-commit.ci/latest/github/trussworks/trussels-guide/main)
+
 # trussels-guide
 
 The source for [guide.truss.works](https://guide.truss.works).
