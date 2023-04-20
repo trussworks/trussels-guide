@@ -519,7 +519,7 @@ Here are a few best practices:
 See these (and more!) in the :lock:[including distributed folk doc](https://docs.google.com/document/d/1rvMuncGkYbSxEz0y5c5fBy6bgGC_Vt62QvhysCQ7Ris/edit#), or find the once monthly meeting on the Truss Company-Wide calendar.
 
 ## Practice: 36 client hour week
-To keep Truss financially viable, practitioners not on Reserve should aim to work 36 billable hours per week. The other 4 hours are for things like interviews, Prac, and Company-Wide Projects.
+The working hours expectation for all Trussels is 40 hours per week. For practitioners not on Reserve, at least 36 of those hours should be billable to a client project. The other 4 hours are for things like interviews, Prac, and Company-Wide Projects.
 
 Of course, there are weeks where reviews, hiring, or other necessary internal work takes up more than your remaining 4 hours. When this is the case, we understand that either you will have fewer client hours or you will have to work more than 40 hours a week.
 
