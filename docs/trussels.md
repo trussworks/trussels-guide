@@ -595,6 +595,8 @@ Coming to civic technology work from a product based technology company can feel
 * Cyd Harrell's [_A Civic Technologist's Practice Guide_](https://cydharrell.com/book/)
 * Marina Nitze and Nick Sinai's [_Hack Your Bureaucracy_](https://www.hackyourbureaucracy.com/)
 
+There is also an :lock:[internal guide rich with resources on consulting and civic tech](https://docs.google.com/document/d/13P9DGyrn3g4eQYNEsXbgWebMvA4Ks_VQpbXlTr6d3Kk/edit#heading=h.y5zg6fucazh2) that we currently use in the product management practice.
+
 
 # First 3 months
 
