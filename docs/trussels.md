@@ -590,6 +590,12 @@ Many of our clients specifically forbid taking a work laptop outside the U.S. Th
 ## Practice: Security training
 Many of our clients require that we take security training. [Arctic Wolf](https://arcticwolf.com/) is the vendor that we use to provide these trainings. The trainings are a series of videos (3-5 minutes each) separated by periodic knowledge checks. You will receive approximately one video or knowledge check per week via email. Once you receive the email, click on the link and the video or knowledge check will start.
 
+## Practice: Understanding Civic Tech
+Coming to civic technology work from a product based technology company can feel very different. The first aspect of the work that is different is its service-based nature, which places an even stronger emphasis on cross-team and stakeholder communication. Secondly, civic organizations approach their technology stacks, choices, procurements, and projects far differently than product companies do. The best resource to help you orient are your fellow Trussels. There's a lot of hard won experience surrounding you. For those who want to dive deeper, we also recommend a few books:
+* Cyd Harrell's [_A Civic Technologist's Practice Guide_](https://cydharrell.com/book/)
+* Marina Nitze and Nick Sinai's [_Hack Your Bureaucracy_](https://www.hackyourbureaucracy.com/)
+
+
 # First 3 months
 
 ## Resource: Decision records (TDRs)
