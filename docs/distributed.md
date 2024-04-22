@@ -359,7 +359,7 @@ Spending a little time setting up Zoom helps make a good experience for you and 
 * Check “Turn off my video when joining a meeting.” This will allow you to gather yourself before entering a meeting space, preventing potentially embarrassing moments.
 * If you use the same email account for both Zoom and Slack, you can type /zoom in Slack to generate a quick join link. This is super useful for ad hoc meetings.
 * [Add your pronouns to your Zoom handle at set up](https://support.zoom.us/hc/en-us/articles/4402698027533-Adding-and-sharing-your-pronouns). Doing this prevents confusion and normalizes inclusion.
-* [Enable captions and transcripts](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0058810#h_01HCBTD4JSM86C7YSHXGDTBPB4) by default. 
+* [Enable captions and transcripts](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0058810#h_01HCBTD4JSM86C7YSHXGDTBPB4) by default.
 
 When you're in a meeting, follow these helpful tips:
 
