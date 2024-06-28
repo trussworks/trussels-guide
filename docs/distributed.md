@@ -359,10 +359,13 @@ Spending a little time setting up Zoom helps make a good experience for you and 
 * Check “Turn off my video when joining a meeting.” This will allow you to gather yourself before entering a meeting space, preventing potentially embarrassing moments.
 * If you use the same email account for both Zoom and Slack, you can type /zoom in Slack to generate a quick join link. This is super useful for ad hoc meetings.
 * [Add your pronouns to your Zoom handle at set up](https://support.zoom.us/hc/en-us/articles/4402698027533-Adding-and-sharing-your-pronouns). Doing this prevents confusion and normalizes inclusion.
+* [Enable captions and transcripts](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0058810#h_01HCBTD4JSM86C7YSHXGDTBPB4) by default.
 
 When you're in a meeting, follow these helpful tips:
 
-* If you’d like to speak, type “hand” into the chat box. The presenter or facilitator can then walk through the hands in sequence. We’ve also found it useful to type “response”  or "re" when you want to respond directly to something that someone else has said. Typing “response” allows the facilitator or presenter to “jump the stack” and call on you to respond, thereby allowing discussion to flow. Zoom does have a “raise hand” function, but we find it difficult to see and prefer just to use the chat.
+* If you’d like to speak, use Zoom's reactions. The presenter or facilitator can then walk through the hands in sequence (the "hand stack").
+  * Use the "raise hand" reaction to queue up your question or response.
+  * Use the "slow down" reaction when you want to respond directly to something that someone else has said. Doing so allows the facilitator or presenter to “jump the stack” and call on you to respond, thereby allowing discussion to flow.
 * Use the Zoom chat feature only for on-topic discussions. Banter can be a really positive contribution to any meeting, especially presentations. It also can be exceptionally distracting. The host should decide if they want banter, and, if they do, then they should make a thread in your team chat app — not Zoom — for banter. This mulleted approach allows business upfront in Zoom, with a party in the back on Slack.
 * During introductions, icebreakers, or similar "around the room" conversations, take turns talking by choosing the next person to speak. This popcorn/beachball process prevents us talking over each other and keeps the conversation flowing.
 * Full Screen mode is nice, except that it transforms the chat box into a floating window, which always seems to be in the way. Instead of using Full Screen mode, double click the window title bar so that the window grows to fill the screen (a subtle difference, granted). This keeps the chat box as a bar on the side of the video panel, minimizing distractions.
