@@ -341,22 +341,27 @@ Want to know who you’re working with? :lock:[Here's a complete list of Trussel
 Truss has three founders:
 
 * **Everett**, our CEO. He’ll be interested in your passions and how to align them with Truss’s values, practices, and goals so we can all be stronger together.
-* **Mark**, our CTO. He’ll be interested in learning with you (especially about new tools), and why and when we adopt things.
 * **Jen**, our COO. She’ll be interested in how to further improve our team and workplace through empathy, process, and gains in productivity.
+* * **Mark**, our former CTO. [He left Truss in 2023](https://truss.works/blog/thank-you-mark).
 
 They are all great and approachable.
 
+## Group: Executive Leadership Team aka ELT
+
+ELT includes the founders and department heads:
+
+* **Hannah Kane** Head of Delivery (oversees Portfolios)
+* **Nora Alves** Head of People and Culture (P&C)
+* **Ted Russell** Head of Growth
+
 ## Group: Truss Leadership Team aka TLT
 
-The Truss leadership team includes the founding team and:
+The Truss leadership team includes the founding team, ELT, and:
 
-* **Amy Meng** Delivery Management Practice Lead.
-* **Carla Silvey** Product Management Practice Lead.
-* **Carmen Bocanegra** Research and Design Practice Lead.
-* **Elizabeth Eady** Infrastructure Engineering Practice Lead.
-* **Hannah Kane** Head of Delivery (oversees Client Success Managers and Delivery Managers)
-* **Nick Twyman** Application Engineering Practice Lead.
-* **Nora Alves** (Interim) Head of People.
+* **Carmen Bocanegra** Director, Federal Portfolios, Health & Human Services
+* **Gisele Wang** Associate Director, Controller
+* **Marline Maizonet** Senior Director, Talent Acquisition
+* **Stuart Holland** Director, Federal Portfolios, Finance & Incubator
 
 ## Resource: Working Groups and the Truss Events calendar
 Short-term projects are individual efforts or done via working groups (in Slack prepended with #wg-), and operational disciplines are done via committee or as a team. :lock:[More here on how those auxiliary groups work](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8one8z69nfc1).
