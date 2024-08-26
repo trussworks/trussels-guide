@@ -625,7 +625,7 @@ Remember in weeks one and two when we talked about helping us to hire? Review th
 ## Practice: Mentorship
 We encourage informal mentorship (and co-mentorship) at Truss. You can read :lock:[all about our approach](https://docs.google.com/document/d/1sS0ps5xVp6ClrVavKiPAfJqEKV5sq7B8I4OfIjvZsls/edit).
 
-## Practice: Truss's approach to Operations and Maintence (O&M) work on client projects
+## Practice: Truss's approach to Operations and Maintenance (O&M) work on client projects
 Truss specializes in solving complex, "intractable" problems that others have failed to solve.
 While we wouldn't typically pursue opportunities to maintain systems built by others, we do support our own products in production.
 
