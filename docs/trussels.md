@@ -625,6 +625,25 @@ Remember in weeks one and two when we talked about helping us to hire? Review th
 ## Practice: Mentorship
 We encourage informal mentorship (and co-mentorship) at Truss. You can read :lock:[all about our approach](https://docs.google.com/document/d/1sS0ps5xVp6ClrVavKiPAfJqEKV5sq7B8I4OfIjvZsls/edit).
 
+## Practice: Truss's approach to Operations and Maintence (O&M) work on client projects
+Truss specializes in solving complex, "intractable" problems that others have failed to solve.
+While we wouldn't typically pursue opportunities to maintain systems built by others, we do support our own products in production.
+
+Reasons for engaging in O&M:
+* Continuity of service
+* Valuable feedback loops
+* Strengthening client relationships
+* Identifying new opportunities
+* Meeting market demands for end-to-end services
+
+Truss's O&M approach involves:
+* Maintaining cloud infrastructure
+* Ensuring high availability
+* Monitoring and quick response to issues
+* Focus on long-term improvements
+
+O&M work demonstrates our commitment to clients and maintains trust. While solving complex problems remains the primary focus, we remain flexible to client needs, including maintenance work when necessary.
+
 ## Meeting: Offsites
 We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/folders/1HOI82j-Tb_T2YEUxCoPGv27mJnDcZyp0). You can :lock:[read the summary](https://docs.google.com/document/d/1y0NM3PFXmKJ5ECTU_ZwnVJQz_iZEde8UOV_871V2ywY/edit), :lock:[check out pictures](https://drive.google.com/drive/folders/1AGWo09plZ3RB2pKWxyNFdEBxQCCqtocq), or :lock:[read through the notes](https://drive.google.com/drive/folders/1Bsem72uMsKLAwstfbRERWNcGjinDTVGI).
 
