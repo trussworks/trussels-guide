@@ -35,10 +35,10 @@ Please take a look and let us know if you have any questions.
     * Note: The sweet spot when most Trussels’ work hours overlap is 10a-2p Pacific / 1p-5p Eastern, so we all try to be around during that time.
 * We have set up three default meetings on your first day to get you started.
     * The first thing you’ll have scheduled is an **onboarding meeting** with the onboarding manager. They’ll walk you through things like signing into accounts and signing paperwork. This is just about getting access to tools and learning where to ask questions. You’ll learn tips and tricks later.
-    * If your onboarding meeting isn’t until later in the day, and you want to say hi in the meantime, come hang out with us on Slack. Most activity in Slack happens during that sweet spot of overlapping work hours that we mentioned above.
+        * If your onboarding meeting isn’t until later in the day, and you want to say hi in the meantime, come hang out with us on Slack. Most activity in Slack happens during that sweet spot of overlapping work hours that we mentioned above.
     * You’ll meet with your **manager** to start getting to know each other better (and about context).
-    * We have [**onboarding buddies** at Truss. :lock:[Their role](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit) is to set a new hire at ease, begin a relationship, and create a go-to point of contact with someone who is not a manager.
-    * **Introduce yourself** in #general with a few sentences about who you are, where you are, and what sorts of things you’re into (doesn’t just have to be work-related!)
+    * You'll connect with an **onboard buddy** at Truss. :lock:[Their role](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit) is to set a new hire at ease, begin a relationship, and create a go-to point of contact with someone who is not a manager.
+* **Introduce yourself** in #general with a few sentences about who you are, where you are, and what sorts of things you’re into (doesn’t just have to be work-related!)
 * Once you’re done with your first-day responsibilities, your **day is done**.
 
 ### Things we're sending you
