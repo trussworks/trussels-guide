@@ -35,9 +35,9 @@ Please take a look and let us know if you have any questions.
     * Note: The sweet spot when most Trussels’ work hours overlap is 10a-2p Pacific / 1p-5p Eastern, so we all try to be around during that time.
 * We have set up three default meetings on your first day to get you started.
     * The first thing you’ll have scheduled is an **onboarding meeting** with the onboarding manager. They’ll walk you through things like signing into accounts and signing paperwork. This is just about getting access to tools and learning where to ask questions. You’ll learn tips and tricks later.
+    * If your onboarding meeting isn’t until later in the day, and you want to say hi in the meantime, come hang out with us on Slack. Most activity in Slack happens during that sweet spot of overlapping work hours that we mentioned above.
     * You’ll meet with your **manager** to start getting to know each other better (and about context).
-    * We have **onboarding buddies** at Truss. Their role is to set a new hire at ease, begin a relationship, and create a go-to point of contact with someone who is not a manager.
-* If your onboarding meeting isn’t until later in the day, and you want to say hi in the meantime, come hang out with us on Slack. Most activity in Slack happens during that sweet spot of overlapping work hours that we mentioned above.
+    * We have [**onboarding buddies** at Truss. :lock:[Their role](https://docs.google.com/document/d/1Z7MZGHl8oP_zAo54bu9uJ1Gt3D0yPoeoKTTrLbQOO4Q/edit) is to set a new hire at ease, begin a relationship, and create a go-to point of contact with someone who is not a manager.
     * **Introduce yourself** in #general with a few sentences about who you are, where you are, and what sorts of things you’re into (doesn’t just have to be work-related!)
 * Once you’re done with your first-day responsibilities, your **day is done**.
 
@@ -45,7 +45,7 @@ Please take a look and let us know if you have any questions.
 * Invitation to **Paylocity** — more on that later — arrives just after you sign
     * Information about **health insurance** (it’ll say it’s in California because that’s where Truss is registered as a business. We promise it’s ok, but please still check in if you’re worried) — probably arrives along with Paylocity
 * A **laptop** — to do your work! — arrives before your first day. You’ll run through the :lock:[securely setting up your Mac checklist](https://docs.google.com/document/d/1YSMWKzBymP591r4s4a1Ih0iI3ghoNpYSY8S_dFLqoxs/edit) during your onboarding call. This (and other) link(s) won’t work until you have your @truss.works email address set up.
-* A company **credit card** — to purchase things more easily through the company! Upon its arrival please ping #accounting for your Unique ID to activate the card — contact the onboarding manager if your card hasn’t arrived and you have need of it. It is not tied to your personal credit.
+* A company **credit card** — to purchase things more easily through the company! Upon its arrival, please :lock:[create a FreshService ticket](https://trusshelpdesk.freshservice.com/support/catalog/items/39) for your Unique ID to activate the card — contact the onboarding manager if your card hasn’t arrived and you have need of it. It is not tied to your personal credit.
     * Until your company credit card arrives, feel free to buy things with your personal card if you wish, so that you are not delayed in getting the things that make you effective from the outset. You can :lock:[reimburse these things](https://docs.google.com/document/d/111fUHlCubh2MG00JjKbWzgZ5uHdnQEPeLCcFuWl7l3g/edit#heading=h.a3hgmt3xnmb3).
 * A **T-shirt** — to show you belong! — arrives a week or four after joining.
 * A **sticker** — to stick to things! — arrives a week or four after joining.
