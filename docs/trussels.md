@@ -125,20 +125,20 @@ Here are some helpful notes:
 * We don’t use email that heavily, so meetings can appear on calendars without much warning. It’s helpful to have your calendar open and readily available, and [follow these guidelines around calendaring](https://docs.google.com/document/d/1C_Y7AF9phESfdiNORmFL1ABhnkaDon7A3xHNl_0NpKE/edit#).
 * You should add personal events to your calendar that you do not want scheduled over. You don't have to include the specifics but you should block off the time. These can include routine events (lunch, working hours) or one-offs (doctor’s appointments, picking up a kid, special events).
 * We encourage you to add some focus time to your calendar at least weekly to give yourself unbroken time to concentrate on work. Some teams schedule work time together so they always know people on their teams are available at the same time.
-* We involve everyone at every level in our hiring process. After two weeks as a Trussel, you may see appointments on your calendar to review resumes or conduct interviews. There are :lock:[resources](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) to help you understand the process. Ping #hiring if you have a conflict you cannot avoid.
+* We involve everyone at every level in our hiring process. After two weeks as a Trussel, you may see appointments on your calendar to review resumes or conduct interviews. There are :lock:[resources](https://docs.google.com/document/d/130kmAuEio_RCw9mR-PsGJVgpzaQkUGprtb-T1bwLync/edit) to help you understand the process. Ping #hiring if you have a conflict you cannot avoid.
 
 At some point during your first week, please take 15-20 minutes to walk through :lock:[How to Calendar Like a Trussel](https://docs.google.com/document/d/1C_Y7AF9phESfdiNORmFL1ABhnkaDon7A3xHNl_0NpKE/edit#). Follow those instructions to get your permissions and working hours set up.
 
 ### Practice: Equipment and setting up your workspace
 Wherever you work, we want you to be set up for comfort and success.
 
-For all employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/17fabSPNEgDAYLLLfqCQhv--2dV3jBSwdE2CSwVHjXys/edit) and a $350 budget for headphones.
+For all employees, Truss has :lock:[a $1,000 office budget](https://docs.google.com/document/d/17fabSPNEgDAYLLLfqCQhv--2dV3jBSwdE2CSwVHjXys/edit) and a :lock:[$350 budget for headphones](https://docs.google.com/document/d/1bM5D2QPEd9Y3egm90FiVMYlNXiZnCmq2cql3MVSqHNY/edit).
 
 Equipment can include:
 
 * **Peripherals** (mouse, keyboard, monitor). Ask in #equipment-discussion for recommendations.
 * **Charger**. Getting an extra one so you can keep one in your regular office and have one on the go is super great.
-* **Headphones**. Whether you’re in an open office, a coffee shop, or even a noisy house, a lot of calls happen in the same space. In response, we recommend getting some form of noise-cancelling headphones. Follow :lock:[this decision record](https://docs.google.com/document/d/1bM5D2QPEd9Y3egm90FiVMYlNXiZnCmq2cql3MVSqHNY/edit).
+* **Headphones**. Whether you’re in an open office, a coffee shop, or even a noisy house, a lot of calls happen in the same space. In response, we recommend getting some form of noise-cancelling headphones.
 
 \#equipment-discussion is a great place for questions and equipment reviews.
 
@@ -342,25 +342,18 @@ Truss has three founders:
 
 * **Everett**, our CEO. He’ll be interested in your passions and how to align them with Truss’s values, practices, and goals so we can all be stronger together.
 * **Jen**, our COO. She’ll be interested in how to further improve our team and workplace through empathy, process, and gains in productivity.
-* * **Mark**, our former CTO. [He left Truss in 2023](https://truss.works/blog/thank-you-mark).
+* **Mark**, our former CTO. [He left Truss in 2023](https://truss.works/blog/thank-you-mark).
 
 They are all great and approachable.
 
-## Group: Executive Leadership Team aka ELT
-
-ELT includes the founders and department heads:
-
-* **Hannah Kane** Head of Delivery (oversees Portfolios)
-* **Nora Alves** Head of People and Culture (P&C)
-* **Ted Russell** Head of Growth
-
 ## Group: Truss Leadership Team aka TLT
 
-The Truss leadership team includes the founding team, ELT, and:
+The Truss leadership team includes the founders and:
 
 * **Carmen Bocanegra** Director, Federal Portfolios, Health & Human Services
 * **Gisele Wang** Associate Director, Controller
 * **Marline Maizonet** Senior Director, Talent Acquisition
+* **Nora Alves** Head of People and Culture (P&C)
 * **Stuart Holland** Director, Federal Portfolios, Finance & Incubator
 
 ## Resource: Working Groups and the Truss Events calendar
