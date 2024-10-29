@@ -246,6 +246,9 @@ If you already use 1Password, spend a few minutes reading their documentation on
 ### Security Tool: Kandji (device management)
 Truss maintains our devices via a tool called Kandji. This means if we need to give device images to a client, or if we lose a laptop or a password, we’ll be able to respond. Please think about how you use your work laptop in light of others potentially seeing what on a personal laptop would be private.
 
+### Security Tool: Bitdefender
+Truss prevents, detects, and responds to threats and malware on our computers by utilizing a cybersecurity software called Bitdefender. Bitdefender is mandatory on all Trussel computers. You can initiate scans at will by selecting the Bitdefender icon in the top menu bar of your operating system.
+
 ### Security Tool: Backblaze (backup)
 We use Backblaze to back up our computers. It runs in the background and incrementally backs up files to cloud storage. Installation is currently manual — consult the :lock:[Backblaze 101](https://docs.google.com/document/d/1k6FDXAJJ-ii6ez_6PIg10_HJJxnggvh895yLm9ZsOX0/edit).
 
