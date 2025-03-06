@@ -99,11 +99,7 @@ Here are some things you might expect to work differently from other places:
 ## Practice: Diversity, Equity, & Inclusion
 Diversity, Equity, & Inclusion are in the DNA of Truss. We :lock:[approach D&I strategically](https://docs.google.com/document/d/1ZtFNX-YzncPA9e9bysXAnKyYtMsMoIRSdXLR90ikKus/edit). While we can never be free of bias, we :lock:[work to diminish our biases](https://docs.google.com/document/d/1drjIPbGJww7a3rG0nU7aqx16MLwl25dvsJPg7FFhsEI/edit). We encourage continual self-reflection and practice.
 
-Together, we increase a sense of safety by knowing fellow Trussels are working to diminish their biases, too. We represent this in our [Diversity and Inclusion Pledge](https://truss.works/diversity-and-inclusion-pledge).
-
 We also take steps to broaden and question the ways we include people. We have our foundations in a project with Project Include (see :lock:[our documentation](https://drive.google.com/drive/folders/1Oem8nOAdU_uIGzOfz0kPfb7VxXLcV3lO)). We prioritize attending events that serve underrepresented demographics. We have ongoing open and honest conversation in #inclusion. The D&I committee has regular discussion and working sessions.
-
-One way we practice inclusion: :lock:[sharing our pronouns in our Slack and Zoom display names](https://docs.google.com/document/d/1SpPbSjx7I7Ur9izRrLK-dGFIxYM9gYcx9sqyvLFWiBE/edit?usp=sharing). Be sure to include yours when you set up Slack and Zoom.
 
 ## Practice: :lock:[Insider Language](https://docs.google.com/document/d/1sLtcmu2120Z4vWXuv13A8ZGZ9KEyP6HrgtVsRDcJlkM/edit)
 We use a handy slackbot called `/define`. You can use it to search for unfamiliar terms, acronyms, or even emojis. You can use Define in any Slack channel, but if you want to test it out, type `/define` in a DM to yourself or to Slackbot and it will pull up a list of instructions for using the bot. If a term isn’t in `/define`, please ask someone to define it — and consider adding it once you know.
