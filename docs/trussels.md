@@ -30,7 +30,7 @@ We’ve written this to help give you a sense of what you’re getting yourself 
 Please take a look and let us know if you have any questions.
 
 ## What to expect on your first day
-* You should have received your Truss-supplied **laptop**. If you haven’t, respond to this email to let us know and we’ll work around it.
+* You should have received your Truss-supplied **laptop**. If you haven’t, let us know and we’ll work around it.
 * **Work your time zone**. This may change once you’re on a project, but in general, be around during what you consider working hours. Many Trussels work 9a-5p in their local time, but you do you.
     * Note: The sweet spot when most Trussels’ work hours overlap is 10a-2p Pacific / 1p-5p Eastern, so we all try to be around during that time.
 * We have set up three default meetings on your first day to get you started.
