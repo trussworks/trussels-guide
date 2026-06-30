@@ -9,13 +9,13 @@ nav_order: 3
 # Truss Distributed Playbook
 {: .no_toc }
 
-COVID-19 is forcing tough choices about remote work. Even worse, these decisions are necessary, broadly impactful, and urgent. We appreciate everyone who is confronting this new reality, making courageous decisions without the benefit of experience or practice. We at Truss have both from eight years of working as a distributed office, and we want to share what we’ve learned in case it might help you through this transition.
+Truss embraced distributed work before COVID made it cool, and we want to share what we’ve learned in case it might help you.
 
 Truss didn’t initially envision itself as a fully remote company. The decision was prompted by unforeseen circumstances at the time the company was founded. In 2012, Everett Harper and Mark Ferlatte recruited Truss’ third co-founder, Jennifer Leech. The trio was looking forward to launching Truss’ first product, but there was one catch: Jennifer had to be out of the country for 18 months, traveling across 20 countries. The founders wondered if Truss could make this situation work.
 
-We did, and we continue to make it work every day. Eight years later, Truss is a fully distributed company with nearly 100 employees working in more than 20 states. Deciding to be a distributed company continues to be one of our best business decisions. It has imposed unique challenges through every phase of growth, but we’ve evolved and iterated through many types of software infrastructure, communication platforms, video products, meeting protocols, and (notably) cultural norms to enable us to scale our company.
+We did, and we continue to make it work every day. Today, Truss is a fully distributed company with employees working in more than 20 states. Deciding to be a distributed company continues to be one of our best business decisions. It has imposed unique challenges through every phase of growth, but we’ve evolved and iterated through many types of software infrastructure, communication platforms, video products, meeting protocols, and (notably) cultural norms to enable us to scale our company.
 
-This playbook shares what we’ve learned about distributed work, and we hope it will help you make the best possible decisions for your organization during this difficult time. Not only can these practices support your employees to do their best work, but they may even help you interact more successfully with your clients and vendors as a distributed team. We are mindful that this is a stressful time for all, and we humbly offer this guide to help you navigate these tricky waters — and perhaps emerge a stronger, more resilient company.
+This playbook shares what we’ve learned about distributed work, and we hope it will help you make the best possible decisions for your organization. Not only can these practices support your employees to do their best work, but they may even help you interact more successfully with your clients and vendors as a distributed team. We humbly offer this guide to help you navigate these tricky waters — and perhaps emerge a stronger, more resilient company.
 
 <details open markdown="block">
   <summary>
@@ -31,11 +31,11 @@ This playbook shares what we’ve learned about distributed work, and we hope it
 
 ## Infrastructure first
 
-“Infrastructure first” is an unofficial Truss motto. To function successfully in a distributed setting, each team needs to have alignment around expectations, communications, and tools. These are the three building blocks of remote collaboration. Unfortunately, due to COVID-19, many of you will be building this infrastructure on the fly. This is sub-optimal, but we’re hoping that you can gain inspiration from the groundwork we’ve done, adapting our practices and tools to suit your organization’s needs.
+“Infrastructure first” is an unofficial Truss motto. To function successfully in a distributed setting, each team needs to have alignment around expectations, communications, and tools. These are the three building blocks of remote collaboration. We’re hoping that you can gain inspiration from the groundwork we’ve done, adapting our practices and tools to suit your organization’s needs.
 
 ## Tools last
 
-Without establishing shared expectations and a coherent communication frameworks, your tools will be instruments of chaos. What tooling you use doesn’t matter as much as establishing clear expectations and methods of communication. We strongly encourage you to define your expectations and communication strategy before you concern yourself with tooling. We also want to acknowledge that many tools exist for any particular use case. For example, for video conferencing, you could choose to use Skype, Google Hangouts, Zoom, or any of their numerous competitors. Which tool you choose is less important than clarity on what you are trying to achieve and how team members should use the tool.
+Without establishing shared expectations and a coherent communication frameworks, your tools will be instruments of chaos. What tooling you use doesn’t matter as much as establishing clear expectations and methods of communication. We strongly encourage you to define your expectations and communication strategy before you concern yourself with tooling. We also want to acknowledge that many tools exist for any particular use case. For example, for video conferencing, you could choose to use Teams, Google Hangouts, Zoom, or any of their numerous competitors. Which tool you choose is less important than clarity on what you are trying to achieve and how team members should use the tool.
 
 # Expectations
 
@@ -73,7 +73,7 @@ Lastly, just to make sure that no one takes an unreasonable interpretation of �
 
 ### It is worth it
 
-Although spending $1,350 on each employee initially, plus whatever you designate as an employee effectiveness budget, may seem like a lot, it is worth it. Truss has effectively no rent for a company of 100 people, which saves us well over a million dollars each year in rent.
+Although spending $1,350 on each employee initially, plus whatever you designate as an employee effectiveness budget, may seem like a lot, it is worth it. Truss has effectively no rent, which saves us well over a million dollars each year.
 
 Moreover, following a distributed model means that Truss can hire anyone, anywhere, so long as they have a strong internet connection. This has provided a key recruiting advantage, as many Trussels could not work for us if we required them to be physically present in our San Francisco office (or any other office). The bottom line is better employees for less money —  not too shabby.
 
@@ -82,8 +82,6 @@ Moreover, following a distributed model means that Truss can hire anyone, anywhe
 One of the biggest apprehensions we’ve heard from clients and other companies is around shifting the patterns of office work to a home environment. Healthy work habits are hard to manage when everyone is at the same location. By this logic, it seems that promoting healthy work habits across a distributed team must be even more difficult. This simply isn’t true, although cultivating healthy habits outside of a physical office requires forethought and deliberateness. Here are some principles that have worked for us.
 
 ### Sick leave
-
-As of the writing of this playbook, COVID-19 is expected to get worse before it gets better. Based on the research we’ve done, a person infected with COVID-19 may need between two and four weeks to recover. For this reason, your sick leave policy may be one of the first things your leadership team should check and evaluate.
 
 Truss’ approach to sick leave is simple: We want you to be healthy, stay healthy, and keep your family and colleagues healthy. Let your team know, stay home, rest, see your doctors when it’s needed. We have your back. This is not just Truss’s approach to COVID-19, but rather has been our stance on sick leave since our first employees joined the team.
 
@@ -119,9 +117,9 @@ As a policy, Truss keeps a sustainable pace of work. We want our employees to ma
 
 ## Staying connected
 
-We’re all still humans, even if we mostly only see each other in video chat. One concern of distributed teams is how to build connection and understanding when employees don’t bump into each other in the hallway or by the proverbial water cooler.
+We’re all still humans, even if we mostly only see each other in video chat. One concern of distributed teams is how to build connections and understanding when employees don’t bump into each other in the hallway or by the proverbial water cooler.
 
-This concern is particularly salient when your employees — who may not have experience with remote work — are suddenly required to work from home because of COVID-19. We’ve found that the following practices help people stay connected, reduce isolation, and lift the energy of your team so they can keep doing great work.
+This concern is particularly salient when your employees may not have experience with remote work. We’ve found that the following practices help people stay connected, reduce isolation, and lift the energy of your team so they can keep doing great work.
 
 ### Being Humans Together (BHT)
 
