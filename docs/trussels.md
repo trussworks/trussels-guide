@@ -390,12 +390,6 @@ OTT spots are taken up on a first-come-first-served basis — just claim the eve
 
 Can be found on the Truss Events calendar.
 
-## Meeting: Ask Me Anything (AMA)
-Hosted every other Friday at 9a Pacific / 12p Eastern by a member of the leadership team.  Got a question, get an answer, really...ask them anything!
-
-Can be found on the Truss Events calendar.
-
-
 ## Tool: Harvest (timekeeping)
 We keep track of our time using a tool called Harvest. It can be used as a web interface, desktop application, and on mobile (or any combination of these). Please take a look at our :lock:[internal guide about how to use Harvest](https://docs.google.com/document/d/1M4C8rAKHCJ9X4mNbEhVhR7vgp6f_8LFTmB7Stewr0XY/edit#). Ideally you should log your time daily, before you finish working for the day. It is important, especially for our internal accounting team, to have timely and accurate submission of your hours every week.
 
@@ -438,7 +432,7 @@ We tend to use one GitHub account with multiple client organizations (and GitHub
 You'll be invited to our Dockerhub org via your docker ID. In slack ping `@docker-hub-owners` to get yourself added. If you do not have an account you can follow :lock:[Create a Dockerhub account](https://docs.google.com/document/d/1LV4hnsOkxvr9UNbVD6bNiZaYJ5-bwJor-KKzJeTpdtM/edit?usp=sharing) as with Github you may not need to be in Dockerhub much or at all. Ask in #truss-internal-it-support for more information or assistance.
 
 ## Resource: Client projects
-What projects is Truss working on? You can check out most recent :lock:[Project/Client Health Dashboard](https://docs.google.com/spreadsheets/d/1A-i48dfUrtt8cIyvZ-q4yLbIfq1dYM1tTNbxMeEqEnM/edit#gid=0) for a list of projects and current status.
+What projects is Truss working on?
 
 * Your project will typically have an onboarding doc specific to the project you’ll be working on.
 * Take a look at the :lock:[Truss Clients Folder](https://drive.google.com/drive/folders/1_v3nrWMfmQU4Jw3TswhUptYVwqmA7pu8) to find more documentation — especially important if you are in bizops or are a client or team lead.
@@ -464,10 +458,10 @@ Only use the alternative one when necessary.
 
 If you want to send emails from your @teamtrussworks.com email, follow [these Google directions on sending email from a different address](https://support.google.com/mail/answer/22370?hl=en).
 
-### Hiring Tool: Lever (hiring support)
+## Hiring Tool: Lever (hiring support)
 To manage applicants and our hiring pipeline, we use a tool called Lever.
 
-Our :lock:[hiring handbook](https://docs.google.com/document/d/1IRxMLxoRuJ9Kja-d8V-S2OThbTUC-6F0Wj0JRLL4-d0/edit#) has many details about how to use it. If the candidate is senior and needs to be expedited, :lock:[here](https://docs.google.com/document/d/1X95zJEuDS2jIcEayUAqG3rcR4MTG_CC6Vzwj41oB-x8/edit#)’s the doc on that. Post in #hiring if you have any questions.
+Our :lock:[hiring handbook](https://docs.google.com/document/d/130kmAuEio_RCw9mR-PsGJVgpzaQkUGprtb-T1bwLync/edit) has many details about how to use it. If the candidate is senior and needs to be expedited, :lock:[here](https://docs.google.com/document/d/1X95zJEuDS2jIcEayUAqG3rcR4MTG_CC6Vzwj41oB-x8/edit#)’s the doc on that. Post in #hiring if you have any questions.
 
 ## Practice: Staff resumes
 Please upload your resume to our :lock:[staff resume folder](https://drive.google.com/drive/u/0/folders/1IUeONKgIA2FEDWDqfS-8KkPVKC-HTiFh) on Google Drive. This helps us prepare to get clearance for folk on some projects, and to bid on proposals, and to not have to scramble for either or be left in the cold if someone is taking a much-needed vacation. You can always update it later.
@@ -550,7 +544,7 @@ Please fill out the :lock:[onboarding survey](https://docs.google.com/forms/d/e/
 ## Practice: Helping us hire
 When we hire, we want to be sure we maintain our values and expand our diversity. To do this, we distribute the hiring load across all Trussels, in part to gauge how an applicant responds to our demographic makeup.
 
-* We have :lock:[a hiring handbook](https://docs.google.com/document/d/1kdzrGO-qbjGUWbMCZ79oKMoQr1l2GrTyHqT81i3o51g/edit#heading=h.li598ryqkiqu) to guide you through the process.
+* We have :lock:[a hiring handbook](https://docs.google.com/document/d/130kmAuEio_RCw9mR-PsGJVgpzaQkUGprtb-T1bwLync/edit) to guide you through the process.
 
 Ask in #hiring for support or pairing if you want! Screening and interviewing folk can take up to 3 hours a week, but ideally less than that. Please raise a flag if you’re approaching that threshold or are otherwise feeling distress.
 
@@ -565,7 +559,7 @@ Once a quarter, the Truss Leadership Team (TLT) presents an update on the compan
 ## Practice: Reviews
 We do :lock:[peer feedback, manager alignment, and comp review](https://docs.google.com/document/d/1HRgqYDq8EA6g3AsyGrWMYZrCPEKPyHQpRtc5bet_beI/edit#) on a rolling quarterly basis. This will be announced repeatedly in Prac and in #announcements.
 
-### Tool: Retrium (retro support)
+## Tool: Retrium (retro support)
 Retrium is a retro-specific tool that we’ve found useful. Set up an account at https://app.retrium.com/signup with your @truss.works email, then please ask in #truss-internal-it-support to be added to the list of approved users. :lock: [Every project can get its own Retrium room if desired](https://docs.google.com/document/d/1LkvjZzXwARiJIINiUR_h-8PTyx_c3K0GlvaG2zgfiME/edit).
 
 ## Practice: Employee effectiveness
@@ -644,10 +638,8 @@ We had a super rad :lock:[offsite in April 2019](https://drive.google.com/drive/
 ## Resource: Conferences
 See our guide to :lock:[conferences and professional development](https://docs.google.com/document/d/1W9RZ1Ywv9J_SMzuwH0UTsn0LvYHRDcjFQwIzA4J_YRo/edit).
 
-## Resource: Public relations
-We work with a PR firm called Press Friendly. Their primary job is to align with our business strategy, create a 12-month PR narrative, place articles in publications and conferences ([partial list is here](https://truss.works/press-resources)), and conduct practitioner interviews to get expert opinions, stories, and data.
-
-While we don’t require sharing and spreading our content, it does make an enormous difference. We have attracted candidates as well as prospects (on vacation in Italy!) because they read an article that a Trussel shared. We will share when articles are released in the #marketing channel at minimum.
+## Practice: Public relations
+While we don’t require sharing and spreading our content, it does make an enormous difference. We have attracted candidates as well as prospects (on vacation in Italy!) because they read an article that a Trussel shared. We will share when articles are released in the #marketing channel at minimum, and some [press coverage](https://truss.works/press-resources) may be added to our site.
 
 ### Practice: Writing for the blog
 If there’s something you’re particularly excited about, we’d love to help you blog about it for the Truss blog. Please take a look in our :lock:[how-to that Kaleigh wrote](https://docs.google.com/document/d/10kNaMM5ged0D6da5XwtxAMzstbH05I6KnAcjHtIhJ8Q/edit).
